@@ -36,7 +36,6 @@ def MedicationRequest():
 def Claim(data):
     print(data['resource']['id'])
     print(data['resource']['status'])
-    
 
 def Observation(data):
         print(data['resource']['id'])
