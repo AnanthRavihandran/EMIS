@@ -2,18 +2,142 @@ import pandas as pd
 import json
 import os
 import sys
-def Procedure():
-    pass
-def Medication():
-    pass
-def DiagnosticReport():
-    pass
-def ExplanationOfBenefit():
-    pass
-def SupplyDelivery():
-    pass
+def Procedure(data):
+    print(data['id'])
+    print(data['code']['coding'][0]['code'])
+    print(data['code']['coding'][0]['display'])
+    print(data['status'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['performedPeriod']['start'])
+    print(data['performedPeriod']['end'])
+    print(data['location']['display'])
+
+def Medication(data):
+    print(data['id'])
+    print(data['code']['coding'][0]['code'])
+    print(data['code']['coding'][0]['display'])
+    print(data['status'])
+def DiagnosticReport(data):
+    print(data['id'])
+    print(data['status'])
+    print(data['category'][0]['coding'][0]['code'])
+    print(data['category'][0]['coding'][0]['display'])
+    print(data['code']['coding'][0]['code'])
+    print(data['code']['coding'][0]['display'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['effectiveDateTime'])
+    print(data['issued'])
+    print(data['performer'][0]['display'])
+    if 'result' in data:
+        print(data['result'][0]['reference'])
+        print(data['result'][0]['display'])
+
+def ExplanationOfBenefit(data):
+    print(data['id'])
+    for contained in data['contained']:
+        if contained['resourceType'] == "ServiceRequest":
+            print(contained['resourceType'])
+            print(contained['id'])
+            print(contained['status'])
+            print(contained['intent'])
+            print(contained['subject']['reference'])
+            print(contained['requester']['reference'])
+            print(contained['performer'][0]['reference'])
+        else:
+            print(contained['resourceType'])
+            print(contained['id'])
+            print(contained['status'])
+            print(contained['type']['text'])
+            print(contained['beneficiary']['reference'])
+            print(contained['payor'][0]['display'])
+    for identifier in data['identifier']:
+        print(identifier['value'])
+    print(data['status'])
+    print(data['type']['coding'][0]['code'])
+    print(data['use'])
+    print(data['patient']['reference'])
+    print(data['billablePeriod']['start'])
+    print(data['billablePeriod']['end'])
+    print(data['created'])
+    print(data['insurer']['display'])
+    print(data['provider']['reference'])
+    print(data['referral']['reference'])
+    print(data['facility']['display'])
+    print(data['claim']['reference'])
+    print(data['outcome'])
+    for careteam in data['careTeam']:
+        print(careteam['sequence'])
+        print(careteam['provider']['reference'])
+        print(careteam['role']['coding'][0]['display'])
+    print(data['insurance'][0]['focal'])
+    print(data['insurance'][0]['coverage']['display'])
+    for item in data['item']:
+        print(item['sequence'])
+        print(item['category']['coding'][0]['code'])
+        print(item['category']['coding'][0]['display'])
+        print(item['productOrService']['coding'][0]['code'])
+        print(item['productOrService']['coding'][0]['display'])
+        print(item['servicedPeriod']['start'])
+        print(item['servicedPeriod']['end'])
+        print(item['locationCodeableConcept']['coding'][0]['code'])
+        print(item['locationCodeableConcept']['coding'][0]['display'])
+        if 'encounter' in item:
+            print("encounter section")
+            print(item['encounter'][0]['reference'])
+        if 'net' in item:
+            print("Net section")
+            print(item['net']['value'])
+            print(item['net']['currency'])
+        if 'adjudication'in item:
+            for adjudication in item['adjudication']:
+                print("adjudication section")
+                print(adjudication['category']['coding'][0]['display'])
+                if 'amount' in adjudication:
+                    print("price:"+str(adjudication['amount']['value']))
+                    print(adjudication['amount']['currency'])
+
+def SupplyDelivery(data):
+    print(data['id'])
+    print(data['status'])
+    print(data['patient']['reference'])
+    for type in data['type']['coding']:
+        print(type['display'])
+    print(data['suppliedItem']['quantity']['value'])
+    if 'itemCodeableConcept' in data:
+        for itemcodeableconcept in data['itemCodeableConcept']['coding']:
+            print(itemcodeableconcept['code'])
+            print(itemcodeableconcept['display'])
+    print(data['occurrenceDateTime'])
+
 def DocumentReference(data):
-    print(data)
+    print(data['id'])
+    for identifier in data['identifier']:
+        print(identifier['system'])
+        print(identifier['value'])
+    print(data['status'])
+    for type in data['type']['coding']:
+        print(type['code'])
+        print(type['display'])
+    for category in data['category'][0]['coding']:
+        print(category['code'])
+        print(category['display'])
+    print(data['subject']['reference'])
+    print(data['date'])
+    for author in data['author']:
+        print(author['display'])
+    print(data['custodian']['display'])
+    for content in data['content']:
+        print(content['attachment']['contentType'])
+        print(content['attachment']['data'])
+        print(content['format']['code'])
+        print(content['format']['display'])
+    print(data['context']['encounter'][0]['reference'])
+    if 'period' in data:
+        print(data['period']['start'])
+        print(data['period']['end'])
+
 def Provenance(data):
     print(data['id'])
     for target in data['target']:
@@ -114,7 +238,7 @@ def Condition(data):
     print(data['resource']['encounter']['reference'])
     print(data['resource']['onsetDateTime'])
     if 'abatementDateTime' in data['resource']:
-        print(print(data['resource']['abatementDateTime']))
+        print(data['resource']['abatementDateTime'])
     print(data['resource']['recordedDate'])
 
 def MedicationRequest(data):
@@ -147,8 +271,41 @@ def MedicationRequest(data):
                     print(doseandrate['doseQuantity']['value'])
 
 def Claim(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
+    print(data['id'])
+    print(data['status'])
+    print(data['type']['coding'][0]['code'])
+    print(data['use'])
+    print(data['patient']['reference'])
+    if 'display' in data['patient']:
+        print(data['patient']['display'])
+    print(data['billablePeriod']['start'])
+    print(data['billablePeriod']['end'])
+    print(data['created'])
+    print(data['provider']['display'])
+    print(data['priority']['coding'][0]['code'])
+    if 'facility' in data:
+        print(data['facility']['display'])
+    if 'procedure' in data:
+        for procedure in data['procedure']:
+            print(procedure['sequence'])
+            print(procedure['procedureReference']['reference'])
+        print(data['insurance'][0]['sequence'])
+        print(data['insurance'][0]['focal'])
+        print(data['insurance'][0]['coverage']['display'])
+    for item in data['item']:
+        print(item['sequence'])
+        if 'procedureSequence' in item:
+            print(item['procedureSequence'][0])
+        print(item['productOrService']['coding'][0]['code'])
+        print(item['productOrService']['coding'][0]['display'])
+        if 'encounter' in item:
+            print(item['encounter'][0]['reference'])
+        if 'net' in item:
+            print(item['net']['value'])
+            print(item['net']['currency'])
+
+    print(data['total']['value'])
+    print(data['total']['currency'])
 
 def Observation(data):
         print(data['resource']['id'])
@@ -303,8 +460,7 @@ def read_json_data(files,dir_location):
                 pass
                 #Observation(data)
             elif data['resource']['resourceType'] == 'Claim':
-                pass
-                #Claim(data)
+                Claim(data['resource'])
             elif data['resource']['resourceType'] == 'MedicationRequest':
                 pass
                 #MedicationRequest(data)
@@ -327,8 +483,23 @@ def read_json_data(files,dir_location):
                 #Provenance(data['resource'])
                 pass
             elif data['resource']['resourceType'] == 'DocumentReference':
-                DocumentReference(data['resource'])
-
+                pass
+                #DocumentReference(data['resource'])
+            elif data['resource']['resourceType'] == 'SupplyDelivery':
+                pass
+                #SupplyDelivery(data['resource'])
+            elif data['resource']['resourceType'] == 'ExplanationOfBenefit':
+                pass
+                #ExplanationOfBenefit(data['resource'])
+            elif data['resource']['resourceType'] == 'DiagnosticReport':
+                pass
+                #DiagnosticReport(data['resource'])
+            elif data['resource']['resourceType'] == 'Medication':
+                pass
+                #Medication(data['resource'])
+            elif data['resource']['resourceType'] == 'Procedure':
+                pass
+                #Procedure(data['resource'])
 
 
         f.close()
