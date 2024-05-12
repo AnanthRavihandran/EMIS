@@ -2,22 +2,16 @@ import pandas as pd
 import json
 import os
 import sys
+import configparser
+import ast
+
+
 def Procedure(data):
-    print(data['id'])
-    print(data['code']['coding'][0]['code'])
-    print(data['code']['coding'][0]['display'])
-    print(data['status'])
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['performedPeriod']['start'])
-    print(data['performedPeriod']['end'])
-    print(data['location']['display'])
+    procedure_df.loc[len(procedure_df.index)] = [data['id'], data['status'], str(data['code']['coding'][0]['code'])+"-"+str(data['code']['coding'][0]['display']), data['subject']['reference'], data['encounter']['reference'], data['performedPeriod']['start'], data['performedPeriod']['end'], data['location']['display']]
 
 def Medication(data):
-    print(data['id'])
-    print(data['code']['coding'][0]['code'])
-    print(data['code']['coding'][0]['display'])
-    print(data['status'])
+    medication_df.loc[len(medication_df.index)] = [data['id'], data['code']['coding'][0]['code'], data['code']['coding'][0]['display'], data['status']]
+
 def DiagnosticReport(data):
     print(data['id'])
     print(data['status'])
@@ -149,39 +143,39 @@ def Provenance(data):
         print(agent['onBehalfOf']['display'])
 
 def CareTeam(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['period']['start'])
-    if 'end' in data['resource']:
-        print(data['resource']['period']['end'])
-    for participant in data['resource']['participant']:
+    print(data['id'])
+    print(data['status'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['period']['start'])
+    if 'end' in data:
+        print(data['period']['end'])
+    for participant in data['participant']:
         print(participant['role'][0]['coding'][0]['code'])
         print(participant['role'][0]['coding'][0]['display'])
         print(participant['member']['display'])
-    if 'reasonCode' in  data['resource']:
-        for reasoncode in data['resource']['reasonCode']:
+    if 'reasonCode' in  data:
+        for reasoncode in data['reasonCode']:
             print(reasoncode['coding'][0]['code'])
             print(reasoncode['coding'][0]['display'])
-    print(data['resource']['managingOrganization'][0]['display'])
+    print(data['managingOrganization'][0]['display'])
 
 
 def ImagingStudy(data):
-    print(data['resource']['id'])
-    print(data['resource']['identifier'][0]['system'])
-    print(data['resource']['identifier'][0]['value'])
-    print(data['resource']['status'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['started'])
-    print(data['resource']['numberOfSeries'])
-    print(data['resource']['numberOfInstances'])
-    print(data['resource']['procedureCode'][0]['coding'][0]['code'])
-    print(data['resource']['procedureCode'][0]['coding'][0]['display'])
-    print(data['resource']['location']['display'])
-    print(data['resource']['series'][0]['uid'])
-    for series in data['resource']['series']:
+    print(data['id'])
+    print(data['identifier'][0]['system'])
+    print(data['identifier'][0]['value'])
+    print(data['status'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['started'])
+    print(data['numberOfSeries'])
+    print(data['numberOfInstances'])
+    print(data['procedureCode'][0]['coding'][0]['code'])
+    print(data['procedureCode'][0]['coding'][0]['display'])
+    print(data['location']['display'])
+    print(data['series'][0]['uid'])
+    for series in data['series']:
         print(series['uid'])
         print(series['number'])
         print(series['modality']['code'])
@@ -197,66 +191,66 @@ def ImagingStudy(data):
 
 
 def AllergyIntolerance(data):
-    print(data['resource']['id'])
-    print(data['resource']['clinicalStatus']['coding'][0]['code'])
-    print(data['resource']['verificationStatus']['coding'][0]['code'])
-    print(data['resource']['type'])
-    print(data['resource']['category'][0])
-    print(data['resource']['criticality'])
-    print(data['resource']['code']['coding'][0]['code'])
-    print(data['resource']['code']['coding'][0]['display'])
-    print(data['resource']['patient']['reference'])
-    print(data['resource']['recordedDate'])
+    print(data['id'])
+    print(data['clinicalStatus']['coding'][0]['code'])
+    print(data['verificationStatus']['coding'][0]['code'])
+    print(data['type'])
+    print(data['category'][0])
+    print(data['criticality'])
+    print(data['code']['coding'][0]['code'])
+    print(data['code']['coding'][0]['display'])
+    print(data['patient']['reference'])
+    print(data['recordedDate'])
 
 def Encounter(data):
-    print(data['resource']['id'])
-    print(data['resource']['identifier'][0]['value'])
-    print(data['resource']['status'])
-    print(data['resource']['class']['code'])
-    print(data['resource']['type'][0]['coding'][0]['code'])
-    print(data['resource']['type'][0]['coding'][0]['display'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['subject']['display'])
-    print(data['resource']['participant'][0]['type'][0]['coding'][0]['code'])
-    print(data['resource']['participant'][0]['type'][0]['coding'][0]['display'])
-    print(data['resource']['participant'][0]['period']['start'])
-    print(data['resource']['participant'][0]['period']['end'])
-    print(data['resource']['participant'][0]['individual']['display'])
-    print(data['resource']['participant'][0]['period']['start'])
-    print(data['resource']['participant'][0]['period']['end'])
-    print(data['resource']['location'][0]['location']['display'])
-    print(data['resource']['serviceProvider']['display'])
+    print(data['id'])
+    print(data['identifier'][0]['value'])
+    print(data['status'])
+    print(data['class']['code'])
+    print(data['type'][0]['coding'][0]['code'])
+    print(data['type'][0]['coding'][0]['display'])
+    print(data['subject']['reference'])
+    print(data['subject']['display'])
+    print(data['participant'][0]['type'][0]['coding'][0]['code'])
+    print(data['participant'][0]['type'][0]['coding'][0]['display'])
+    print(data['participant'][0]['period']['start'])
+    print(data['participant'][0]['period']['end'])
+    print(data['participant'][0]['individual']['display'])
+    print(data['participant'][0]['period']['start'])
+    print(data['participant'][0]['period']['end'])
+    print(data['location'][0]['location']['display'])
+    print(data['serviceProvider']['display'])
 
 def Condition(data):
-    print(data['resource']['id'])
-    print(data['resource']['clinicalStatus']['coding'][0]['code'])
-    print(data['resource']['verificationStatus']['coding'][0]['code'])
-    print(data['resource']['category'][0]['coding'][0]['code'])
-    print(data['resource']['code']['coding'][0]['code'])
-    print(data['resource']['code']['coding'][0]['display'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['onsetDateTime'])
-    if 'abatementDateTime' in data['resource']:
-        print(data['resource']['abatementDateTime'])
-    print(data['resource']['recordedDate'])
+    print(data['id'])
+    print(data['clinicalStatus']['coding'][0]['code'])
+    print(data['verificationStatus']['coding'][0]['code'])
+    print(data['category'][0]['coding'][0]['code'])
+    print(data['code']['coding'][0]['code'])
+    print(data['code']['coding'][0]['display'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['onsetDateTime'])
+    if 'abatementDateTime' in data:
+        print(data['abatementDateTime'])
+    print(data['recordedDate'])
 
 def MedicationRequest(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
-    print(data['resource']['intent'])
-    if 'medicationCodeableConcept' in data['resource']:
-        for medicationcodeableconcept in data['resource']['medicationCodeableConcept']['coding']:
+    print(data['id'])
+    print(data['status'])
+    print(data['intent'])
+    if 'medicationCodeableConcept' in data:
+        for medicationcodeableconcept in data['medicationCodeableConcept']['coding']:
             print(medicationcodeableconcept['code'])
             print(medicationcodeableconcept['display'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['authoredOn'])
-    print(data['resource']['requester']['display'])
-    if 'reasonReference' in data['resource']:
-        print(data['resource']['reasonReference'][0]['reference'])
-    if 'dosageInstruction' in data['resource']:
-        for dosageinstruction in data['resource']['dosageInstruction']:
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['authoredOn'])
+    print(data['requester']['display'])
+    if 'reasonReference' in data:
+        print(data['reasonReference'][0]['reference'])
+    if 'dosageInstruction' in data:
+        for dosageinstruction in data['dosageInstruction']:
             print(dosageinstruction['sequence'])
             if 'timing' in dosageinstruction:
                 print(dosageinstruction['timing']['repeat']['frequency'])
@@ -308,180 +302,169 @@ def Claim(data):
     print(data['total']['currency'])
 
 def Observation(data):
-        print(data['resource']['id'])
-        print(data['resource']['status'])
-        for i,category in enumerate(data['resource']['category']):
+        print(data['id'])
+        print(data['status'])
+        for i,category in enumerate(data['category']):
             print(category['coding'][i]['code'])
-        for i,code in enumerate(data['resource']['code']['coding']):
+        for i,code in enumerate(data['code']['coding']):
             print(code['code'])
             print(code['display'])
-        print(data['resource']['subject']['reference'])
-        print(data['resource']['encounter']['reference'])
-        print(data['resource']['effectiveDateTime'])
-        print(data['resource']['issued'])
-        if 'valueQuantity' in data['resource']:
-            print(data['resource']['valueQuantity']['value'])
-            print(data['resource']['valueQuantity']['unit'])
-        if 'valueCodeableConcept' in data['resource']:
-            for code in data['resource']['valueCodeableConcept']['coding']:
+        print(data['subject']['reference'])
+        print(data['encounter']['reference'])
+        print(data['effectiveDateTime'])
+        print(data['issued'])
+        if 'valueQuantity' in data:
+            print(data['valueQuantity']['value'])
+            print(data['valueQuantity']['unit'])
+        if 'valueCodeableConcept' in data:
+            for code in data['valueCodeableConcept']['coding']:
                 print("valuecodeableConcept")
                 print(code['code'])
                 print(code['display'])
-        if 'component' in data['resource']:
-            for component in data['resource']['component']:
+        if 'component' in data:
+            for component in data['component']:
                 print(component['code']['coding'][0]['code'])
                 print(component['code']['coding'][0]['display'])
-                if 'valueQuantity' in data['resource']['component']:
+                if 'valueQuantity' in data['component']:
                     print(component['valueQuantity']['value'])
                     print(component['valueQuantity']['unit'])
-                if 'valueCodeableConcept' in data['resource']['component']:
+                if 'valueCodeableConcept' in data['component']:
                      print(component['valueCodeableConcept']['coding'][0]['code'])
                      print(component['valueCodeableConcept']['coding'][0]['display'])
 
 def Immunization(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
-    print(data['resource']['patient']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['occurrenceDateTime'])
-    print(data['resource']['primarySource'])
-    print(data['resource']['location']['display'])
-    for vaccinecode in data['resource']['vaccineCode']['coding']:
+    print(data['id'])
+    print(data['status'])
+    print(data['patient']['reference'])
+    print(data['encounter']['reference'])
+    print(data['occurrenceDateTime'])
+    print(data['primarySource'])
+    print(data['location']['display'])
+    for vaccinecode in data['vaccineCode']['coding']:
         print(vaccinecode['code'])
         print(vaccinecode['display'])
     
 
 def CarePlan(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
-    print(data['resource']['intent'])
-    for category in data['resource']['category']:
+    print(data['id'])
+    print(data['status'])
+    print(data['intent'])
+    for category in data['category']:
         print(category['coding'][0]['code'])
         if 'display' in category['coding'][0]:
             print(category['coding'][0]['display'])
         else:
             print('null')
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['encounter']['reference'])
-    print(data['resource']['period']['start'])
-    print(data['resource']['careTeam'][0]['reference'])
-    if 'addresses' in data['resource']:
-        print(data['resource']['addresses'][0]['reference'])
+    print(data['subject']['reference'])
+    print(data['encounter']['reference'])
+    print(data['period']['start'])
+    print(data['careTeam'][0]['reference'])
+    if 'addresses' in data:
+        print(data['addresses'][0]['reference'])
     else:
         print('null')
 
-    if 'activity' in data['resource']:
-        for activity in data['resource']['activity']:
+    if 'activity' in data:
+        for activity in data['activity']:
             print(activity['detail']['code']['coding'][0]['code'])
             print(activity['detail']['code']['coding'][0]['display'])
             print(activity['detail']['status'])
             print(activity['detail']['location']['display'])
       
 def MedicationAdministration(data):
-    print(data['resource']['id'])
-    print(data['resource']['status'])
-    print(data['resource']['medicationCodeableConcept']['coding'][0]['code'])
-    print(data['resource']['medicationCodeableConcept']['coding'][0]['display'])
-    print(data['resource']['subject']['reference'])
-    print(data['resource']['context']['reference'])
-    print(data['resource']['effectiveDateTime'])
-    if 'reasonReference' in data['resource']:
-        print(data['resource']['reasonReference'][0]['reference'] )
+    print(data['id'])
+    print(data['status'])
+    print(data['medicationCodeableConcept']['coding'][0]['code'])
+    print(data['medicationCodeableConcept']['coding'][0]['display'])
+    print(data['subject']['reference'])
+    print(data['context']['reference'])
+    print(data['effectiveDateTime'])
+    if 'reasonReference' in data:
+        print(data['reasonReference'][0]['reference'] )
     else:
         print("NUll")
     
 
 def Device(data):
-    print(data['resource']['id'])
-    print(data['resource']['udiCarrier'][0]['deviceIdentifier'])
-    print(data['resource']['udiCarrier'][0]['carrierHRF'])
-    print(data['resource']['status'])
-    print(data['resource']['distinctIdentifier'])
-    print(data['resource']['manufactureDate'])
-    print(data['resource']['expirationDate'])
-    print(data['resource']['lotNumber'])
-    print(data['resource']['serialNumber'])
-    print(data['resource']['deviceName'][0]['name'])
-    print(data['resource']['type']['coding'][0]['code'])
-    print(data['resource']['patient']['reference'])
+    print(data['id'])
+    print(data['udiCarrier'][0]['deviceIdentifier'])
+    print(data['udiCarrier'][0]['carrierHRF'])
+    print(data['status'])
+    print(data['distinctIdentifier'])
+    print(data['manufactureDate'])
+    print(data['expirationDate'])
+    print(data['lotNumber'])
+    print(data['serialNumber'])
+    print(data['deviceName'][0]['name'])
+    print(data['type']['coding'][0]['code'])
+    print(data['patient']['reference'])
 
 def Patient(data):
-    print(data['resource']['id'])
-    print(data['resource']['text']['status'])
-    print(data['resource']['extension'][0]['extension'][0]['valueCoding']['code'])
-    print(data['resource']['extension'][0]['extension'][0]['valueCoding']['display'])
-    print(data['resource']['extension'][1]['extension'][0]['valueCoding']['code'])
-    print(data['resource']['extension'][1]['extension'][0]['valueCoding']['display'])
-    print(data['resource']['extension'][2]['valueString'])
-    print(data['resource']['extension'][3]['valueCode'])
-    print(data['resource']['extension'][4]['valueAddress']['city'])
-    print(data['resource']['extension'][4]['valueAddress']['state'])
-    print(data['resource']['extension'][4]['valueAddress']['country'])
-    print(data['resource']['extension'][5]['valueDecimal'])
-    print(data['resource']['extension'][6]['valueDecimal'])
-    for i,identifier in enumerate(data['resource']['identifier']):
+    print(data['id'])
+    for extension in data['extension']:
+        print(extension['extension'][0]['valueCoding']['code'])
+        print(extension['extension'][0]['valueCoding']['display'])
+    for i,identifier in enumerate(data['identifier']):
         if i !=0:
             print(identifier['type']['coding'][0]['code'])
             print(identifier['value'])
-    print(str(data['resource']['name'][0]['given'][0]) + str(data['resource']['name'][0]['family']))
-    print(data['resource']['telecom'][0]['value'])
-    print(data['resource']['telecom'][0]['use'])
-    print(data['resource']['gender'])
-    print(data['resource']['birthDate'])
-    print(data['resource']['address'][0]['line'][0])
-    print(data['resource']['address'][0]['city'])
-    print(data['resource']['address'][0]['state'])
-    print(data['resource']['address'][0]['country'])
-    print(data['resource']['maritalStatus']['coding'][0]['code'])
+    print(str(data['name'][0]['given'][0]) + str(data['name'][0]['family']))
+    print(data['telecom'][0]['value'])
+    print(data['telecom'][0]['use'])
+    print(data['gender'])
+    print(data['birthDate'])
+    print(data['address'][0]['line'][0])
+    print(data['address'][0]['city'])
+    print(data['address'][0]['state'])
+    print(data['address'][0]['country'])
+    print(data['maritalStatus']['coding'][0]['code'])
 
 def read_json_data(files,dir_location):
     for file in files:
-        print(file)
         f = open(dir_location+file,encoding="utf8")
         data_fromat = json.load(f)
         for data in data_fromat['entry']:
-            
             if data['resource']['resourceType'] == 'Patient':
                 pass
-                #Patient(data)
             elif data['resource']['resourceType'] == 'Device':
                 pass
-                #Device(data)
+                #Device(data['resource'])
             elif data['resource']['resourceType'] == 'MedicationAdministration':
                 pass
-                #MedicationAdministration(data)
+                #MedicationAdministration(data['resource'])
             elif data['resource']['resourceType'] == 'CarePlan':
                 pass
-                #CarePlan(data)
+                #CarePlan(data['resource'])
             elif data['resource']['resourceType'] == 'Immunization':
                 pass
-                #Immunization(data)
+                #Immunization(data['resource'])
             elif data['resource']['resourceType'] == 'Observation':
                 pass
-                #Observation(data)
+                #Observation(data['resource'])
             elif data['resource']['resourceType'] == 'Claim':
-                Claim(data['resource'])
+                pass
+                #Claim(data['resource'])
             elif data['resource']['resourceType'] == 'MedicationRequest':
                 pass
-                #MedicationRequest(data)
+                #MedicationRequest(data['resource'])
             elif data['resource']['resourceType'] == 'Condition':
                 pass
-                #Condition(data)
+                #Condition(data['resource'])
             elif data['resource']['resourceType'] == 'Encounter':
                 pass
-                #Encounter(data)
+                #Encounter(data['resource'])
             elif data['resource']['resourceType'] == 'AllergyIntolerance':
                 pass
-                #AllergyIntolerance(data)
+                #AllergyIntolerance(data['resource'])
             elif data['resource']['resourceType'] == 'ImagingStudy':
                 pass
-                #ImagingStudy(data)
+                #ImagingStudy(data['resource'])
             elif data['resource']['resourceType'] == 'CareTeam':
                 pass
-                #CareTeam(data)
+                #CareTeam(data['resource'])
             elif data['resource']['resourceType'] == 'Provenance':
-                #Provenance(data['resource'])
                 pass
+                #Provenance(data['resource'])
             elif data['resource']['resourceType'] == 'DocumentReference':
                 pass
                 #DocumentReference(data['resource'])
@@ -495,24 +478,31 @@ def read_json_data(files,dir_location):
                 pass
                 #DiagnosticReport(data['resource'])
             elif data['resource']['resourceType'] == 'Medication':
-                pass
-                #Medication(data['resource'])
+                Medication(data['resource'])
             elif data['resource']['resourceType'] == 'Procedure':
                 pass
                 #Procedure(data['resource'])
-
-
         f.close()
-    
+    #procedure_df.to_csv('procedure.csv', sep=',', encoding='utf-8')
+    medication_df.to_csv('medication.csv', sep=',', encoding='utf-8')
+
 if __name__ == "__main__":
     try:
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+
+        procedure_cols = ast.literal_eval(config.get("data_category", "Procedure"))
+        procedure_df = pd.DataFrame(columns=procedure_cols)
+        medication_cols = ast.literal_eval(config.get("data_category", "Medication"))
+        medication_df = pd.DataFrame(columns=medication_cols)
+        print(medication_df)
+
         dir_location = os.path.dirname(__file__)+"\\data\\"
         isdir = os.path.isdir(dir_location)
         if isdir == True:
             file = os.listdir(dir_location)  
             if len(file)>0:
                 read_json_data(file,dir_location)
-                
             else:
                 print("There is no file: "+ str(dir_location))
         else:
