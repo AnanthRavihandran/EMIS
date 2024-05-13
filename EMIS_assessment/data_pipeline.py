@@ -1,10 +1,8 @@
 import pandas as pd 
 import json
 import os
-import sys
 import configparser
 import ast
-
 
 def Procedure(data):
     procedure_df.loc[len(procedure_df.index)] = [data['id'], data['status'], str(data['code']['coding'][0]['code'])+"-"+str(data['code']['coding'][0]['display']), data['subject']['reference'], data['encounter']['reference'], data['performedPeriod']['start'], data['performedPeriod']['end'], data['location']['display']]
@@ -13,20 +11,9 @@ def Medication(data):
     medication_df.loc[len(medication_df.index)] = [data['id'], data['code']['coding'][0]['code'], data['code']['coding'][0]['display'], data['status']]
 
 def DiagnosticReport(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['category'][0]['coding'][0]['code'])
-    print(data['category'][0]['coding'][0]['display'])
-    print(data['code']['coding'][0]['code'])
-    print(data['code']['coding'][0]['display'])
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['effectiveDateTime'])
-    print(data['issued'])
-    print(data['performer'][0]['display'])
+    diagnosticreport_df.loc[len(diagnosticreport_df.index)] = [data['id'],data['status'],data['category'][0]['coding'][0]['code']+"-"+data['category'][0]['coding'][0]['display'],data['code']['coding'][0]['code']+"-"+data['code']['coding'][0]['display'],data['subject']['reference'],data['encounter']['reference'],data['effectiveDateTime'],data['issued'],data['performer'][0]['display']]
     if 'result' in data:
-        print(data['result'][0]['reference'])
-        print(data['result'][0]['display'])
+        diagnosticreportresult_df.loc[len(diagnosticreportresult_df.index)] = [data['id'],data['result'][0]['reference'],data['result'][0]['display']]
 
 def ExplanationOfBenefit(data):
     print(data['id'])
@@ -93,147 +80,83 @@ def ExplanationOfBenefit(data):
                     print(adjudication['amount']['currency'])
 
 def SupplyDelivery(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['patient']['reference'])
-    for type in data['type']['coding']:
-        print(type['display'])
-    print(data['suppliedItem']['quantity']['value'])
     if 'itemCodeableConcept' in data:
-        for itemcodeableconcept in data['itemCodeableConcept']['coding']:
-            print(itemcodeableconcept['code'])
-            print(itemcodeableconcept['display'])
-    print(data['occurrenceDateTime'])
+        code =  data['itemCodeableConcept']['coding'][0]['code']
+        display = data['itemCodeableConcept']['coding'][0]['display']
+    else:
+        code =""
+        display =""
+    supplydelivery_df.loc[len(supplydelivery_df.index)] = [data['id'], data['status'],data['patient']['reference'], data['type']['coding'][0]['display'],data['suppliedItem']['quantity']['value'],code,display, data['occurrenceDateTime'] ]
 
 def DocumentReference(data):
-    print(data['id'])
+    identifier_system = []
+    identifier_value = []
+    type_code = []
+    type_name = []
+    category_name = []
+    author =[]
     for identifier in data['identifier']:
-        print(identifier['system'])
-        print(identifier['value'])
-    print(data['status'])
+        identifier_system.append(identifier['system'])
+        identifier_value.append(identifier['value'])
     for type in data['type']['coding']:
-        print(type['code'])
-        print(type['display'])
+        type_code.append(type['code'])
+        type_name.append(type['display'])
     for category in data['category'][0]['coding']:
-        print(category['code'])
-        print(category['display'])
-    print(data['subject']['reference'])
-    print(data['date'])
+        category_name.append(category['display'])
     for author in data['author']:
-        print(author['display'])
-    print(data['custodian']['display'])
+        author.append(author['display'])
     for content in data['content']:
-        print(content['attachment']['contentType'])
-        print(content['attachment']['data'])
-        print(content['format']['code'])
-        print(content['format']['display'])
-    print(data['context']['encounter'][0]['reference'])
+        documentreference_file_df.loc[len(documentreference_file_df.index)] =[data['id'],content['attachment']['contentType'],content['attachment']['data'],content['format']['code'],content['format']['display']]
     if 'period' in data:
-        print(data['period']['start'])
-        print(data['period']['end'])
-
+        start = data['period']['start']
+        end = data['period']['end']
+    else:
+        start = ""
+        end = ""
+    documentreference_df.loc[len(documentreference_df.index)] = [data['id'],identifier_system,identifier_value,data['status'],type_code,type_name,category_name,data['subject']['reference'],data['date'],author,data['custodian']['display'],data['context']['encounter'][0]['reference'],start,end]
+       
 def Provenance(data):
-    print(data['id'])
+    reference_list = []
     for target in data['target']:
-        print(target['reference'])
-    print(data['recorded'])
+        reference_list.append(target['reference'])
+    procedure_df.loc[len(procedure_df.index)] = [data['id'],reference_list,data['recorded']]
     for agent in data['agent']:
-        print(agent['type']['text'])
-        print(agent['who']['display'])
-        print(agent['onBehalfOf']['display'])
+        provenance_participant_df.loc[len(provenance_participant_df.index)] = [data['id'], agent['type']['text'], agent['who']['display'],agent['onBehalfOf']['display']]
 
 def CareTeam(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['period']['start'])
+    reasoncode = []
+    reasoncode_name = []
     if 'end' in data:
-        print(data['period']['end'])
+        period_end = data['period']['end']
+    else:
+        period_end = ""
     for participant in data['participant']:
-        print(participant['role'][0]['coding'][0]['code'])
-        print(participant['role'][0]['coding'][0]['display'])
-        print(participant['member']['display'])
+        careteam_participant_df.loc[len(careteam_participant_df.index)] = [data['id'],participant['role'][0]['coding'][0]['code'],participant['role'][0]['coding'][0]['display'],participant['member']['display']]
     if 'reasonCode' in  data:
         for reasoncode in data['reasonCode']:
-            print(reasoncode['coding'][0]['code'])
-            print(reasoncode['coding'][0]['display'])
-    print(data['managingOrganization'][0]['display'])
-
+            reasoncode.append(reasoncode['coding'][0]['code'])
+            reasoncode_name.append(reasoncode['coding'][0]['display'])
+    careteam_df.loc[len(careteam_df.index)] = [data['id'],data['status'],data['subject']['reference'],data['encounter']['reference'],data['period']['start'],period_end,reasoncode,reasoncode_name,data['managingOrganization'][0]['display']]
 
 def ImagingStudy(data):
-    print(data['id'])
-    print(data['identifier'][0]['system'])
-    print(data['identifier'][0]['value'])
-    print(data['status'])
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['started'])
-    print(data['numberOfSeries'])
-    print(data['numberOfInstances'])
-    print(data['procedureCode'][0]['coding'][0]['code'])
-    print(data['procedureCode'][0]['coding'][0]['display'])
-    print(data['location']['display'])
-    print(data['series'][0]['uid'])
+    imagingstudy_df.loc[len(imagingstudy_df.index)] = [data['id'],data['identifier'][0]['system'],data['identifier'][0]['value'],data['status'],data['subject']['reference'],data['encounter']['reference'],data['started'],data['numberOfSeries'],data['numberOfInstances'],data['procedureCode'][0]['coding'][0]['code'],data['procedureCode'][0]['coding'][0]['display'],data['location']['display'])
     for series in data['series']:
-        print(series['uid'])
-        print(series['number'])
-        print(series['modality']['code'])
-        print(series['modality']['display'])
-        print(series['numberOfInstances'])
-        print(series['bodySite']['code'])
-        print(series['bodySite']['display'])
-        print(series['started'])
+        imagingStudy_series_df.loc[len(imagingStudy_series_df.index)] = [data['id'],series['uid'],series['number'],series['modality']['code'],series['modality']['display'],series['numberOfInstances'],series['bodySite']['code'],series['bodySite']['display'],series['started']]
         for instance in series['instance']:
-            print(instance['uid'])
-            print(instance['number'])
-            print(instance['title'])
-
+            imagingstudy_instances_df.loc[len(imagingstudy_instances_df.index)] = [data['id'],instance['uid'],instance['sopClass']['code'],instance['number'],instance['title']]
 
 def AllergyIntolerance(data):
-    print(data['id'])
-    print(data['clinicalStatus']['coding'][0]['code'])
-    print(data['verificationStatus']['coding'][0]['code'])
-    print(data['type'])
-    print(data['category'][0])
-    print(data['criticality'])
-    print(data['code']['coding'][0]['code'])
-    print(data['code']['coding'][0]['display'])
-    print(data['patient']['reference'])
-    print(data['recordedDate'])
+    allergyintolerance_df.loc[len(allergyintolerance_df.index)] = [data['id'], data['clinicalStatus']['coding'][0]['code'],data['verificationStatus']['coding'][0]['code'],data['type'],data['category'][0],data['criticality'],data['code']['coding'][0]['code'],data['code']['coding'][0]['display'],data['patient']['reference'],data['recordedDate']]
 
 def Encounter(data):
-    print(data['id'])
-    print(data['identifier'][0]['value'])
-    print(data['status'])
-    print(data['class']['code'])
-    print(data['type'][0]['coding'][0]['code'])
-    print(data['type'][0]['coding'][0]['display'])
-    print(data['subject']['reference'])
-    print(data['subject']['display'])
-    print(data['participant'][0]['type'][0]['coding'][0]['code'])
-    print(data['participant'][0]['type'][0]['coding'][0]['display'])
-    print(data['participant'][0]['period']['start'])
-    print(data['participant'][0]['period']['end'])
-    print(data['participant'][0]['individual']['display'])
-    print(data['participant'][0]['period']['start'])
-    print(data['participant'][0]['period']['end'])
-    print(data['location'][0]['location']['display'])
-    print(data['serviceProvider']['display'])
+    encounter_df.loc[len(encounter_df.index)] = [data['id'],data['identifier'][0]['value'],data['status'],data['class']['code'],data['type'][0]['coding'][0]['code'],data['type'][0]['coding'][0]['display'],data['subject']['reference'],data['subject']['display'],data['participant'][0]['type'][0]['coding'][0]['code'],data['participant'][0]['type'][0]['coding'][0]['display'],data['participant'][0]['period']['start'],data['participant'][0]['period']['end'],data['participant'][0]['individual']['display'],data['period']['start'],data['period']['end'],data['location'][0]['location']['display'],data['serviceProvider']['display'] ]
 
 def Condition(data):
-    print(data['id'])
-    print(data['clinicalStatus']['coding'][0]['code'])
-    print(data['verificationStatus']['coding'][0]['code'])
-    print(data['category'][0]['coding'][0]['code'])
-    print(data['code']['coding'][0]['code'])
-    print(data['code']['coding'][0]['display'])
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['onsetDateTime'])
     if 'abatementDateTime' in data:
-        print(data['abatementDateTime'])
-    print(data['recordedDate'])
+        abatement_datetime = data['abatementDateTime']
+    else:
+        abatement_datetime = ""
+    condition_df.loc[len(condition_df.index)] = [data['id'],data['clinicalStatus']['coding'][0]['code'],data['verificationStatus']['coding'][0]['code'],data['category'][0]['coding'][0]['code'],data['code']['coding'][0]['code'],data['code']['coding'][0]['display'],data['subject']['reference'],data['encounter']['reference'],data['onsetDateTime'],abatement_datetime,data['recordedDate']]
 
 def MedicationRequest(data):
     print(data['id'])
@@ -333,71 +256,37 @@ def Observation(data):
                      print(component['valueCodeableConcept']['coding'][0]['display'])
 
 def Immunization(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['patient']['reference'])
-    print(data['encounter']['reference'])
-    print(data['occurrenceDateTime'])
-    print(data['primarySource'])
-    print(data['location']['display'])
+    immunization_df.loc[len(immunization_df.index)] = [data['id'], data['status'],data['patient']['reference'],data['occurrenceDateTime'],data['primarySource'],data['location']['display']]
     for vaccinecode in data['vaccineCode']['coding']:
-        print(vaccinecode['code'])
-        print(vaccinecode['display'])
-    
+        immunization_vaccineCode_df.loc[len(immunization_vaccineCode_df.index)] = [data['id'], vaccinecode['code'], vaccinecode['display']]
 
 def CarePlan(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['intent'])
+    category_code =[]
+    category_name = []
     for category in data['category']:
-        print(category['coding'][0]['code'])
+        category_code.append(category['coding'][0]['code'])
         if 'display' in category['coding'][0]:
-            print(category['coding'][0]['display'])
+            category_name.append(category['coding'][0]['display'])
         else:
-            print('null')
-    print(data['subject']['reference'])
-    print(data['encounter']['reference'])
-    print(data['period']['start'])
-    print(data['careTeam'][0]['reference'])
+            category_name.append(" ")
     if 'addresses' in data:
-        print(data['addresses'][0]['reference'])
+       address = data['addresses'][0]['reference']
     else:
-        print('null')
-
+        address = ""
+    careplan_df.loc[len(careplan_df.index)] = [data['id'], data['status'],data['intent'],category_code,category_name,data['subject']['reference'],data['encounter']['reference'],data['period']['start'],data['period']['end'],data['careTeam'][0]['reference'],address]
     if 'activity' in data:
         for activity in data['activity']:
-            print(activity['detail']['code']['coding'][0]['code'])
-            print(activity['detail']['code']['coding'][0]['display'])
-            print(activity['detail']['status'])
-            print(activity['detail']['location']['display'])
-      
+            careplan_activity_df.loc[len(careplan_activity_df.index)] = [data['id'],activity['detail']['code']['coding'][0]['code'],activity['detail']['code']['coding'][0]['display'],activity['detail']['status'],activity['detail']['location']['display']]
+
 def MedicationAdministration(data):
-    print(data['id'])
-    print(data['status'])
-    print(data['medicationCodeableConcept']['coding'][0]['code'])
-    print(data['medicationCodeableConcept']['coding'][0]['display'])
-    print(data['subject']['reference'])
-    print(data['context']['reference'])
-    print(data['effectiveDateTime'])
     if 'reasonReference' in data:
-        print(data['reasonReference'][0]['reference'] )
+        reason_reference = data['reasonReference'][0]['reference']
     else:
-        print("NUll")
-    
+        reason_reference = ""
+    medicationadministration_df.loc[len(medicationadministration_df.index)] = [data['id'],data['status'],data['medicationCodeableConcept']['coding'][0]['code'], data['medicationCodeableConcept']['coding'][0]['display'], data['subject']['reference'],data['context']['reference'],data['effectiveDateTime'],reason_reference]
 
 def Device(data):
-    print(data['id'])
-    print(data['udiCarrier'][0]['deviceIdentifier'])
-    print(data['udiCarrier'][0]['carrierHRF'])
-    print(data['status'])
-    print(data['distinctIdentifier'])
-    print(data['manufactureDate'])
-    print(data['expirationDate'])
-    print(data['lotNumber'])
-    print(data['serialNumber'])
-    print(data['deviceName'][0]['name'])
-    print(data['type']['coding'][0]['code'])
-    print(data['patient']['reference'])
+    device_df.loc[len(device_df.index)] = [data['id'], data['udiCarrier'][0]['deviceIdentifier'], data['udiCarrier'][0]['carrierHRF'],data['status'],data['distinctIdentifier'],data['manufactureDate'],data['expirationDate'],data['lotNumber'],data['serialNumber'],data['deviceName'][0]['name'],data['type']['coding'][0]['code'],data['patient']['reference']]
 
 def Patient(data):
     print(data['id'])
@@ -427,61 +316,43 @@ def read_json_data(files,dir_location):
             if data['resource']['resourceType'] == 'Patient':
                 pass
             elif data['resource']['resourceType'] == 'Device':
-                pass
-                #Device(data['resource'])
+                Device(data['resource'])
             elif data['resource']['resourceType'] == 'MedicationAdministration':
-                pass
-                #MedicationAdministration(data['resource'])
+                MedicationAdministration(data['resource'])
             elif data['resource']['resourceType'] == 'CarePlan':
-                pass
-                #CarePlan(data['resource'])
+                CarePlan(data['resource'])
             elif data['resource']['resourceType'] == 'Immunization':
-                pass
-                #Immunization(data['resource'])
+                Immunization(data['resource'])
             elif data['resource']['resourceType'] == 'Observation':
-                pass
-                #Observation(data['resource'])
+                Observation(data['resource'])
             elif data['resource']['resourceType'] == 'Claim':
-                pass
-                #Claim(data['resource'])
+                Claim(data['resource'])
             elif data['resource']['resourceType'] == 'MedicationRequest':
-                pass
-                #MedicationRequest(data['resource'])
+                MedicationRequest(data['resource'])
             elif data['resource']['resourceType'] == 'Condition':
-                pass
-                #Condition(data['resource'])
+                Condition(data['resource'])
             elif data['resource']['resourceType'] == 'Encounter':
-                pass
-                #Encounter(data['resource'])
+                Encounter(data['resource'])
             elif data['resource']['resourceType'] == 'AllergyIntolerance':
-                pass
-                #AllergyIntolerance(data['resource'])
+                AllergyIntolerance(data['resource'])
             elif data['resource']['resourceType'] == 'ImagingStudy':
-                pass
-                #ImagingStudy(data['resource'])
+                ImagingStudy(data['resource'])
             elif data['resource']['resourceType'] == 'CareTeam':
-                pass
-                #CareTeam(data['resource'])
+                CareTeam(data['resource'])
             elif data['resource']['resourceType'] == 'Provenance':
-                pass
-                #Provenance(data['resource'])
+                Provenance(data['resource'])
             elif data['resource']['resourceType'] == 'DocumentReference':
-                pass
-                #DocumentReference(data['resource'])
+                DocumentReference(data['resource'])
             elif data['resource']['resourceType'] == 'SupplyDelivery':
-                pass
-                #SupplyDelivery(data['resource'])
+                SupplyDelivery(data['resource'])
             elif data['resource']['resourceType'] == 'ExplanationOfBenefit':
-                pass
-                #ExplanationOfBenefit(data['resource'])
+                ExplanationOfBenefit(data['resource'])
             elif data['resource']['resourceType'] == 'DiagnosticReport':
-                pass
-                #DiagnosticReport(data['resource'])
+                DiagnosticReport(data['resource'])
             elif data['resource']['resourceType'] == 'Medication':
                 Medication(data['resource'])
-            elif data['resource']['resourceType'] == 'Procedure':
-                pass
-                #Procedure(data['resource'])
+            else:
+                Procedure(data['resource'])
         f.close()
     #procedure_df.to_csv('procedure.csv', sep=',', encoding='utf-8')
     medication_df.to_csv('medication.csv', sep=',', encoding='utf-8')
@@ -490,12 +361,56 @@ if __name__ == "__main__":
     try:
         config = configparser.ConfigParser()
         config.read('config.ini')
-
         procedure_cols = ast.literal_eval(config.get("data_category", "Procedure"))
         procedure_df = pd.DataFrame(columns=procedure_cols)
         medication_cols = ast.literal_eval(config.get("data_category", "Medication"))
         medication_df = pd.DataFrame(columns=medication_cols)
-        print(medication_df)
+        diagnosticreport_cols = ast.literal_eval(config.get("data_category", "DiagnosticReport"))
+        diagnosticreport_df = pd.DataFrame(columns=diagnosticreport_cols)
+        diagnosticreportresult_cols = ast.literal_eval(config.get("data_category", "DiagnosticReportResult"))
+        diagnosticreportresult_df = pd.DataFrame(columns=diagnosticreportresult_cols)
+        supplydelivery_cols = ast.literal_eval(config.get("data_category", "SupplyDelivery"))
+        supplydelivery_df = pd.DataFrame(columns=supplydelivery_cols)
+        device_cols = ast.literal_eval(config.get("data_category", "Device"))
+        device_df = pd.DataFrame(columns=device_cols)
+        medicationadministration_cols = ast.literal_eval(config.get("data_category", "MedicationAdministration"))
+        medicationadministration_df = pd.DataFrame(columns=medicationadministration_cols)
+        immunization_cols = ast.literal_eval(config.get("data_category", "Immunization"))
+        immunization_df = pd.DataFrame(columns=immunization_cols)
+        immunization_vaccineCode_cols = ast.literal_eval(config.get("data_category", "Immunization_vaccineCode"))
+        immunization_vaccineCode_df = pd.DataFrame(columns=immunization_vaccineCode_cols)
+        allergyintolerance_cols = ast.literal_eval(config.get("data_category", "AllergyIntolerance"))
+        allergyintolerance_df = pd.DataFrame(columns=allergyintolerance_cols)
+        encounter_cols = ast.literal_eval(config.get("data_category", "Encounter"))
+        encounter_df = pd.DataFrame(columns=encounter_cols)
+        condition_cols = ast.literal_eval(config.get("data_category", "Condition"))
+        condition_df = pd.DataFrame(columns=condition_cols)
+        provenance_cols = ast.literal_eval(config.get("data_category", "Provenance"))
+        provenance_df = pd.DataFrame(columns=provenance_cols)
+        provenance_participant_cols = ast.literal_eval(config.get("data_category", "Provenance_participant"))
+        provenance_participant_df = pd.DataFrame(columns=provenance_participant_cols)
+        careteam_cols = ast.literal_eval(config.get("data_category", "CareTeam"))
+        careteam_df = pd.DataFrame(columns=careteam_cols)
+        careteam_participant_cols = ast.literal_eval(config.get("data_category", "CareTeam_Participant"))
+        careteam_participant_df = pd.DataFrame(columns=careteam_participant_cols)
+        imagingstudy_cols = ast.literal_eval(config.get("data_category", "ImagingStudy"))
+        imagingstudy_df = pd.DataFrame(columns=imagingstudy_cols)
+        imagingStudy_series_cols = ast.literal_eval(config.get("data_category", "ImagingStudy_series"))
+        imagingStudy_series_df = pd.DataFrame(columns=imagingStudy_series_cols)
+        imagingstudy_instances_cols = ast.literal_eval(config.get("data_category", "ImagingStudy_instances"))
+        imagingstudy_instances_df = pd.DataFrame(columns=imagingstudy_instances_cols)
+        careplan_cols = ast.literal_eval(config.get("data_category", "CarePlan"))
+        careplan_df = pd.DataFrame(columns=careplan_cols)
+        careplan_activity_cols = ast.literal_eval(config.get("data_category", "careplan_activity_cols"))
+        careplan_activity_df = pd.DataFrame(columns=careplan_activity_cols)
+
+        documentreference_cols = ast.literal_eval(config.get("data_category", "DocumentReference"))
+        documentreference_df = pd.DataFrame(columns=documentreference_cols)
+        documentreference_file_cols = ast.literal_eval(config.get("data_category", "DocumentReference_file"))
+        documentreference_file_df = pd.DataFrame(columns=documentreference_file_cols)
+
+
+
 
         dir_location = os.path.dirname(__file__)+"\\data\\"
         isdir = os.path.isdir(dir_location)
