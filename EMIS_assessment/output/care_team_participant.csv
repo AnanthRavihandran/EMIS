@@ -1,0 +1,835 @@
+care_team_id,participant_code,participant_name,participant_member
+5d575dbe-f9fa-ba1d-7b6d-bbb92044c506,116154003,Patient,Mr. Aaron697 Dickens475
+5d575dbe-f9fa-ba1d-7b6d-bbb92044c506,223366009,Healthcare professional (occupation),Dr. Burt293 Quigley282
+5d575dbe-f9fa-ba1d-7b6d-bbb92044c506,224891009,Healthcare services (qualifier value),HARRINGTON MEMORIAL HOSPITAL-1
+aa6dbfdf-4ac0-18b3-45ca-f427a1542f6c,116154003,Patient,Mr. Aaron697 Dickens475
+aa6dbfdf-4ac0-18b3-45ca-f427a1542f6c,223366009,Healthcare professional (occupation),Dr. Burt293 Quigley282
+aa6dbfdf-4ac0-18b3-45ca-f427a1542f6c,224891009,Healthcare services (qualifier value),HARRINGTON MEMORIAL HOSPITAL-1
+5b6740e4-c5d6-e34d-b56e-01b4437768f2,116154003,Patient,Mr. Aaron697 Dickens475
+5b6740e4-c5d6-e34d-b56e-01b4437768f2,223366009,Healthcare professional (occupation),Dr. Burt293 Quigley282
+5b6740e4-c5d6-e34d-b56e-01b4437768f2,224891009,Healthcare services (qualifier value),HARRINGTON MEMORIAL HOSPITAL-1
+b64b9c8b-ec81-e122-8565-7ab90eeb1420,116154003,Patient,Mr. Aaron697 Jerde200
+b64b9c8b-ec81-e122-8565-7ab90eeb1420,223366009,Healthcare professional (occupation),Dr. Rudolf736 Mayert710
+b64b9c8b-ec81-e122-8565-7ab90eeb1420,224891009,Healthcare services (qualifier value),NEW ENGLAND BAPTIST HOSPITAL
+dc907223-2c9e-079f-d153-8f87a45a85d1,116154003,Patient,Mr. Aaron697 Jerde200
+dc907223-2c9e-079f-d153-8f87a45a85d1,223366009,Healthcare professional (occupation),Dr. Rudolf736 Mayert710
+dc907223-2c9e-079f-d153-8f87a45a85d1,224891009,Healthcare services (qualifier value),NEW ENGLAND BAPTIST HOSPITAL
+afa5fd8b-42c8-21dc-0272-1cc75b5f2e54,116154003,Patient,Mr. Aaron697 Jerde200
+afa5fd8b-42c8-21dc-0272-1cc75b5f2e54,223366009,Healthcare professional (occupation),Dr. Rudolf736 Mayert710
+afa5fd8b-42c8-21dc-0272-1cc75b5f2e54,224891009,Healthcare services (qualifier value),NEW ENGLAND BAPTIST HOSPITAL
+6bad1969-656e-4432-1a12-d22f829e699b,116154003,Patient,Mr. Aaron697 Jerde200
+6bad1969-656e-4432-1a12-d22f829e699b,223366009,Healthcare professional (occupation),Dr. Rudolf736 Mayert710
+6bad1969-656e-4432-1a12-d22f829e699b,224891009,Healthcare services (qualifier value),NEW ENGLAND BAPTIST HOSPITAL
+c72031f0-6c04-b73d-5b46-a129dc33cca9,116154003,Patient,Ms. Abbey813 Price929
+c72031f0-6c04-b73d-5b46-a129dc33cca9,223366009,Healthcare professional (occupation),Dr. Macy314 Jaskolski867
+c72031f0-6c04-b73d-5b46-a129dc33cca9,224891009,Healthcare services (qualifier value),MEDEXPRESS URGENT CARE PC MASSACHUSETTS
+b22caaf3-21a1-997a-d4b5-d30b11576f7c,116154003,Patient,Ms. Abbey813 Price929
+b22caaf3-21a1-997a-d4b5-d30b11576f7c,223366009,Healthcare professional (occupation),Dr. Loma263 Funk324
+b22caaf3-21a1-997a-d4b5-d30b11576f7c,224891009,Healthcare services (qualifier value),SHRINERS' HOSPITAL FOR CHILDREN (THE)
+76f41492-be05-f8f5-f758-651c75cf052b,116154003,Patient,Mrs. Beth967 Hansen121
+76f41492-be05-f8f5-f758-651c75cf052b,223366009,Healthcare professional (occupation),Dr. Teodora360 Kihn564
+76f41492-be05-f8f5-f758-651c75cf052b,224891009,Healthcare services (qualifier value),"SOUTHCOAST HOSPITAL GROUP, INC"
+52195151-07a0-d762-d3a5-9163c0d82d37,116154003,Patient,Mrs. Beth967 Hansen121
+52195151-07a0-d762-d3a5-9163c0d82d37,223366009,Healthcare professional (occupation),Dr. Etha376 Littel644
+52195151-07a0-d762-d3a5-9163c0d82d37,224891009,Healthcare services (qualifier value),"STANLEY STREET TREATMENT AND RESOURCES, INC"
+008bfb90-e56f-cad3-7e46-8d1fc43deef0,116154003,Patient,Mrs. Beth967 Hansen121
+008bfb90-e56f-cad3-7e46-8d1fc43deef0,223366009,Healthcare professional (occupation),Dr. Teodora360 Kihn564
+008bfb90-e56f-cad3-7e46-8d1fc43deef0,224891009,Healthcare services (qualifier value),"SOUTHCOAST HOSPITAL GROUP, INC"
+09d07a51-8def-fe2b-edb8-70ce98b4d3cd,116154003,Patient,Mrs. Bette450 Anderson154
+09d07a51-8def-fe2b-edb8-70ce98b4d3cd,223366009,Healthcare professional (occupation),Dr. Jayson808 Keeling57
+09d07a51-8def-fe2b-edb8-70ce98b4d3cd,224891009,Healthcare services (qualifier value),PCP170405
+97630582-b548-37fe-eac2-5671c8128c62,116154003,Patient,Mrs. Bette450 Anderson154
+97630582-b548-37fe-eac2-5671c8128c62,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+97630582-b548-37fe-eac2-5671c8128c62,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+981a4d06-120c-4773-4af5-c435f6c9b2ae,116154003,Patient,Mrs. Bette450 Anderson154
+981a4d06-120c-4773-4af5-c435f6c9b2ae,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+981a4d06-120c-4773-4af5-c435f6c9b2ae,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+7a169e68-bf1a-0b2a-95bb-c50f8277fff5,116154003,Patient,Mrs. Bette450 Anderson154
+7a169e68-bf1a-0b2a-95bb-c50f8277fff5,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+7a169e68-bf1a-0b2a-95bb-c50f8277fff5,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+2c3479c5-8b98-bde8-e275-c7ac76558f89,116154003,Patient,Mrs. Bette450 Anderson154
+2c3479c5-8b98-bde8-e275-c7ac76558f89,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+2c3479c5-8b98-bde8-e275-c7ac76558f89,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+b34c258f-e106-0f3c-7ab1-6eaf18418b33,116154003,Patient,Mr. Bill567 Breitenberg711
+b34c258f-e106-0f3c-7ab1-6eaf18418b33,223366009,Healthcare professional (occupation),Dr. Jocelyn538 Green467
+b34c258f-e106-0f3c-7ab1-6eaf18418b33,224891009,Healthcare services (qualifier value),NASHOBA VALLEY MEDICAL CENTER
+f8b18188-e1f3-96bf-bbb2-a1423255c0d3,116154003,Patient,Mrs. Blanch844 Kuhlman484
+f8b18188-e1f3-96bf-bbb2-a1423255c0d3,223366009,Healthcare professional (occupation),Dr. Willie882 Ebert178
+f8b18188-e1f3-96bf-bbb2-a1423255c0d3,224891009,Healthcare services (qualifier value),PCP222354
+5c5794e2-2f84-e6c8-2dbf-3998c120ab53,116154003,Patient,Mrs. Blanch844 Kuhlman484
+5c5794e2-2f84-e6c8-2dbf-3998c120ab53,223366009,Healthcare professional (occupation),Dr. Ingrid581 Jacobson885
+5c5794e2-2f84-e6c8-2dbf-3998c120ab53,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+fa656604-c006-702b-2fb1-c361d19b5b64,116154003,Patient,Mr. Bob965 Mohr916
+fa656604-c006-702b-2fb1-c361d19b5b64,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+fa656604-c006-702b-2fb1-c361d19b5b64,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+3b059a22-9e95-8c56-6ea9-965ee887ec3c,116154003,Patient,Mr. Bob965 Mohr916
+3b059a22-9e95-8c56-6ea9-965ee887ec3c,223366009,Healthcare professional (occupation),Dr. Reinaldo138 Zieme486
+3b059a22-9e95-8c56-6ea9-965ee887ec3c,224891009,Healthcare services (qualifier value),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA)
+47e69466-b73a-4275-5014-6ef4afc38078,116154003,Patient,Mrs. Bobbi508 Beer512
+47e69466-b73a-4275-5014-6ef4afc38078,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+47e69466-b73a-4275-5014-6ef4afc38078,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+8fc90192-ea1d-482c-79db-1ca54d559adb,116154003,Patient,Mrs. Bobbi508 Beer512
+8fc90192-ea1d-482c-79db-1ca54d559adb,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+8fc90192-ea1d-482c-79db-1ca54d559adb,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+2f5b9960-cd24-5e89-903e-1d4c614c5a67,116154003,Patient,Mrs. Bobbi508 Beer512
+2f5b9960-cd24-5e89-903e-1d4c614c5a67,223366009,Healthcare professional (occupation),Dr. Jeffry142 Mraz590
+2f5b9960-cd24-5e89-903e-1d4c614c5a67,224891009,Healthcare services (qualifier value),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC
+35b3a81a-c47f-1515-4f00-6bcdb5394ce0,116154003,Patient,Mrs. Bobbi508 Beer512
+35b3a81a-c47f-1515-4f00-6bcdb5394ce0,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+35b3a81a-c47f-1515-4f00-6bcdb5394ce0,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+a54e82a5-118c-4a0a-efd0-9b3b200a9d55,116154003,Patient,Mrs. Bobbi508 Beer512
+a54e82a5-118c-4a0a-efd0-9b3b200a9d55,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+a54e82a5-118c-4a0a-efd0-9b3b200a9d55,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+9f4a5f18-cc07-39bc-5566-03a2b17f7e00,116154003,Patient,Mrs. Bobbi508 Beer512
+9f4a5f18-cc07-39bc-5566-03a2b17f7e00,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+9f4a5f18-cc07-39bc-5566-03a2b17f7e00,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+813ae5fa-438d-806d-2c26-fd0028abb8b3,116154003,Patient,Mrs. Bobbi508 Beer512
+813ae5fa-438d-806d-2c26-fd0028abb8b3,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+813ae5fa-438d-806d-2c26-fd0028abb8b3,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+adb8d36b-199f-87e9-b743-21d7aaedbf6c,116154003,Patient,Mrs. Bobbi508 Beer512
+adb8d36b-199f-87e9-b743-21d7aaedbf6c,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+adb8d36b-199f-87e9-b743-21d7aaedbf6c,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+3007c10d-d416-ed6d-5a1f-0d39194f0cf6,116154003,Patient,Mrs. Bobbi508 Beer512
+3007c10d-d416-ed6d-5a1f-0d39194f0cf6,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+3007c10d-d416-ed6d-5a1f-0d39194f0cf6,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+962f50d1-5dfc-eccb-f87f-4bfdfcf79344,116154003,Patient,Mr. Chase54 Crooks415
+962f50d1-5dfc-eccb-f87f-4bfdfcf79344,223366009,Healthcare professional (occupation),Dr. Isaac321 Hudson301
+962f50d1-5dfc-eccb-f87f-4bfdfcf79344,224891009,Healthcare services (qualifier value),VHM SERVICES INC
+23e1d5e9-7159-53c3-eb7f-0f43f4bc57ee,116154003,Patient,Mr. Chase54 Crooks415
+23e1d5e9-7159-53c3-eb7f-0f43f4bc57ee,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+23e1d5e9-7159-53c3-eb7f-0f43f4bc57ee,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+262d0e19-77f5-6953-7f15-f867066def6b,116154003,Patient,Mr. Chase54 Crooks415
+262d0e19-77f5-6953-7f15-f867066def6b,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+262d0e19-77f5-6953-7f15-f867066def6b,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+00ca6fe9-a92d-d80a-9d30-5adf81d2f966,116154003,Patient,Mr. Chase54 Crooks415
+00ca6fe9-a92d-d80a-9d30-5adf81d2f966,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+00ca6fe9-a92d-d80a-9d30-5adf81d2f966,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+6a67543c-12d5-15d5-7816-0d3af594a7d5,116154003,Patient,Mr. Chase54 Klocko335
+6a67543c-12d5-15d5-7816-0d3af594a7d5,223366009,Healthcare professional (occupation),Dr. Valentine262 Hirthe744
+6a67543c-12d5-15d5-7816-0d3af594a7d5,224891009,Healthcare services (qualifier value),PCP25388
+8332563d-a2bc-7262-c7d7-8fe00869af27,116154003,Patient,Mr. Chase54 Klocko335
+8332563d-a2bc-7262-c7d7-8fe00869af27,223366009,Healthcare professional (occupation),Dr. Tuan998 Fadel536
+8332563d-a2bc-7262-c7d7-8fe00869af27,224891009,Healthcare services (qualifier value),CAPE COD HOSPITAL
+b6597226-9e9d-0c33-c968-181256ea9a9a,116154003,Patient,Mrs. Chelsie189 Larson43
+b6597226-9e9d-0c33-c968-181256ea9a9a,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+b6597226-9e9d-0c33-c968-181256ea9a9a,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+3a2c19ba-4330-df69-7306-a16f22d577b8,116154003,Patient,Mrs. Chelsie189 Larson43
+3a2c19ba-4330-df69-7306-a16f22d577b8,223366009,Healthcare professional (occupation),Dr. Keith571 Lubowitz58
+3a2c19ba-4330-df69-7306-a16f22d577b8,224891009,Healthcare services (qualifier value),PCP19321
+d00fb46d-2a91-1df2-8c11-4fe489efe202,116154003,Patient,Mrs. Chelsie189 Larson43
+d00fb46d-2a91-1df2-8c11-4fe489efe202,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+d00fb46d-2a91-1df2-8c11-4fe489efe202,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+4ea80961-02e0-d77c-cbd7-76988c9f8c43,116154003,Patient,Mrs. Chelsie189 Larson43
+4ea80961-02e0-d77c-cbd7-76988c9f8c43,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+4ea80961-02e0-d77c-cbd7-76988c9f8c43,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+1a8b2024-5506-2b11-d4ec-6ba656a2524b,116154003,Patient,Mrs. Chelsie189 Larson43
+1a8b2024-5506-2b11-d4ec-6ba656a2524b,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+1a8b2024-5506-2b11-d4ec-6ba656a2524b,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+731b210d-a529-ec25-92ea-e67e3e318fd3,116154003,Patient,Mrs. Chelsie189 Larson43
+731b210d-a529-ec25-92ea-e67e3e318fd3,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+731b210d-a529-ec25-92ea-e67e3e318fd3,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+b7fe7b7d-dcb5-ef36-b384-b5b29be30b47,116154003,Patient,Cherie102 Reinger292
+b7fe7b7d-dcb5-ef36-b384-b5b29be30b47,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+b7fe7b7d-dcb5-ef36-b384-b5b29be30b47,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+fc36b5b4-bf7f-9a8b-c4c9-422980d1e9f8,116154003,Patient,Ms. Deedra511 Wilkinson796
+fc36b5b4-bf7f-9a8b-c4c9-422980d1e9f8,223366009,Healthcare professional (occupation),Dr. Milo271 Stanton715
+fc36b5b4-bf7f-9a8b-c4c9-422980d1e9f8,224891009,Healthcare services (qualifier value),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC
+b0495132-a948-ade1-0d53-98f722016b46,116154003,Patient,Ms. Deedra511 Wilkinson796
+b0495132-a948-ade1-0d53-98f722016b46,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+b0495132-a948-ade1-0d53-98f722016b46,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+9cec4f01-32ab-e026-0bb2-be3957e053a1,116154003,Patient,Ms. Deedra511 Wilkinson796
+9cec4f01-32ab-e026-0bb2-be3957e053a1,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+9cec4f01-32ab-e026-0bb2-be3957e053a1,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+9f135dbf-6792-e30d-3594-ce07d129de1c,116154003,Patient,Ms. Deedra511 Wilkinson796
+9f135dbf-6792-e30d-3594-ce07d129de1c,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+9f135dbf-6792-e30d-3594-ce07d129de1c,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+6e4e8194-1c0c-ac9e-b4d8-7869e596a549,116154003,Patient,Mrs. Deena887 Fahey393
+6e4e8194-1c0c-ac9e-b4d8-7869e596a549,223366009,Healthcare professional (occupation),Dr. Chia293 Jerde200
+6e4e8194-1c0c-ac9e-b4d8-7869e596a549,224891009,Healthcare services (qualifier value),PCP905
+945d4863-6a15-fdd5-d15c-6e11748773d9,116154003,Patient,Mrs. Deena887 Fahey393
+945d4863-6a15-fdd5-d15c-6e11748773d9,223366009,Healthcare professional (occupation),Dr. Chia293 Jerde200
+945d4863-6a15-fdd5-d15c-6e11748773d9,224891009,Healthcare services (qualifier value),PCP905
+49173947-dd63-7198-8a42-e39bb0e80422,116154003,Patient,Mrs. Deena887 Fahey393
+49173947-dd63-7198-8a42-e39bb0e80422,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+49173947-dd63-7198-8a42-e39bb0e80422,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+9a82e176-25e4-1a9b-58ba-6d3a1352274a,116154003,Patient,Mrs. Deena887 Fahey393
+9a82e176-25e4-1a9b-58ba-6d3a1352274a,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+9a82e176-25e4-1a9b-58ba-6d3a1352274a,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+60b903cf-c4f7-0545-46bb-6be63ba5db05,116154003,Patient,Mrs. Deena887 Fahey393
+60b903cf-c4f7-0545-46bb-6be63ba5db05,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+60b903cf-c4f7-0545-46bb-6be63ba5db05,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+7c764b6d-e2f9-a5a3-60ab-4dda41860f1c,116154003,Patient,Mrs. Deena887 Fahey393
+7c764b6d-e2f9-a5a3-60ab-4dda41860f1c,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+7c764b6d-e2f9-a5a3-60ab-4dda41860f1c,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+caacf418-0423-5ff3-61b3-1cacf0f247e9,116154003,Patient,Mr. Delbert384 Farrell962
+caacf418-0423-5ff3-61b3-1cacf0f247e9,223366009,Healthcare professional (occupation),Dr. Myrna889 Schmitt836
+caacf418-0423-5ff3-61b3-1cacf0f247e9,224891009,Healthcare services (qualifier value),GUARDIAN BROCKTON PC
+bc92b826-fb81-e474-12c2-1a81686557a1,116154003,Patient,Mr. Delbert384 Farrell962
+bc92b826-fb81-e474-12c2-1a81686557a1,223366009,Healthcare professional (occupation),Dr. Elayne206 Renner328
+bc92b826-fb81-e474-12c2-1a81686557a1,224891009,Healthcare services (qualifier value),GOOD SAMARITAN MEDICAL CENTER
+a347479c-8651-25eb-6a4d-a0ce79637cfb,116154003,Patient,Mr. Delbert384 Farrell962
+a347479c-8651-25eb-6a4d-a0ce79637cfb,223366009,Healthcare professional (occupation),Dr. Elayne206 Renner328
+a347479c-8651-25eb-6a4d-a0ce79637cfb,224891009,Healthcare services (qualifier value),GOOD SAMARITAN MEDICAL CENTER
+3c47b3f2-f824-c9c0-946a-8fdc8d506ad4,116154003,Patient,Mr. Delbert384 Farrell962
+3c47b3f2-f824-c9c0-946a-8fdc8d506ad4,223366009,Healthcare professional (occupation),Dr. Elayne206 Renner328
+3c47b3f2-f824-c9c0-946a-8fdc8d506ad4,224891009,Healthcare services (qualifier value),GOOD SAMARITAN MEDICAL CENTER
+4145f6c9-d503-e534-4a61-8b429a7668ac,116154003,Patient,Mr. Delbert384 Farrell962
+4145f6c9-d503-e534-4a61-8b429a7668ac,223366009,Healthcare professional (occupation),Dr. Elayne206 Renner328
+4145f6c9-d503-e534-4a61-8b429a7668ac,224891009,Healthcare services (qualifier value),GOOD SAMARITAN MEDICAL CENTER
+63d4d3ff-1457-bd19-9abb-894474832687,116154003,Patient,Mrs. Delfina519 Murphy561
+63d4d3ff-1457-bd19-9abb-894474832687,223366009,Healthcare professional (occupation),Dr. Phuong301 Thiel172
+63d4d3ff-1457-bd19-9abb-894474832687,224891009,Healthcare services (qualifier value),PCP10332
+6cd3b545-bc02-d658-aa2a-e7dfb0998871,116154003,Patient,Mrs. Delfina519 Murphy561
+6cd3b545-bc02-d658-aa2a-e7dfb0998871,223366009,Healthcare professional (occupation),Dr. Phuong301 Thiel172
+6cd3b545-bc02-d658-aa2a-e7dfb0998871,224891009,Healthcare services (qualifier value),PCP10332
+b3fbb548-3f84-060c-faab-345489acad9a,116154003,Patient,Mrs. Delfina519 Murphy561
+b3fbb548-3f84-060c-faab-345489acad9a,223366009,Healthcare professional (occupation),Dr. Ingrid581 Jacobson885
+b3fbb548-3f84-060c-faab-345489acad9a,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+0176d979-bfce-eb72-b9d3-a231a184595b,116154003,Patient,Mrs. Delfina519 Murphy561
+0176d979-bfce-eb72-b9d3-a231a184595b,223366009,Healthcare professional (occupation),Dr. Ingrid581 Jacobson885
+0176d979-bfce-eb72-b9d3-a231a184595b,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+f97f9079-725a-2825-2e32-cba551449ba6,116154003,Patient,Mrs. Delia459 Beier427
+f97f9079-725a-2825-2e32-cba551449ba6,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+f97f9079-725a-2825-2e32-cba551449ba6,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+d0faa483-46bb-fcc1-b940-20dc57ecaf75,116154003,Patient,Mrs. Delia459 Beier427
+d0faa483-46bb-fcc1-b940-20dc57ecaf75,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+d0faa483-46bb-fcc1-b940-20dc57ecaf75,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+6f97a12a-91d7-05a3-2277-ea69ef179b31,116154003,Patient,Mrs. Delia459 Beier427
+6f97a12a-91d7-05a3-2277-ea69ef179b31,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+6f97a12a-91d7-05a3-2277-ea69ef179b31,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+f78d2b69-a9cd-1b7f-70b9-42416d698e73,116154003,Patient,Mrs. Della552 Ratke343
+f78d2b69-a9cd-1b7f-70b9-42416d698e73,223366009,Healthcare professional (occupation),Dr. Krishna674 Bartell116
+f78d2b69-a9cd-1b7f-70b9-42416d698e73,224891009,Healthcare services (qualifier value),CARL GUSTAFSON LLC
+76371700-3b01-a2b8-de6d-2f743b9cbcc4,116154003,Patient,Mrs. Della552 Ratke343
+76371700-3b01-a2b8-de6d-2f743b9cbcc4,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+76371700-3b01-a2b8-de6d-2f743b9cbcc4,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+ad667791-8991-6586-50ce-37b641b6b751,116154003,Patient,Mrs. Della552 Ratke343
+ad667791-8991-6586-50ce-37b641b6b751,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+ad667791-8991-6586-50ce-37b641b6b751,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+9a2966ff-f2df-8791-f104-7915d1d0e4f8,116154003,Patient,Delmar187 Lesch175
+9a2966ff-f2df-8791-f104-7915d1d0e4f8,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+9a2966ff-f2df-8791-f104-7915d1d0e4f8,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+1359938f-766e-f582-fc30-d6faa70944c5,116154003,Patient,Delmar187 Lesch175
+1359938f-766e-f582-fc30-d6faa70944c5,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+1359938f-766e-f582-fc30-d6faa70944c5,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+bf7d9ec2-0926-22fb-4862-19434d213fc7,116154003,Patient,Ms. Eveline832 Volkman526
+bf7d9ec2-0926-22fb-4862-19434d213fc7,223366009,Healthcare professional (occupation),Dr. Jocelyn538 Green467
+bf7d9ec2-0926-22fb-4862-19434d213fc7,224891009,Healthcare services (qualifier value),NASHOBA VALLEY MEDICAL CENTER
+cad7a604-b597-73b4-691d-dd8636f81d05,116154003,Patient,Ms. Eveline832 Volkman526
+cad7a604-b597-73b4-691d-dd8636f81d05,223366009,Healthcare professional (occupation),Dr. Anton902 Graham902
+cad7a604-b597-73b4-691d-dd8636f81d05,224891009,Healthcare services (qualifier value),PCP169387
+7a318aae-5fa4-371c-7ea7-835ebf8a7ebf,116154003,Patient,Ms. Eveline832 Volkman526
+7a318aae-5fa4-371c-7ea7-835ebf8a7ebf,223366009,Healthcare professional (occupation),Dr. Jocelyn538 Green467
+7a318aae-5fa4-371c-7ea7-835ebf8a7ebf,224891009,Healthcare services (qualifier value),NASHOBA VALLEY MEDICAL CENTER
+7a9ea4f7-f9cc-acb2-a266-00bb627154b7,116154003,Patient,Ms. Eveline832 Volkman526
+7a9ea4f7-f9cc-acb2-a266-00bb627154b7,223366009,Healthcare professional (occupation),Dr. Jocelyn538 Green467
+7a9ea4f7-f9cc-acb2-a266-00bb627154b7,224891009,Healthcare services (qualifier value),NASHOBA VALLEY MEDICAL CENTER
+97982822-e247-b73f-ee7d-190df22ca8fc,116154003,Patient,Mr. Everett935 Littel644
+97982822-e247-b73f-ee7d-190df22ca8fc,223366009,Healthcare professional (occupation),Dr. Alberto639 Muller251
+97982822-e247-b73f-ee7d-190df22ca8fc,224891009,Healthcare services (qualifier value),PCP356252
+bbfbc2a7-5562-12e0-80f1-172e3f30551c,116154003,Patient,Mr. Everett935 Littel644
+bbfbc2a7-5562-12e0-80f1-172e3f30551c,223366009,Healthcare professional (occupation),Dr. Cristina921 Valles311
+bbfbc2a7-5562-12e0-80f1-172e3f30551c,224891009,Healthcare services (qualifier value),HOLY FAMILY HOSPITAL
+9a233ef2-38f8-2606-77cd-49d956a27c94,116154003,Patient,Mr. Everette494 Jerde200
+9a233ef2-38f8-2606-77cd-49d956a27c94,223366009,Healthcare professional (occupation),Dr. Sharyn437 Hand679
+9a233ef2-38f8-2606-77cd-49d956a27c94,224891009,Healthcare services (qualifier value),PCP59391
+2cf9d773-fedf-397b-ef0d-4d29a062e824,116154003,Patient,Mr. Everette494 Jerde200
+2cf9d773-fedf-397b-ef0d-4d29a062e824,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+2cf9d773-fedf-397b-ef0d-4d29a062e824,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+a264120b-b141-ec67-051b-6ff4e073893c,116154003,Patient,Mr. Everette494 Jerde200
+a264120b-b141-ec67-051b-6ff4e073893c,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+a264120b-b141-ec67-051b-6ff4e073893c,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+27285dd7-91b8-37e0-4ae1-b105332244bc,116154003,Patient,Mr. Everette494 Jerde200
+27285dd7-91b8-37e0-4ae1-b105332244bc,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+27285dd7-91b8-37e0-4ae1-b105332244bc,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+9fd626fa-df65-c28e-7ceb-aaf324139bc3,116154003,Patient,Ms. Evon528 Hayes766
+9fd626fa-df65-c28e-7ceb-aaf324139bc3,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+9fd626fa-df65-c28e-7ceb-aaf324139bc3,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+27953c03-79de-49d5-7b37-623ed0e8f63a,116154003,Patient,Ms. Evon528 Hayes766
+27953c03-79de-49d5-7b37-623ed0e8f63a,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+27953c03-79de-49d5-7b37-623ed0e8f63a,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+f17e7d59-7dae-ce07-e7da-24a40dbf07f2,116154003,Patient,Ms. Evon528 Hayes766
+f17e7d59-7dae-ce07-e7da-24a40dbf07f2,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+f17e7d59-7dae-ce07-e7da-24a40dbf07f2,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+6f8d428c-e19c-c255-defe-beaf7d0e7194,116154003,Patient,Ms. Evon528 Hayes766
+6f8d428c-e19c-c255-defe-beaf7d0e7194,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+6f8d428c-e19c-c255-defe-beaf7d0e7194,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+b0017180-039f-ac01-5299-0b8eb5242abd,116154003,Patient,Ms. Evon528 Hayes766
+b0017180-039f-ac01-5299-0b8eb5242abd,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+b0017180-039f-ac01-5299-0b8eb5242abd,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+be50c0fa-8d57-bc8d-0d66-88bc2924b9c4,116154003,Patient,Mrs. Genevive999 Crist667
+be50c0fa-8d57-bc8d-0d66-88bc2924b9c4,223366009,Healthcare professional (occupation),Dr. Alix578 Lynch190
+be50c0fa-8d57-bc8d-0d66-88bc2924b9c4,224891009,Healthcare services (qualifier value),EMERSON HOSPITAL -
+bc9c56ba-00eb-ebbe-4025-20700f42eb10,116154003,Patient,Mrs. Genevive999 Crist667
+bc9c56ba-00eb-ebbe-4025-20700f42eb10,223366009,Healthcare professional (occupation),Dr. Keven605 Mueller846
+bc9c56ba-00eb-ebbe-4025-20700f42eb10,224891009,Healthcare services (qualifier value),UMASS MEMORIAL MEDICAL CENTER INC
+d10effaf-4e8d-a4b7-5861-5b065752fc07,116154003,Patient,Mrs. Genevive999 Crist667
+d10effaf-4e8d-a4b7-5861-5b065752fc07,223366009,Healthcare professional (occupation),Dr. Alix578 Lynch190
+d10effaf-4e8d-a4b7-5861-5b065752fc07,224891009,Healthcare services (qualifier value),EMERSON HOSPITAL -
+c3dd77c7-7d09-bef8-a0d5-e4fd95d9bb30,116154003,Patient,Mrs. Genevive999 Crist667
+c3dd77c7-7d09-bef8-a0d5-e4fd95d9bb30,223366009,Healthcare professional (occupation),Dr. Sandy901 Turner526
+c3dd77c7-7d09-bef8-a0d5-e4fd95d9bb30,224891009,Healthcare services (qualifier value),ST VINCENT HOSPITAL
+fc3358f8-dd9f-abae-633c-4d35ef7e25a4,116154003,Patient,Mrs. Genevive999 Crist667
+fc3358f8-dd9f-abae-633c-4d35ef7e25a4,223366009,Healthcare professional (occupation),Dr. Alix578 Lynch190
+fc3358f8-dd9f-abae-633c-4d35ef7e25a4,224891009,Healthcare services (qualifier value),EMERSON HOSPITAL -
+a0ece3a1-b1e7-932a-4e35-955c9e9d04ef,116154003,Patient,Mrs. Georgann131 Hansen121
+a0ece3a1-b1e7-932a-4e35-955c9e9d04ef,223366009,Healthcare professional (occupation),Dr. Doretha289 Bashirian201
+a0ece3a1-b1e7-932a-4e35-955c9e9d04ef,224891009,Healthcare services (qualifier value),MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+359cc59b-c6dc-3849-2243-d8b4c6983c33,116154003,Patient,Mrs. Georgann131 Hansen121
+359cc59b-c6dc-3849-2243-d8b4c6983c33,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+359cc59b-c6dc-3849-2243-d8b4c6983c33,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+d446d78c-8cfc-e524-d61d-62e6cc0bde4e,116154003,Patient,Mrs. Georgann131 Hansen121
+d446d78c-8cfc-e524-d61d-62e6cc0bde4e,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+d446d78c-8cfc-e524-d61d-62e6cc0bde4e,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+92be5d54-07d9-5339-dda5-e6357aaf8c4b,116154003,Patient,Mrs. Georgann131 Hansen121
+92be5d54-07d9-5339-dda5-e6357aaf8c4b,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+92be5d54-07d9-5339-dda5-e6357aaf8c4b,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+0380acd0-1722-e1d6-4c47-ceed8f678f9e,116154003,Patient,Mrs. Georgann131 Hansen121
+0380acd0-1722-e1d6-4c47-ceed8f678f9e,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+0380acd0-1722-e1d6-4c47-ceed8f678f9e,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+67ec4acc-70b5-b3da-ed65-7ecb39ea3195,116154003,Patient,Mrs. Georgann131 Hansen121
+67ec4acc-70b5-b3da-ed65-7ecb39ea3195,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+67ec4acc-70b5-b3da-ed65-7ecb39ea3195,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+5d44293d-60e3-db90-883b-8858d973ba99,116154003,Patient,Mrs. Georgann131 Hansen121
+5d44293d-60e3-db90-883b-8858d973ba99,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+5d44293d-60e3-db90-883b-8858d973ba99,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+2c5d42d0-ac73-68dc-e9a4-b4d312df2e14,116154003,Patient,Mrs. Georgann131 Hansen121
+2c5d42d0-ac73-68dc-e9a4-b4d312df2e14,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+2c5d42d0-ac73-68dc-e9a4-b4d312df2e14,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+f0d77a9a-a455-b21c-b9a8-599a739bb137,116154003,Patient,Mrs. Georgann131 Hansen121
+f0d77a9a-a455-b21c-b9a8-599a739bb137,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+f0d77a9a-a455-b21c-b9a8-599a739bb137,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+063538d4-b614-7c10-eadc-b72db7be319a,116154003,Patient,Mr. George991 Kassulke119
+063538d4-b614-7c10-eadc-b72db7be319a,223366009,Healthcare professional (occupation),Dr. Kelly223 Weber641
+063538d4-b614-7c10-eadc-b72db7be319a,224891009,Healthcare services (qualifier value),PCP80065
+8459971f-0ed3-d7a8-9411-5064759a8c6a,116154003,Patient,Mr. George991 Kassulke119
+8459971f-0ed3-d7a8-9411-5064759a8c6a,223366009,Healthcare professional (occupation),Dr. Hobert364 King743
+8459971f-0ed3-d7a8-9411-5064759a8c6a,224891009,Healthcare services (qualifier value),Causeway OPC
+8e495b29-f87c-4882-90f3-a7ad01a3724d,116154003,Patient,Mr. George991 Kassulke119
+8e495b29-f87c-4882-90f3-a7ad01a3724d,223366009,Healthcare professional (occupation),Dr. Wilfredo622 Medhurst46
+8e495b29-f87c-4882-90f3-a7ad01a3724d,224891009,Healthcare services (qualifier value),CAMBRIDGE HEALTH ALLIANCE
+4d22de69-8530-f6da-7d44-5a0a7dfc41fe,116154003,Patient,Mrs. Georgiana151 Jacobi462
+4d22de69-8530-f6da-7d44-5a0a7dfc41fe,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+4d22de69-8530-f6da-7d44-5a0a7dfc41fe,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+6138c5dc-25ac-5ad8-e9d6-5d9a770cf287,116154003,Patient,Mrs. Georgiana151 Jacobi462
+6138c5dc-25ac-5ad8-e9d6-5d9a770cf287,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+6138c5dc-25ac-5ad8-e9d6-5d9a770cf287,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+5a11761d-cf9c-1dea-e7b7-08437ded9841,116154003,Patient,Mrs. Georgiana151 Jacobi462
+5a11761d-cf9c-1dea-e7b7-08437ded9841,223366009,Healthcare professional (occupation),Dr. Andrea7 Hirthe744
+5a11761d-cf9c-1dea-e7b7-08437ded9841,224891009,Healthcare services (qualifier value),WINCHESTER HOSPITAL
+acf145cc-a35d-6268-be3c-1881e71c1674,116154003,Patient,Ms. Gilma310 Hahn503
+acf145cc-a35d-6268-be3c-1881e71c1674,223366009,Healthcare professional (occupation),Dr. Kerry175 Schneider199
+acf145cc-a35d-6268-be3c-1881e71c1674,224891009,Healthcare services (qualifier value),HOLYOKE HEALTH CENTER INC.
+a3377d81-9640-3558-6fc5-2c6b13f94d45,116154003,Patient,Ms. Gilma310 Hahn503
+a3377d81-9640-3558-6fc5-2c6b13f94d45,223366009,Healthcare professional (occupation),Dr. Kerry175 Schneider199
+a3377d81-9640-3558-6fc5-2c6b13f94d45,224891009,Healthcare services (qualifier value),HOLYOKE HEALTH CENTER INC.
+68118fc8-ca9a-0ae4-dd6c-03a4c4a63e5b,116154003,Patient,Ms. Gilma310 Hahn503
+68118fc8-ca9a-0ae4-dd6c-03a4c4a63e5b,223366009,Healthcare professional (occupation),Dr. Henry768 Paucek755
+68118fc8-ca9a-0ae4-dd6c-03a4c4a63e5b,224891009,Healthcare services (qualifier value),BAYSTATE MEDICAL CENTER
+eba56d98-376b-7f60-c9ee-235815862857,116154003,Patient,Ms. Gilma310 Hahn503
+eba56d98-376b-7f60-c9ee-235815862857,223366009,Healthcare professional (occupation),Dr. Henry768 Paucek755
+eba56d98-376b-7f60-c9ee-235815862857,224891009,Healthcare services (qualifier value),BAYSTATE MEDICAL CENTER
+9cbca65b-4f4e-d53c-34eb-ba30ebe3817e,116154003,Patient,Ms. Gilma310 Hahn503
+9cbca65b-4f4e-d53c-34eb-ba30ebe3817e,223366009,Healthcare professional (occupation),Dr. Douglass930 Windler79
+9cbca65b-4f4e-d53c-34eb-ba30ebe3817e,224891009,Healthcare services (qualifier value),MERCY MEDICAL CTR
+b3e962a9-fce8-e8ea-7409-9480bb12daa0,116154003,Patient,Ms. Gilma310 Hahn503
+b3e962a9-fce8-e8ea-7409-9480bb12daa0,223366009,Healthcare professional (occupation),Dr. Henry768 Paucek755
+b3e962a9-fce8-e8ea-7409-9480bb12daa0,224891009,Healthcare services (qualifier value),BAYSTATE MEDICAL CENTER
+90dd550b-61c7-f9ef-e8a4-37188bf50593,116154003,Patient,Ms. Gilma310 Hahn503
+90dd550b-61c7-f9ef-e8a4-37188bf50593,223366009,Healthcare professional (occupation),Dr. Henry768 Paucek755
+90dd550b-61c7-f9ef-e8a4-37188bf50593,224891009,Healthcare services (qualifier value),BAYSTATE MEDICAL CENTER
+de3e9025-7238-da4c-16d8-f7bcc7a27539,116154003,Patient,Ms. Gilma310 Hahn503
+de3e9025-7238-da4c-16d8-f7bcc7a27539,223366009,Healthcare professional (occupation),Dr. Henry768 Paucek755
+de3e9025-7238-da4c-16d8-f7bcc7a27539,224891009,Healthcare services (qualifier value),BAYSTATE MEDICAL CENTER
+b3872844-a801-2d04-f37c-d8fdd3250476,116154003,Patient,Mr. Giuseppe872 Haley279
+b3872844-a801-2d04-f37c-d8fdd3250476,223366009,Healthcare professional (occupation),Dr. Eleanore671 Kiehn525
+b3872844-a801-2d04-f37c-d8fdd3250476,224891009,Healthcare services (qualifier value),"VALLEY CHIROPRACTIC AND REHABILITATION, LLC"
+ccb25212-092d-46d1-f0b3-2545dff847d0,116154003,Patient,Mr. Giuseppe872 Haley279
+ccb25212-092d-46d1-f0b3-2545dff847d0,223366009,Healthcare professional (occupation),Dr. Loma263 Funk324
+ccb25212-092d-46d1-f0b3-2545dff847d0,224891009,Healthcare services (qualifier value),SHRINERS' HOSPITAL FOR CHILDREN (THE)
+117c5d98-0594-d4a8-5bc2-d677307305af,116154003,Patient,Mr. Giuseppe872 Haley279
+117c5d98-0594-d4a8-5bc2-d677307305af,223366009,Healthcare professional (occupation),Dr. Douglass930 Windler79
+117c5d98-0594-d4a8-5bc2-d677307305af,224891009,Healthcare services (qualifier value),MERCY MEDICAL CTR
+2499246e-05bc-7034-e617-43eaefe2cc5b,116154003,Patient,Mr. Giuseppe872 Haley279
+2499246e-05bc-7034-e617-43eaefe2cc5b,223366009,Healthcare professional (occupation),Dr. Douglass930 Windler79
+2499246e-05bc-7034-e617-43eaefe2cc5b,224891009,Healthcare services (qualifier value),MERCY MEDICAL CTR
+858b7a51-5b9e-77f0-26c9-70a48eb3194c,116154003,Patient,Mr. Gonzalo160 Bañuelos542
+858b7a51-5b9e-77f0-26c9-70a48eb3194c,223366009,Healthcare professional (occupation),Dr. Aron520 Botsford977
+858b7a51-5b9e-77f0-26c9-70a48eb3194c,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, Jamaica Plain Campus"
+67e947fe-5423-bcea-e583-2de099f6b306,116154003,Patient,Mr. Gonzalo160 Bañuelos542
+67e947fe-5423-bcea-e583-2de099f6b306,223366009,Healthcare professional (occupation),Dr. Aron520 Botsford977
+67e947fe-5423-bcea-e583-2de099f6b306,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, Jamaica Plain Campus"
+6ba6ec95-9978-8812-5ac5-1680f6d2e2c6,116154003,Patient,Mr. Gonzalo160 Bañuelos542
+6ba6ec95-9978-8812-5ac5-1680f6d2e2c6,223366009,Healthcare professional (occupation),Dr. Aron520 Botsford977
+6ba6ec95-9978-8812-5ac5-1680f6d2e2c6,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, Jamaica Plain Campus"
+59ad0672-ac05-2231-9c18-1d360105206f,116154003,Patient,Mr. Gonzalo160 Bañuelos542
+59ad0672-ac05-2231-9c18-1d360105206f,223366009,Healthcare professional (occupation),Dr. Wilfredo622 Medhurst46
+59ad0672-ac05-2231-9c18-1d360105206f,224891009,Healthcare services (qualifier value),CAMBRIDGE HEALTH ALLIANCE
+64e9cbfc-1655-aba1-41a2-de6492c2bdf3,116154003,Patient,Mr. Gus973 Windler79
+64e9cbfc-1655-aba1-41a2-de6492c2bdf3,223366009,Healthcare professional (occupation),Dr. Domenica436 Tremblay80
+64e9cbfc-1655-aba1-41a2-de6492c2bdf3,224891009,Healthcare services (qualifier value),HEYWOOD HOSPITAL -
+96d2148f-685c-77e1-c859-5f22b852ddab,116154003,Patient,Mr. Gus973 Windler79
+96d2148f-685c-77e1-c859-5f22b852ddab,223366009,Healthcare professional (occupation),Dr. Kasi212 Runolfsson901
+96d2148f-685c-77e1-c859-5f22b852ddab,224891009,Healthcare services (qualifier value),PCP34313
+a1f7e7ed-f9b4-7738-139a-b6233e8f9076,116154003,Patient,Mr. Hans694 Fahey393
+a1f7e7ed-f9b4-7738-139a-b6233e8f9076,223366009,Healthcare professional (occupation),Dr. Tuan998 Fadel536
+a1f7e7ed-f9b4-7738-139a-b6233e8f9076,224891009,Healthcare services (qualifier value),CAPE COD HOSPITAL
+0cb06f0a-34b9-03b5-9a34-c3f7eb47c5b7,116154003,Patient,Mr. Hans694 Fahey393
+0cb06f0a-34b9-03b5-9a34-c3f7eb47c5b7,223366009,Healthcare professional (occupation),Dr. Tuan998 Fadel536
+0cb06f0a-34b9-03b5-9a34-c3f7eb47c5b7,224891009,Healthcare services (qualifier value),CAPE COD HOSPITAL
+4feaa8f7-5cf3-6e62-bae3-4a275273e664,116154003,Patient,Mr. Hans694 Fahey393
+4feaa8f7-5cf3-6e62-bae3-4a275273e664,223366009,Healthcare professional (occupation),Dr. Garfield38 Miller503
+4feaa8f7-5cf3-6e62-bae3-4a275273e664,224891009,Healthcare services (qualifier value),PCP5308
+46246c4c-022b-1c19-56bd-ee041dfc9729,116154003,Patient,Mr. Hans694 Fahey393
+46246c4c-022b-1c19-56bd-ee041dfc9729,223366009,Healthcare professional (occupation),Dr. Tuan998 Fadel536
+46246c4c-022b-1c19-56bd-ee041dfc9729,224891009,Healthcare services (qualifier value),CAPE COD HOSPITAL
+013c15ff-e994-3b15-a63f-f8a1bcc1fc66,116154003,Patient,Mr. Hans694 Fahey393
+013c15ff-e994-3b15-a63f-f8a1bcc1fc66,223366009,Healthcare professional (occupation),Dr. Tuan998 Fadel536
+013c15ff-e994-3b15-a63f-f8a1bcc1fc66,224891009,Healthcare services (qualifier value),CAPE COD HOSPITAL
+17738079-b49d-f69e-c4b2-f4131296aba2,116154003,Patient,Hans694 Fritsch593
+17738079-b49d-f69e-c4b2-f4131296aba2,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+17738079-b49d-f69e-c4b2-f4131296aba2,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+9a268422-085a-4561-cb6f-9a623bd017ef,116154003,Patient,Mr. Hans694 Littel644
+9a268422-085a-4561-cb6f-9a623bd017ef,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+9a268422-085a-4561-cb6f-9a623bd017ef,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+f879cf0d-7891-c35f-1525-4567b2a312f1,116154003,Patient,Mr. Hans694 Littel644
+f879cf0d-7891-c35f-1525-4567b2a312f1,223366009,Healthcare professional (occupation),Dr. Richard937 Hackett68
+f879cf0d-7891-c35f-1525-4567b2a312f1,224891009,Healthcare services (qualifier value),PCP17060
+5c85e202-a479-ec53-0d9d-281ced206523,116154003,Patient,Mr. Hans694 Littel644
+5c85e202-a479-ec53-0d9d-281ced206523,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+5c85e202-a479-ec53-0d9d-281ced206523,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+42290235-dbed-5dc9-db4b-3541d68eba02,116154003,Patient,Mr. Hans694 Littel644
+42290235-dbed-5dc9-db4b-3541d68eba02,223366009,Healthcare professional (occupation),Dr. Teodora360 Kihn564
+42290235-dbed-5dc9-db4b-3541d68eba02,224891009,Healthcare services (qualifier value),"SOUTHCOAST HOSPITAL GROUP, INC"
+793010bf-fe0e-864d-e6de-57deaa3b7507,116154003,Patient,Mr. Hans694 Littel644
+793010bf-fe0e-864d-e6de-57deaa3b7507,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+793010bf-fe0e-864d-e6de-57deaa3b7507,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+b10c247a-da02-4f7a-edfa-47842d1bfb85,116154003,Patient,Mr. Hans694 Littel644
+b10c247a-da02-4f7a-edfa-47842d1bfb85,223366009,Healthcare professional (occupation),Dr. Teodora360 Kihn564
+b10c247a-da02-4f7a-edfa-47842d1bfb85,224891009,Healthcare services (qualifier value),"SOUTHCOAST HOSPITAL GROUP, INC"
+30563653-9662-2f39-1c77-cca21085feaf,116154003,Patient,Mr. Hans694 Littel644
+30563653-9662-2f39-1c77-cca21085feaf,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+30563653-9662-2f39-1c77-cca21085feaf,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+7b8ef499-dfa8-2530-d3d1-10de3ef79ed0,116154003,Patient,Mr. Hans694 Littel644
+7b8ef499-dfa8-2530-d3d1-10de3ef79ed0,223366009,Healthcare professional (occupation),Dr. Cecille691 Halvorson124
+7b8ef499-dfa8-2530-d3d1-10de3ef79ed0,224891009,Healthcare services (qualifier value),SAINT ANNE'S HOSPITAL
+1430dfee-1f30-5cd9-4b63-69d15fbe74b3,116154003,Patient,Mr. Harland508 Hintz995
+1430dfee-1f30-5cd9-4b63-69d15fbe74b3,223366009,Healthcare professional (occupation),Dr. Amira620 Nienow652
+1430dfee-1f30-5cd9-4b63-69d15fbe74b3,224891009,Healthcare services (qualifier value),SOUTH SHORE HOSPITAL
+3bf0d336-5726-ca04-53e4-7229e2856413,116154003,Patient,Mr. Harland508 Hintz995
+3bf0d336-5726-ca04-53e4-7229e2856413,223366009,Healthcare professional (occupation),Dr. Patria17 Rutherford999
+3bf0d336-5726-ca04-53e4-7229e2856413,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL-MILTON INC
+24c83d22-4c8e-475b-ea61-b9d59af47070,116154003,Patient,Mr. Harland508 Hintz995
+24c83d22-4c8e-475b-ea61-b9d59af47070,223366009,Healthcare professional (occupation),Dr. Lon587 Quitzon246
+24c83d22-4c8e-475b-ea61-b9d59af47070,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, West Roxbury Campus"
+7067bd29-cc9b-857a-1793-57f2e09cb3ae,116154003,Patient,Mr. Harland508 Hintz995
+7067bd29-cc9b-857a-1793-57f2e09cb3ae,223366009,Healthcare professional (occupation),Dr. Lon587 Quitzon246
+7067bd29-cc9b-857a-1793-57f2e09cb3ae,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, West Roxbury Campus"
+0ebc643e-505d-4a7a-cce1-ac14521ee0e3,116154003,Patient,Mr. Harland508 Hintz995
+0ebc643e-505d-4a7a-cce1-ac14521ee0e3,223366009,Healthcare professional (occupation),Dr. Lon587 Quitzon246
+0ebc643e-505d-4a7a-cce1-ac14521ee0e3,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, West Roxbury Campus"
+c95c873b-bba8-5772-2074-96350154be96,116154003,Patient,Mr. Harland508 Hintz995
+c95c873b-bba8-5772-2074-96350154be96,223366009,Healthcare professional (occupation),Dr. Amira620 Nienow652
+c95c873b-bba8-5772-2074-96350154be96,224891009,Healthcare services (qualifier value),SOUTH SHORE HOSPITAL
+5305b9d1-854b-cb04-6f49-849879c90805,116154003,Patient,Mr. Harland508 Hintz995
+5305b9d1-854b-cb04-6f49-849879c90805,223366009,Healthcare professional (occupation),Dr. Lon587 Quitzon246
+5305b9d1-854b-cb04-6f49-849879c90805,224891009,Healthcare services (qualifier value),"VA Boston Healthcare System, West Roxbury Campus"
+fbba3f1c-0d67-c610-146d-9f73e0c2c76f,116154003,Patient,Mr. Harold594 Grimes165
+fbba3f1c-0d67-c610-146d-9f73e0c2c76f,223366009,Healthcare professional (occupation),Dr. Kemberly945 Stoltenberg489
+fbba3f1c-0d67-c610-146d-9f73e0c2c76f,224891009,Healthcare services (qualifier value),"WORCESTER DERMATOLOGY ASSOCIATES, P.C."
+7ee1fd9a-d5c2-400e-14b3-c766fd0b1f0c,116154003,Patient,Mr. Harold594 Grimes165
+7ee1fd9a-d5c2-400e-14b3-c766fd0b1f0c,223366009,Healthcare professional (occupation),Dr. Sandy901 Turner526
+7ee1fd9a-d5c2-400e-14b3-c766fd0b1f0c,224891009,Healthcare services (qualifier value),ST VINCENT HOSPITAL
+b71bda4d-fff2-dc54-6c87-8607c19c84f8,116154003,Patient,Mr. Harold594 Grimes165
+b71bda4d-fff2-dc54-6c87-8607c19c84f8,223366009,Healthcare professional (occupation),Dr. Keven605 Mueller846
+b71bda4d-fff2-dc54-6c87-8607c19c84f8,224891009,Healthcare services (qualifier value),UMASS MEMORIAL MEDICAL CENTER INC
+d1803ea6-faa8-beaa-9f8c-47614a23efad,116154003,Patient,Mr. Harold594 Grimes165
+d1803ea6-faa8-beaa-9f8c-47614a23efad,223366009,Healthcare professional (occupation),Dr. Nathanael908 Friesen796
+d1803ea6-faa8-beaa-9f8c-47614a23efad,224891009,Healthcare services (qualifier value),ADCARE HOSPITAL OF WORCESTER INC
+86da3530-a540-b8da-be10-7d26b4567037,116154003,Patient,Mr. Harold594 Grimes165
+86da3530-a540-b8da-be10-7d26b4567037,223366009,Healthcare professional (occupation),Dr. Sandy901 Turner526
+86da3530-a540-b8da-be10-7d26b4567037,224891009,Healthcare services (qualifier value),ST VINCENT HOSPITAL
+e47f0b5b-a75b-39f3-bc85-0db30a094660,116154003,Patient,Ms. James276 Champlin946
+e47f0b5b-a75b-39f3-bc85-0db30a094660,223366009,Healthcare professional (occupation),Dr. Burt293 Quigley282
+e47f0b5b-a75b-39f3-bc85-0db30a094660,224891009,Healthcare services (qualifier value),HARRINGTON MEMORIAL HOSPITAL-1
+45a2272d-f344-56d9-73dd-2b76e3c96984,116154003,Patient,Ms. James276 Champlin946
+45a2272d-f344-56d9-73dd-2b76e3c96984,223366009,Healthcare professional (occupation),Dr. Randall756 Turcotte120
+45a2272d-f344-56d9-73dd-2b76e3c96984,224891009,Healthcare services (qualifier value),HARRINGTON PHYSICIAN SERVICES INC
+2cb76113-242e-d44c-f4d1-d3e4fdaff357,116154003,Patient,Ms. James276 Champlin946
+2cb76113-242e-d44c-f4d1-d3e4fdaff357,223366009,Healthcare professional (occupation),Dr. Burt293 Quigley282
+2cb76113-242e-d44c-f4d1-d3e4fdaff357,224891009,Healthcare services (qualifier value),HARRINGTON MEMORIAL HOSPITAL-1
+3b07cb44-2b8c-5666-ccf5-e811d0ca0384,116154003,Patient,Mr. Jamey282 Hayes766
+3b07cb44-2b8c-5666-ccf5-e811d0ca0384,223366009,Healthcare professional (occupation),Dr. Ramon749 Wyman904
+3b07cb44-2b8c-5666-ccf5-e811d0ca0384,224891009,Healthcare services (qualifier value),PCP260628
+3949ca92-7b5b-3fcb-ce23-7fdc85c53f2a,116154003,Patient,Mr. Jamey282 Hayes766
+3949ca92-7b5b-3fcb-ce23-7fdc85c53f2a,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+3949ca92-7b5b-3fcb-ce23-7fdc85c53f2a,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+060af9ab-ff7d-2c22-325c-d4b8a47ee336,116154003,Patient,Mr. Jamey282 Hayes766
+060af9ab-ff7d-2c22-325c-d4b8a47ee336,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+060af9ab-ff7d-2c22-325c-d4b8a47ee336,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+9d09c4b4-4275-bdd0-e1b3-c168a65a4378,116154003,Patient,Mr. Jamey282 Hayes766
+9d09c4b4-4275-bdd0-e1b3-c168a65a4378,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+9d09c4b4-4275-bdd0-e1b3-c168a65a4378,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+dc4d2865-c73e-9d6f-b2e7-c30f0cf09403,116154003,Patient,Mrs. Jan231 Tillman293 JD
+dc4d2865-c73e-9d6f-b2e7-c30f0cf09403,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+dc4d2865-c73e-9d6f-b2e7-c30f0cf09403,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+255d36e5-75a1-a3b7-cdb5-e642064329fc,116154003,Patient,Mrs. Jan231 Tillman293 JD
+255d36e5-75a1-a3b7-cdb5-e642064329fc,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+255d36e5-75a1-a3b7-cdb5-e642064329fc,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+aa64dcbb-e5c6-af3b-3953-cb7390f80ff0,116154003,Patient,Mrs. Jan231 Tillman293 JD
+aa64dcbb-e5c6-af3b-3953-cb7390f80ff0,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+aa64dcbb-e5c6-af3b-3953-cb7390f80ff0,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+d8123360-4a96-abaf-7332-ab401c035366,116154003,Patient,Mrs. Jan231 Tillman293 JD
+d8123360-4a96-abaf-7332-ab401c035366,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+d8123360-4a96-abaf-7332-ab401c035366,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+9346ca68-1416-1502-b83b-1eee73b40c8c,116154003,Patient,Mrs. Jan231 Tillman293 JD
+9346ca68-1416-1502-b83b-1eee73b40c8c,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+9346ca68-1416-1502-b83b-1eee73b40c8c,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+5c74fea6-1b5a-9b55-7eff-5e1d3e8f054a,116154003,Patient,Mr. Jan231 Weber641
+5c74fea6-1b5a-9b55-7eff-5e1d3e8f054a,223366009,Healthcare professional (occupation),Dr. Whitney250 Wyman904
+5c74fea6-1b5a-9b55-7eff-5e1d3e8f054a,224891009,Healthcare services (qualifier value),LAWRENCE GENERAL HOSPITAL
+880788e6-d76e-ee79-c192-82806fa10cdb,116154003,Patient,Mr. Jan231 Weber641
+880788e6-d76e-ee79-c192-82806fa10cdb,223366009,Healthcare professional (occupation),Dr. Emory494 Gerhold939
+880788e6-d76e-ee79-c192-82806fa10cdb,224891009,Healthcare services (qualifier value),VK NEW ENGLAND MANAGEMENT LLC
+29f75f70-e1c1-6ecd-b893-0fd83a2294f0,116154003,Patient,Ms. Jana258 Nikolaus26
+29f75f70-e1c1-6ecd-b893-0fd83a2294f0,223366009,Healthcare professional (occupation),Dr. Janette321 Fisher429
+29f75f70-e1c1-6ecd-b893-0fd83a2294f0,224891009,Healthcare services (qualifier value),MOUNT AUBURN HOSPITAL
+45638a2c-63ce-bbea-30d6-a080df244cb1,116154003,Patient,Ms. Jana258 Nikolaus26
+45638a2c-63ce-bbea-30d6-a080df244cb1,223366009,Healthcare professional (occupation),Dr. Marylynn944 Parker433
+45638a2c-63ce-bbea-30d6-a080df244cb1,224891009,Healthcare services (qualifier value),PCP38777
+be1f8a0d-c701-d8f3-7de8-39762067869f,116154003,Patient,Ms. Jana258 Nikolaus26
+be1f8a0d-c701-d8f3-7de8-39762067869f,223366009,Healthcare professional (occupation),Dr. Janette321 Fisher429
+be1f8a0d-c701-d8f3-7de8-39762067869f,224891009,Healthcare services (qualifier value),MOUNT AUBURN HOSPITAL
+d13ea652-1c31-2b4d-a4c1-82d4d89daac1,116154003,Patient,Ms. Jane262 Strosin214
+d13ea652-1c31-2b4d-a4c1-82d4d89daac1,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+d13ea652-1c31-2b4d-a4c1-82d4d89daac1,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+5cf875e0-5f89-ec71-d1db-c5f2910f5cf6,116154003,Patient,Ms. Jane262 Strosin214
+5cf875e0-5f89-ec71-d1db-c5f2910f5cf6,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+5cf875e0-5f89-ec71-d1db-c5f2910f5cf6,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+96054da2-916c-0aac-02f9-04ca110bf0a7,116154003,Patient,Ms. Jane262 Strosin214
+96054da2-916c-0aac-02f9-04ca110bf0a7,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+96054da2-916c-0aac-02f9-04ca110bf0a7,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+65ce2929-448e-52f2-2036-1a0acd24ed86,116154003,Patient,Ms. Kayce253 Gislason620
+65ce2929-448e-52f2-2036-1a0acd24ed86,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+65ce2929-448e-52f2-2036-1a0acd24ed86,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+80d85627-2665-0830-d0f6-c55f86624d8c,116154003,Patient,Ms. Kayce253 Gislason620
+80d85627-2665-0830-d0f6-c55f86624d8c,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+80d85627-2665-0830-d0f6-c55f86624d8c,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+0c0b824a-4aa4-2970-3e7a-416e829ca44a,116154003,Patient,Ms. Kayce253 Gislason620
+0c0b824a-4aa4-2970-3e7a-416e829ca44a,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+0c0b824a-4aa4-2970-3e7a-416e829ca44a,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+fad9a9ac-ec06-e9ef-7def-eb76dfb32c97,116154003,Patient,Ms. Kayce253 Gislason620
+fad9a9ac-ec06-e9ef-7def-eb76dfb32c97,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+fad9a9ac-ec06-e9ef-7def-eb76dfb32c97,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+8399b512-39d3-3885-e868-e98c9813dd2a,116154003,Patient,Ms. Kayce253 Gislason620
+8399b512-39d3-3885-e868-e98c9813dd2a,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+8399b512-39d3-3885-e868-e98c9813dd2a,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+1bdec12b-b87b-8907-0ba7-7c07d3302881,116154003,Patient,Ms. Kayce253 Gislason620
+1bdec12b-b87b-8907-0ba7-7c07d3302881,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+1bdec12b-b87b-8907-0ba7-7c07d3302881,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+9b539dc8-73b7-731d-01df-724faafcc69a,116154003,Patient,Mrs. Kayce253 Johns824
+9b539dc8-73b7-731d-01df-724faafcc69a,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+9b539dc8-73b7-731d-01df-724faafcc69a,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+4079173a-cff3-d096-cb14-ae615f03e352,116154003,Patient,Mrs. Kayce253 Johns824
+4079173a-cff3-d096-cb14-ae615f03e352,223366009,Healthcare professional (occupation),Dr. Ellsworth48 Reichel38
+4079173a-cff3-d096-cb14-ae615f03e352,224891009,Healthcare services (qualifier value),GREATER LOWELL FAMILY PRACTICE PC
+7d049a03-8727-1528-5f43-c35467750534,116154003,Patient,Mrs. Kayce253 Johns824
+7d049a03-8727-1528-5f43-c35467750534,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+7d049a03-8727-1528-5f43-c35467750534,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+2834c172-65fb-3d2e-c057-d13380426d01,116154003,Patient,Mrs. Kayce253 Johns824
+2834c172-65fb-3d2e-c057-d13380426d01,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+2834c172-65fb-3d2e-c057-d13380426d01,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+f86708e2-4e22-a3de-6fcf-510f5f3ce7bb,116154003,Patient,Mrs. Kayce253 Johns824
+f86708e2-4e22-a3de-6fcf-510f5f3ce7bb,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+f86708e2-4e22-a3de-6fcf-510f5f3ce7bb,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bd6d8809-8427-c935-3319-af7c59c14ce5,116154003,Patient,Mrs. Kayce253 Johns824
+bd6d8809-8427-c935-3319-af7c59c14ce5,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+bd6d8809-8427-c935-3319-af7c59c14ce5,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+cb516a9b-c671-c8c7-faec-66b08c1ad473,116154003,Patient,Mrs. Kazuko67 Dibbert990
+cb516a9b-c671-c8c7-faec-66b08c1ad473,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+cb516a9b-c671-c8c7-faec-66b08c1ad473,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+011f7fd5-8e82-62b4-45c9-2a7e913903bf,116154003,Patient,Mrs. Kazuko67 Dibbert990
+011f7fd5-8e82-62b4-45c9-2a7e913903bf,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+011f7fd5-8e82-62b4-45c9-2a7e913903bf,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+f0eab4fd-2d2c-37cf-414b-78451d78a4c6,116154003,Patient,Mrs. Kazuko67 Dibbert990
+f0eab4fd-2d2c-37cf-414b-78451d78a4c6,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+f0eab4fd-2d2c-37cf-414b-78451d78a4c6,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+17a238c4-c215-526f-2fe2-a8c82cb69d75,116154003,Patient,Mrs. Kazuko67 Dibbert990
+17a238c4-c215-526f-2fe2-a8c82cb69d75,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+17a238c4-c215-526f-2fe2-a8c82cb69d75,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+e3eedf2f-58a4-65bf-c5d8-e60398a6b9e3,116154003,Patient,Mrs. Kelli207 Crooks415
+e3eedf2f-58a4-65bf-c5d8-e60398a6b9e3,223366009,Healthcare professional (occupation),Dr. Leesa210 Lehner980
+e3eedf2f-58a4-65bf-c5d8-e60398a6b9e3,224891009,Healthcare services (qualifier value),NANTUCKET COTTAGE HOSPITAL
+3cc177c8-3b97-8da0-84d5-ab6478c6ad5d,116154003,Patient,Mrs. Leon728 Roberts511
+3cc177c8-3b97-8da0-84d5-ab6478c6ad5d,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+3cc177c8-3b97-8da0-84d5-ab6478c6ad5d,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+41a8b742-b583-f9d5-69ae-684d76ccb9fb,116154003,Patient,Mrs. Leon728 Roberts511
+41a8b742-b583-f9d5-69ae-684d76ccb9fb,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+41a8b742-b583-f9d5-69ae-684d76ccb9fb,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+31ac71d7-f7b7-4d13-9250-cd2ccb612c6a,116154003,Patient,Mr. Leonardo412 Schuppe920
+31ac71d7-f7b7-4d13-9250-cd2ccb612c6a,223366009,Healthcare professional (occupation),Dr. Antwan357 Harris789
+31ac71d7-f7b7-4d13-9250-cd2ccb612c6a,224891009,Healthcare services (qualifier value),MORTON HOSPITAL
+aad62e7b-51ac-2701-4de4-8a81f0b692d9,116154003,Patient,Mr. Les282 Fritsch593
+aad62e7b-51ac-2701-4de4-8a81f0b692d9,223366009,Healthcare professional (occupation),Dr. Dulce933 Braun514
+aad62e7b-51ac-2701-4de4-8a81f0b692d9,224891009,Healthcare services (qualifier value),Lowell Vet Center
+0d3d6b11-e012-e180-78dd-fcb255271177,116154003,Patient,Mr. Les282 Fritsch593
+0d3d6b11-e012-e180-78dd-fcb255271177,223366009,Healthcare professional (occupation),Dr. Dulce933 Braun514
+0d3d6b11-e012-e180-78dd-fcb255271177,224891009,Healthcare services (qualifier value),Lowell Vet Center
+0dba3f8b-3f5a-4ef0-1e83-46e0d9d6d4ce,116154003,Patient,Mr. Les282 Fritsch593
+0dba3f8b-3f5a-4ef0-1e83-46e0d9d6d4ce,223366009,Healthcare professional (occupation),Dr. Dulce933 Braun514
+0dba3f8b-3f5a-4ef0-1e83-46e0d9d6d4ce,224891009,Healthcare services (qualifier value),Lowell Vet Center
+90ade38b-a0f6-8c7c-c37e-104b8c0424f6,116154003,Patient,Mr. Les282 Fritsch593
+90ade38b-a0f6-8c7c-c37e-104b8c0424f6,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+90ade38b-a0f6-8c7c-c37e-104b8c0424f6,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+24da2470-eaac-a252-cd46-967390258bdc,116154003,Patient,Mr. Les282 Fritsch593
+24da2470-eaac-a252-cd46-967390258bdc,223366009,Healthcare professional (occupation),Dr. Dulce933 Braun514
+24da2470-eaac-a252-cd46-967390258bdc,224891009,Healthcare services (qualifier value),Lowell Vet Center
+453e0188-2dfa-ea75-3acd-7cb037441035,116154003,Patient,Lesley194 Ebert178
+453e0188-2dfa-ea75-3acd-7cb037441035,223366009,Healthcare professional (occupation),Dr. Jocelyn538 Green467
+453e0188-2dfa-ea75-3acd-7cb037441035,224891009,Healthcare services (qualifier value),NASHOBA VALLEY MEDICAL CENTER
+2b4f3e0c-c5d4-f98c-7780-f00f44d89323,116154003,Patient,Mrs. Lesli455 Champlin946
+2b4f3e0c-c5d4-f98c-7780-f00f44d89323,223366009,Healthcare professional (occupation),Dr. Krissy321 Pfeffer420
+2b4f3e0c-c5d4-f98c-7780-f00f44d89323,224891009,Healthcare services (qualifier value),PCP8861
+32fdcfae-4b58-7b65-0a4a-0d998eeed7ea,116154003,Patient,Mrs. Lesli455 Champlin946
+32fdcfae-4b58-7b65-0a4a-0d998eeed7ea,223366009,Healthcare professional (occupation),Dr. Chauncey770 Steuber698
+32fdcfae-4b58-7b65-0a4a-0d998eeed7ea,224891009,Healthcare services (qualifier value),STURDY MEMORIAL HOSPITAL
+04c59e8c-e618-6c78-67ca-673815d08637,116154003,Patient,Mrs. Lesli455 Champlin946
+04c59e8c-e618-6c78-67ca-673815d08637,223366009,Healthcare professional (occupation),Dr. Chauncey770 Steuber698
+04c59e8c-e618-6c78-67ca-673815d08637,224891009,Healthcare services (qualifier value),STURDY MEMORIAL HOSPITAL
+b687eca8-2fcc-6f36-df8b-9d55bdc253fc,116154003,Patient,Mrs. Lesli455 Champlin946
+b687eca8-2fcc-6f36-df8b-9d55bdc253fc,223366009,Healthcare professional (occupation),Dr. Chauncey770 Steuber698
+b687eca8-2fcc-6f36-df8b-9d55bdc253fc,224891009,Healthcare services (qualifier value),STURDY MEMORIAL HOSPITAL
+9f0cc1f3-6650-439e-aba0-ac731e98c3e6,116154003,Patient,Mrs. Lesli455 Champlin946
+9f0cc1f3-6650-439e-aba0-ac731e98c3e6,223366009,Healthcare professional (occupation),Dr. Chauncey770 Steuber698
+9f0cc1f3-6650-439e-aba0-ac731e98c3e6,224891009,Healthcare services (qualifier value),STURDY MEMORIAL HOSPITAL
+c650c81f-cc2f-4457-f1e5-9eaf6bc85513,116154003,Patient,Mrs. Lesli455 Prohaska837
+c650c81f-cc2f-4457-f1e5-9eaf6bc85513,223366009,Healthcare professional (occupation),Dr. Ling534 Gorczany269
+c650c81f-cc2f-4457-f1e5-9eaf6bc85513,224891009,Healthcare services (qualifier value),NESC BIDPO LLC
+c7b3369d-a514-0ccd-1d51-1d8e46d3ec8d,116154003,Patient,Mrs. Lesli455 Prohaska837
+c7b3369d-a514-0ccd-1d51-1d8e46d3ec8d,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+c7b3369d-a514-0ccd-1d51-1d8e46d3ec8d,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+4421e570-a2cf-623b-0033-5f66570a2ed4,116154003,Patient,Mrs. Lesli455 Prohaska837
+4421e570-a2cf-623b-0033-5f66570a2ed4,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+4421e570-a2cf-623b-0033-5f66570a2ed4,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+83fdb7d5-508d-f35f-87a3-6ac16e743b63,116154003,Patient,Mrs. Lesli455 Prohaska837
+83fdb7d5-508d-f35f-87a3-6ac16e743b63,223366009,Healthcare professional (occupation),Dr. Reynaldo722 Ebert178
+83fdb7d5-508d-f35f-87a3-6ac16e743b63,224891009,Healthcare services (qualifier value),BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+b71ad88c-4884-01da-ed1d-cc17019006df,116154003,Patient,Mrs. Leslie90 Weissnat378
+b71ad88c-4884-01da-ed1d-cc17019006df,223366009,Healthcare professional (occupation),Dr. Takisha161 Batz141
+b71ad88c-4884-01da-ed1d-cc17019006df,224891009,Healthcare services (qualifier value),PCP20300
+e6b03988-38bd-ffd7-bc11-975858a0e3b3,116154003,Patient,Mrs. Leslie90 Weissnat378
+e6b03988-38bd-ffd7-bc11-975858a0e3b3,223366009,Healthcare professional (occupation),Dr. Leesa210 Lehner980
+e6b03988-38bd-ffd7-bc11-975858a0e3b3,224891009,Healthcare services (qualifier value),NANTUCKET COTTAGE HOSPITAL
+feecabfd-f8d8-68c6-2b99-7735edfeff56,116154003,Patient,Mrs. Leslie90 Weissnat378
+feecabfd-f8d8-68c6-2b99-7735edfeff56,223366009,Healthcare professional (occupation),Dr. Leesa210 Lehner980
+feecabfd-f8d8-68c6-2b99-7735edfeff56,224891009,Healthcare services (qualifier value),NANTUCKET COTTAGE HOSPITAL
+1cd450e8-c478-1ded-da50-e7684991e0f0,116154003,Patient,Mrs. Leslie90 Weissnat378
+1cd450e8-c478-1ded-da50-e7684991e0f0,223366009,Healthcare professional (occupation),Dr. Leesa210 Lehner980
+1cd450e8-c478-1ded-da50-e7684991e0f0,224891009,Healthcare services (qualifier value),NANTUCKET COTTAGE HOSPITAL
+7e72124e-58be-3ffd-d44f-29d7aa269923,116154003,Patient,Mr. Loyd638 Hackett68
+7e72124e-58be-3ffd-d44f-29d7aa269923,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+7e72124e-58be-3ffd-d44f-29d7aa269923,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+8032f6a3-fec1-7c08-0c81-d8c5958c1f01,116154003,Patient,Mr. Loyd638 Hackett68
+8032f6a3-fec1-7c08-0c81-d8c5958c1f01,223366009,Healthcare professional (occupation),Dr. Regena252 Kunde533
+8032f6a3-fec1-7c08-0c81-d8c5958c1f01,224891009,Healthcare services (qualifier value),FALMOUTH HOSPITAL
+ec3d7ed2-31c8-16d3-36ee-27f9f94cf754,116154003,Patient,Mr. Loyd638 Hackett68
+ec3d7ed2-31c8-16d3-36ee-27f9f94cf754,223366009,Healthcare professional (occupation),Dr. Gala823 Rogahn59
+ec3d7ed2-31c8-16d3-36ee-27f9f94cf754,224891009,Healthcare services (qualifier value),PCP100060
+1b4e0159-3df9-01b7-18dd-c99896dc61c2,116154003,Patient,Mr. Loyd638 Russel238 MD
+1b4e0159-3df9-01b7-18dd-c99896dc61c2,223366009,Healthcare professional (occupation),Dr. Timothy142 Stroman228
+1b4e0159-3df9-01b7-18dd-c99896dc61c2,224891009,Healthcare services (qualifier value),AT CARE PLLC
+6a5cb322-859c-0107-6933-80100ce22fc7,116154003,Patient,Mr. Loyd638 Russel238 MD
+6a5cb322-859c-0107-6933-80100ce22fc7,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+6a5cb322-859c-0107-6933-80100ce22fc7,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+abc09006-245a-ef3d-fc38-8497f219c496,116154003,Patient,Mr. Loyd638 Russel238 MD
+abc09006-245a-ef3d-fc38-8497f219c496,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+abc09006-245a-ef3d-fc38-8497f219c496,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+1edcc325-fb26-1d75-4bff-525957bfac20,116154003,Patient,Mr. Loyd638 Russel238 MD
+1edcc325-fb26-1d75-4bff-525957bfac20,223366009,Healthcare professional (occupation),Dr. Willena258 Oberbrunner298
+1edcc325-fb26-1d75-4bff-525957bfac20,224891009,Healthcare services (qualifier value),LOWELL GENERAL HOSPITAL
+4a630a1e-59d6-d2a6-858d-5179a469ba1a,116154003,Patient,Loyd638 Wiza601
+4a630a1e-59d6-d2a6-858d-5179a469ba1a,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+4a630a1e-59d6-d2a6-858d-5179a469ba1a,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+3f0ae218-f179-789e-4942-67e5017c5ca7,116154003,Patient,Loyd638 Wiza601
+3f0ae218-f179-789e-4942-67e5017c5ca7,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+3f0ae218-f179-789e-4942-67e5017c5ca7,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+31a00fc5-f3ab-ae01-a7f5-444dbbab7143,116154003,Patient,Loyd638 Wiza601
+31a00fc5-f3ab-ae01-a7f5-444dbbab7143,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+31a00fc5-f3ab-ae01-a7f5-444dbbab7143,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+4a768f6e-2397-c985-be53-80f10312d3d6,116154003,Patient,Loyd638 Wiza601
+4a768f6e-2397-c985-be53-80f10312d3d6,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+4a768f6e-2397-c985-be53-80f10312d3d6,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+b8e3314e-310c-6cd0-636a-e63e4d572f87,116154003,Patient,Loyd638 Wiza601
+b8e3314e-310c-6cd0-636a-e63e4d572f87,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+b8e3314e-310c-6cd0-636a-e63e4d572f87,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+a2ab0451-a152-5991-b4c9-8fc4a89399e5,116154003,Patient,Loyd638 Wiza601
+a2ab0451-a152-5991-b4c9-8fc4a89399e5,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+a2ab0451-a152-5991-b4c9-8fc4a89399e5,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+1f1ad126-d610-6333-a4a3-533c3d8ed73d,116154003,Patient,Loyd638 Wiza601
+1f1ad126-d610-6333-a4a3-533c3d8ed73d,223366009,Healthcare professional (occupation),Dr. Reginald96 Bruen238
+1f1ad126-d610-6333-a4a3-533c3d8ed73d,224891009,Healthcare services (qualifier value),"HEALTHALLIANCE HOSPITALS, INC"
+061bac8c-eece-5229-73c2-27877434afd7,116154003,Patient,Luana867 Rath779
+061bac8c-eece-5229-73c2-27877434afd7,223366009,Healthcare professional (occupation),Dr. Alta896 Schiller186
+061bac8c-eece-5229-73c2-27877434afd7,224891009,Healthcare services (qualifier value),METROWEST MEDICAL CENTER
+cbe9f122-296f-e9d2-5d2b-531cfd4a1ba9,116154003,Patient,Luana867 Rath779
+cbe9f122-296f-e9d2-5d2b-531cfd4a1ba9,223366009,Healthcare professional (occupation),Dr. Alta896 Schiller186
+cbe9f122-296f-e9d2-5d2b-531cfd4a1ba9,224891009,Healthcare services (qualifier value),METROWEST MEDICAL CENTER
+ff897133-f8a5-d82a-7f55-1f437621c76d,116154003,Patient,Luana867 Rath779
+ff897133-f8a5-d82a-7f55-1f437621c76d,223366009,Healthcare professional (occupation),Dr. Robt687 Rodriguez71
+ff897133-f8a5-d82a-7f55-1f437621c76d,224891009,Healthcare services (qualifier value),MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+533956d7-03a7-8b23-622b-c4418b2e0b0a,116154003,Patient,Mrs. Luanne915 Predovic534
+533956d7-03a7-8b23-622b-c4418b2e0b0a,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+533956d7-03a7-8b23-622b-c4418b2e0b0a,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+6c60e0cf-ab5c-4dfd-c5c4-0e75fdc0cb49,116154003,Patient,Mrs. Luanne915 Predovic534
+6c60e0cf-ab5c-4dfd-c5c4-0e75fdc0cb49,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+6c60e0cf-ab5c-4dfd-c5c4-0e75fdc0cb49,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+93d0a05a-c9c3-2e40-6c39-a0d150a6fb15,116154003,Patient,Mrs. Luanne915 Predovic534
+93d0a05a-c9c3-2e40-6c39-a0d150a6fb15,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+93d0a05a-c9c3-2e40-6c39-a0d150a6fb15,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+97702cad-d745-4277-5c9c-086c065a00d9,116154003,Patient,Mrs. Luanne915 Predovic534
+97702cad-d745-4277-5c9c-086c065a00d9,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+97702cad-d745-4277-5c9c-086c065a00d9,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+80299412-e931-d207-0c73-f15a59a0d876,116154003,Patient,Mrs. Luanne915 Predovic534
+80299412-e931-d207-0c73-f15a59a0d876,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+80299412-e931-d207-0c73-f15a59a0d876,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+f736eb77-6f53-3560-51b4-c8dbb1fd9a7a,116154003,Patient,Mr. Luciano237 Turcotte120
+f736eb77-6f53-3560-51b4-c8dbb1fd9a7a,223366009,Healthcare professional (occupation),Dr. Ema785 Quigley282
+f736eb77-6f53-3560-51b4-c8dbb1fd9a7a,224891009,Healthcare services (qualifier value),BAY STATE EXCELLENT VISION
+8a5dc687-b58f-4843-1875-85feafe04d64,116154003,Patient,Mr. Luciano237 Turcotte120
+8a5dc687-b58f-4843-1875-85feafe04d64,223366009,Healthcare professional (occupation),Dr. Ema785 Quigley282
+8a5dc687-b58f-4843-1875-85feafe04d64,224891009,Healthcare services (qualifier value),BAY STATE EXCELLENT VISION
+ad8bc31f-e876-8c30-bd4c-b9bfc06c698e,116154003,Patient,Mr. Luciano237 Turcotte120
+ad8bc31f-e876-8c30-bd4c-b9bfc06c698e,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+ad8bc31f-e876-8c30-bd4c-b9bfc06c698e,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+5dc3a5c1-116e-7942-f100-fc8d290209cf,116154003,Patient,Mr. Luciano237 Turcotte120
+5dc3a5c1-116e-7942-f100-fc8d290209cf,223366009,Healthcare professional (occupation),Dr. Berry486 Borer986
+5dc3a5c1-116e-7942-f100-fc8d290209cf,224891009,Healthcare services (qualifier value),HALLMARK HEALTH SYSTEM
+d12fe6c8-d7e3-3bab-fa46-4e2f9750e31c,116154003,Patient,Mr. Maria750 Hessel84
+d12fe6c8-d7e3-3bab-fa46-4e2f9750e31c,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+d12fe6c8-d7e3-3bab-fa46-4e2f9750e31c,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+cbac6473-ddeb-0044-f457-fadde1c9f045,116154003,Patient,Mr. Maria750 Hessel84
+cbac6473-ddeb-0044-f457-fadde1c9f045,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+cbac6473-ddeb-0044-f457-fadde1c9f045,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+a3f36387-c679-d39d-91cc-cb4daf55b96a,116154003,Patient,Mr. Maria750 Hessel84
+a3f36387-c679-d39d-91cc-cb4daf55b96a,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+a3f36387-c679-d39d-91cc-cb4daf55b96a,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+ee0ea500-c865-af15-41d0-599e77b37f76,116154003,Patient,Mrs. Marianna323 Champlin946
+ee0ea500-c865-af15-41d0-599e77b37f76,223366009,Healthcare professional (occupation),Dr. Valentine262 Bruen238
+ee0ea500-c865-af15-41d0-599e77b37f76,224891009,Healthcare services (qualifier value),PCP30989
+c869b6e1-094d-1217-5ea6-ef03922b1d51,116154003,Patient,Mrs. Marianna323 Champlin946
+c869b6e1-094d-1217-5ea6-ef03922b1d51,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+c869b6e1-094d-1217-5ea6-ef03922b1d51,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+9379f4c4-7f08-2fa3-b881-20565d78c005,116154003,Patient,Mrs. Marianna323 Champlin946
+9379f4c4-7f08-2fa3-b881-20565d78c005,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+9379f4c4-7f08-2fa3-b881-20565d78c005,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+8ce1c9e9-ab95-f99a-a2ae-406092f96aaa,116154003,Patient,Mrs. Marianna323 Champlin946
+8ce1c9e9-ab95-f99a-a2ae-406092f96aaa,223366009,Healthcare professional (occupation),Dr. Darrick836 Franecki195
+8ce1c9e9-ab95-f99a-a2ae-406092f96aaa,224891009,Healthcare services (qualifier value),NEWTON-WELLESLEY HOSPITAL
+ec34d7a0-3706-9b64-b378-07e73aead336,116154003,Patient,Mrs. María José279 Adorno791
+ec34d7a0-3706-9b64-b378-07e73aead336,223366009,Healthcare professional (occupation),Dr. Sandy901 Turner526
+ec34d7a0-3706-9b64-b378-07e73aead336,224891009,Healthcare services (qualifier value),ST VINCENT HOSPITAL
+7e7a8d88-cc81-4737-f6d0-4c1896362507,116154003,Patient,Mrs. María José279 Adorno791
+7e7a8d88-cc81-4737-f6d0-4c1896362507,223366009,Healthcare professional (occupation),Dr. Gerald181 Beier427
+7e7a8d88-cc81-4737-f6d0-4c1896362507,224891009,Healthcare services (qualifier value),PCP364
+813b1e87-f523-a704-9119-43eee9fe85b7,116154003,Patient,Mrs. María José279 Adorno791
+813b1e87-f523-a704-9119-43eee9fe85b7,223366009,Healthcare professional (occupation),Dr. Alix578 Lynch190
+813b1e87-f523-a704-9119-43eee9fe85b7,224891009,Healthcare services (qualifier value),EMERSON HOSPITAL -
+1abed944-3ffb-599f-0d92-9eef38e1b447,116154003,Patient,Mrs. María José279 Adorno791
+1abed944-3ffb-599f-0d92-9eef38e1b447,223366009,Healthcare professional (occupation),Dr. Sandy901 Turner526
+1abed944-3ffb-599f-0d92-9eef38e1b447,224891009,Healthcare services (qualifier value),ST VINCENT HOSPITAL
+27903b6a-1865-e1ae-742c-b20cb50060e4,116154003,Patient,Ms. Rubi442 Labadie908
+27903b6a-1865-e1ae-742c-b20cb50060e4,223366009,Healthcare professional (occupation),Dr. Alta896 Schiller186
+27903b6a-1865-e1ae-742c-b20cb50060e4,224891009,Healthcare services (qualifier value),METROWEST MEDICAL CENTER
+6b036da2-75a1-ab10-f5de-e4fcce4c37e7,116154003,Patient,Ms. Rubi442 Labadie908
+6b036da2-75a1-ab10-f5de-e4fcce4c37e7,223366009,Healthcare professional (occupation),Dr. Dante562 Torphy630
+6b036da2-75a1-ab10-f5de-e4fcce4c37e7,224891009,Healthcare services (qualifier value),PCP229490
+f6419e39-f21a-86df-17fd-145fdf27a8fb,116154003,Patient,Ms. Rubi442 Labadie908
+f6419e39-f21a-86df-17fd-145fdf27a8fb,223366009,Healthcare professional (occupation),Dr. Alta896 Schiller186
+f6419e39-f21a-86df-17fd-145fdf27a8fb,224891009,Healthcare services (qualifier value),METROWEST MEDICAL CENTER
+e7a68792-4670-e277-3d68-ad7bb6ac3ac9,116154003,Patient,Ms. Rubi442 Labadie908
+e7a68792-4670-e277-3d68-ad7bb6ac3ac9,223366009,Healthcare professional (occupation),Dr. Alta896 Schiller186
+e7a68792-4670-e277-3d68-ad7bb6ac3ac9,224891009,Healthcare services (qualifier value),METROWEST MEDICAL CENTER
+afa634a4-54c8-39f6-24a4-97133e40ea77,116154003,Patient,Mr. Rubin812 Quigley282
+afa634a4-54c8-39f6-24a4-97133e40ea77,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+afa634a4-54c8-39f6-24a4-97133e40ea77,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+1caeebca-4a81-7a8e-54e9-e0810c08def1,116154003,Patient,Mr. Rubin812 Quigley282
+1caeebca-4a81-7a8e-54e9-e0810c08def1,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+1caeebca-4a81-7a8e-54e9-e0810c08def1,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+207009f1-6efe-e7f1-c9b0-62fa12788175,116154003,Patient,Mr. Rubin812 Quigley282
+207009f1-6efe-e7f1-c9b0-62fa12788175,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+207009f1-6efe-e7f1-c9b0-62fa12788175,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+b76e537c-f0de-6eb6-a3f0-fb24aaa7f0a5,116154003,Patient,Mr. Rubin812 Quigley282
+b76e537c-f0de-6eb6-a3f0-fb24aaa7f0a5,223366009,Healthcare professional (occupation),Dr. Dinah304 Schaefer657
+b76e537c-f0de-6eb6-a3f0-fb24aaa7f0a5,224891009,Healthcare services (qualifier value),BEVERLY HOSPITAL CORPORATION
+cf2d70bb-d341-5398-19b8-f24d9f8c09c7,116154003,Patient,Mrs. Ruthie901 Mills423
+cf2d70bb-d341-5398-19b8-f24d9f8c09c7,223366009,Healthcare professional (occupation),Dr. Marvin195 Glover433
+cf2d70bb-d341-5398-19b8-f24d9f8c09c7,224891009,Healthcare services (qualifier value),MARLBOROUGH HOSPITAL
+4db205b8-3a8c-2497-98d7-3659d6d06cc0,116154003,Patient,Mrs. Ruthie901 Mills423
+4db205b8-3a8c-2497-98d7-3659d6d06cc0,223366009,Healthcare professional (occupation),Dr. Marvin195 Glover433
+4db205b8-3a8c-2497-98d7-3659d6d06cc0,224891009,Healthcare services (qualifier value),MARLBOROUGH HOSPITAL
+b592a2bf-4c20-27f3-005c-39dd0fe9ea3a,116154003,Patient,Mrs. Ruthie901 Mills423
+b592a2bf-4c20-27f3-005c-39dd0fe9ea3a,223366009,Healthcare professional (occupation),Dr. Marvin195 Glover433
+b592a2bf-4c20-27f3-005c-39dd0fe9ea3a,224891009,Healthcare services (qualifier value),MARLBOROUGH HOSPITAL
+4074b41a-dae6-1de5-e82c-a77890f77f3d,116154003,Patient,Mrs. Ruthie901 Mills423
+4074b41a-dae6-1de5-e82c-a77890f77f3d,223366009,Healthcare professional (occupation),Dr. Marvin195 Glover433
+4074b41a-dae6-1de5-e82c-a77890f77f3d,224891009,Healthcare services (qualifier value),MARLBOROUGH HOSPITAL
+a3d2f705-bf9d-3cd8-e6f1-4b0b7dd83702,116154003,Patient,Ms. Sachiko982 Gulgowski816
+a3d2f705-bf9d-3cd8-e6f1-4b0b7dd83702,223366009,Healthcare professional (occupation),Dr. Amira620 Nienow652
+a3d2f705-bf9d-3cd8-e6f1-4b0b7dd83702,224891009,Healthcare services (qualifier value),SOUTH SHORE HOSPITAL
+5af1a020-6461-6b1f-7d72-af968c220676,116154003,Patient,Mrs. Sandee884 Hodkiewicz467
+5af1a020-6461-6b1f-7d72-af968c220676,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+5af1a020-6461-6b1f-7d72-af968c220676,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+532d464c-cd71-d57c-c681-5fe356e29de1,116154003,Patient,Mrs. Sandee884 Hodkiewicz467
+532d464c-cd71-d57c-c681-5fe356e29de1,223366009,Healthcare professional (occupation),Dr. Olympia319 Hickle134
+532d464c-cd71-d57c-c681-5fe356e29de1,224891009,Healthcare services (qualifier value),Brockton Vet Center
+94d9fe3d-9472-f974-2e23-baea26eaa14f,116154003,Patient,Mrs. Sandee884 Hodkiewicz467
+94d9fe3d-9472-f974-2e23-baea26eaa14f,223366009,Healthcare professional (occupation),Dr. Olympia319 Hickle134
+94d9fe3d-9472-f974-2e23-baea26eaa14f,224891009,Healthcare services (qualifier value),Brockton Vet Center
+69581da2-a9a8-080a-afca-faebeb0c4a04,116154003,Patient,Mrs. Sandee884 Hodkiewicz467
+69581da2-a9a8-080a-afca-faebeb0c4a04,223366009,Healthcare professional (occupation),Dr. Olympia319 Hickle134
+69581da2-a9a8-080a-afca-faebeb0c4a04,224891009,Healthcare services (qualifier value),Brockton Vet Center
+d1a163f3-2b44-8ef6-d961-886b336a7774,116154003,Patient,Mrs. Sandee884 Hodkiewicz467
+d1a163f3-2b44-8ef6-d961-886b336a7774,223366009,Healthcare professional (occupation),Dr. Courtney281 Bradtke547
+d1a163f3-2b44-8ef6-d961-886b336a7774,224891009,Healthcare services (qualifier value),NORWOOD HOSPITAL
+e84dfb00-9155-b9c0-93ec-f77452dc66c4,116154003,Patient,Mr. Sandy901 Conn188
+e84dfb00-9155-b9c0-93ec-f77452dc66c4,223366009,Healthcare professional (occupation),Dr. Demetrice140 Crooks415
+e84dfb00-9155-b9c0-93ec-f77452dc66c4,224891009,Healthcare services (qualifier value),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+6a6327d8-a76e-3427-34d1-7cd079bd9c50,116154003,Patient,Mr. Sandy901 Conn188
+6a6327d8-a76e-3427-34d1-7cd079bd9c50,223366009,Healthcare professional (occupation),Dr. Norah104 Torphy630
+6a6327d8-a76e-3427-34d1-7cd079bd9c50,224891009,Healthcare services (qualifier value),PCP28562
+479c3cde-0a5b-48be-a396-e98dfb8e9d0b,116154003,Patient,Mr. Santiago500 Barton704
+479c3cde-0a5b-48be-a396-e98dfb8e9d0b,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+479c3cde-0a5b-48be-a396-e98dfb8e9d0b,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+8dea3adc-884e-8c56-2f67-c768a00c6e7c,116154003,Patient,Mr. Santiago500 Barton704
+8dea3adc-884e-8c56-2f67-c768a00c6e7c,223366009,Healthcare professional (occupation),Dr. James276 Witting912
+8dea3adc-884e-8c56-2f67-c768a00c6e7c,224891009,Healthcare services (qualifier value),PCP126177
+da31f736-8532-2d3e-83e5-ed0e82df9d2c,116154003,Patient,Mr. Santiago500 Barton704
+da31f736-8532-2d3e-83e5-ed0e82df9d2c,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+da31f736-8532-2d3e-83e5-ed0e82df9d2c,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+3e651a3f-e216-203b-9187-03973a26e8cc,116154003,Patient,Mr. Santiago500 Barton704
+3e651a3f-e216-203b-9187-03973a26e8cc,223366009,Healthcare professional (occupation),Dr. Olive251 Pollich983
+3e651a3f-e216-203b-9187-03973a26e8cc,224891009,Healthcare services (qualifier value),MILFORD REGIONAL MEDICAL CENTER
+f44e2999-9266-6f1d-3fbb-3fb83508ed5a,116154003,Patient,Mr. Zachery872 Wyman904
+f44e2999-9266-6f1d-3fbb-3fb83508ed5a,223366009,Healthcare professional (occupation),Dr. Kip442 Murphy561
+f44e2999-9266-6f1d-3fbb-3fb83508ed5a,224891009,Healthcare services (qualifier value),"EYE EXAMS, LLC"
+a85b618a-b99a-728f-829e-4ed676cd522a,116154003,Patient,Mr. Zachery872 Wyman904
+a85b618a-b99a-728f-829e-4ed676cd522a,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+a85b618a-b99a-728f-829e-4ed676cd522a,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+ed3490a0-78e4-1349-2c65-be7369757285,116154003,Patient,Mr. Zachery872 Wyman904
+ed3490a0-78e4-1349-2c65-be7369757285,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+ed3490a0-78e4-1349-2c65-be7369757285,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+07ecc400-ee1a-56d2-23a5-90611ef74cde,116154003,Patient,Mr. Zachery872 Wyman904
+07ecc400-ee1a-56d2-23a5-90611ef74cde,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+07ecc400-ee1a-56d2-23a5-90611ef74cde,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+df69fae2-547f-873f-c04c-aec3ac294e8e,116154003,Patient,Mr. Zachery872 Wyman904
+df69fae2-547f-873f-c04c-aec3ac294e8e,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+df69fae2-547f-873f-c04c-aec3ac294e8e,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+44476971-4fd6-44af-765e-8ef047c5d4f3,116154003,Patient,Mr. Zachery872 Wyman904
+44476971-4fd6-44af-765e-8ef047c5d4f3,223366009,Healthcare professional (occupation),Dr. Jame231 Jacobi462
+44476971-4fd6-44af-765e-8ef047c5d4f3,224891009,Healthcare services (qualifier value),NORTH SHORE MEDICAL CENTER -
+f241e255-6b83-4e0c-ca2a-54adaed5ef43,116154003,Patient,Mr. Zane918 Schoen8
+f241e255-6b83-4e0c-ca2a-54adaed5ef43,223366009,Healthcare professional (occupation),Dr. Jeff859 Kreiger457
+f241e255-6b83-4e0c-ca2a-54adaed5ef43,224891009,Healthcare services (qualifier value),Cape Cod Vet Center
+445d6051-5059-6bee-3ae0-5ac285109052,116154003,Patient,Mr. Zane918 Schoen8
+445d6051-5059-6bee-3ae0-5ac285109052,223366009,Healthcare professional (occupation),Dr. Jeff859 Kreiger457
+445d6051-5059-6bee-3ae0-5ac285109052,224891009,Healthcare services (qualifier value),Cape Cod Vet Center

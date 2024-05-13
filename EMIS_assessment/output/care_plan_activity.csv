@@ -1,0 +1,629 @@
+care_plan_id,activity_code,activity_name,activity_status,activity_location
+9fc5c3e8-433b-5aee-66e2-0adcfe03ed3b,183063000,low salt diet education,in-progress,HARRINGTON MEMORIAL HOSPITAL-1
+9fc5c3e8-433b-5aee-66e2-0adcfe03ed3b,183301007,physical exercise,in-progress,HARRINGTON MEMORIAL HOSPITAL-1
+763d20f9-b3c9-c51a-3116-335125b4444b,385715006,Cardiac care (regime/therapy),completed,HARRINGTON MEMORIAL HOSPITAL-1
+763d20f9-b3c9-c51a-3116-335125b4444b,386619000,Low sodium diet (finding),completed,HARRINGTON MEMORIAL HOSPITAL-1
+115f8cd8-2aa3-8b1b-10ff-6042dc5521e6,385715006,Cardiac care (regime/therapy),completed,HARRINGTON MEMORIAL HOSPITAL-1
+115f8cd8-2aa3-8b1b-10ff-6042dc5521e6,386619000,Low sodium diet (finding),completed,HARRINGTON MEMORIAL HOSPITAL-1
+e5fd3e9c-7557-85b7-30ef-6e19c50a9539,409002,Food allergy diet,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+e5fd3e9c-7557-85b7-30ef-6e19c50a9539,58332002,Allergy education,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+e5fd3e9c-7557-85b7-30ef-6e19c50a9539,58332002,Allergy education,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+87a63ef4-fed7-509d-459d-d512fd589196,225130001,Application of moisturizer to skin,completed,NEW ENGLAND BAPTIST HOSPITAL
+227afb27-137f-dd89-76e9-e058e18b402e,710818004,Inhaled steroid therapy,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+227afb27-137f-dd89-76e9-e058e18b402e,708409001,Home nebulizer therapy,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+227afb27-137f-dd89-76e9-e058e18b402e,229298005,Breathing control,in-progress,NEW ENGLAND BAPTIST HOSPITAL
+20fae38b-f5e2-2985-ec62-e41ce03c135a,182678001,Hyposensitization to allergens (procedure),completed,NEW ENGLAND BAPTIST HOSPITAL
+4c05de5e-c4f0-1716-9b99-d4c337648d12,386463000,Prescribed activity/exercise education,in-progress,MEDEXPRESS URGENT CARE PC MASSACHUSETTS
+4c05de5e-c4f0-1716-9b99-d4c337648d12,413473000,Counseling about alcohol consumption,in-progress,MEDEXPRESS URGENT CARE PC MASSACHUSETTS
+4c05de5e-c4f0-1716-9b99-d4c337648d12,1151000175103,Dietary approaches to stop hypertension diet,in-progress,MEDEXPRESS URGENT CARE PC MASSACHUSETTS
+4c05de5e-c4f0-1716-9b99-d4c337648d12,225323000,Smoking cessation education,in-progress,MEDEXPRESS URGENT CARE PC MASSACHUSETTS
+bf54bc98-1bba-e219-eca9-9108fff731da,135892000,Antenatal education,completed,SHRINERS' HOSPITAL FOR CHILDREN (THE)
+bf54bc98-1bba-e219-eca9-9108fff731da,713076009,Antenatal risk assessment,completed,SHRINERS' HOSPITAL FOR CHILDREN (THE)
+bf54bc98-1bba-e219-eca9-9108fff731da,312404004,Antenatal blood tests,completed,SHRINERS' HOSPITAL FOR CHILDREN (THE)
+5331e69b-2b69-47ab-1753-acde42be9b6f,183051005,Recommendation to rest,completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+5331e69b-2b69-47ab-1753-acde42be9b6f,408580007,Physical activity target light exercise,completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+f2bc3b2e-9e78-c95b-b28e-4a6ff4e96cbd,386463000,Prescribed activity/exercise education,in-progress,"STANLEY STREET TREATMENT AND RESOURCES, INC"
+f2bc3b2e-9e78-c95b-b28e-4a6ff4e96cbd,413473000,Counseling about alcohol consumption,in-progress,"STANLEY STREET TREATMENT AND RESOURCES, INC"
+f2bc3b2e-9e78-c95b-b28e-4a6ff4e96cbd,1151000175103,Dietary approaches to stop hypertension diet,in-progress,"STANLEY STREET TREATMENT AND RESOURCES, INC"
+f2bc3b2e-9e78-c95b-b28e-4a6ff4e96cbd,225323000,Smoking cessation education,in-progress,"STANLEY STREET TREATMENT AND RESOURCES, INC"
+9895bec5-f00b-7d16-0770-afc7ee8bde4b,183051005,Recommendation to rest,in-progress,"SOUTHCOAST HOSPITAL GROUP, INC"
+9895bec5-f00b-7d16-0770-afc7ee8bde4b,408580007,Physical activity target light exercise,in-progress,"SOUTHCOAST HOSPITAL GROUP, INC"
+4bdd6a18-2b22-3ac6-7dd9-0bd499d50741,160670007,Diabetic diet,in-progress,PCP170405
+4bdd6a18-2b22-3ac6-7dd9-0bd499d50741,229065009,Exercise therapy,in-progress,PCP170405
+929f37cd-48d6-118f-425d-c24868970229,229586001,"Rest, ice, compression and elevation treatment programme",completed,LOWELL GENERAL HOSPITAL
+929f37cd-48d6-118f-425d-c24868970229,229070002,Stretching exercises,completed,LOWELL GENERAL HOSPITAL
+d6593c36-c9e1-23c6-a167-bf5db7c21435,304510005,Recommendation to avoid exercise,completed,LOWELL GENERAL HOSPITAL
+d6593c36-c9e1-23c6-a167-bf5db7c21435,371605008,Deep breathing and coughing exercises,completed,LOWELL GENERAL HOSPITAL
+8b44ea25-3224-e109-86bf-78945b1043ce,266694003,Heat therapy,completed,LOWELL GENERAL HOSPITAL
+8b44ea25-3224-e109-86bf-78945b1043ce,183051005,Recommendation to rest,completed,LOWELL GENERAL HOSPITAL
+306b506d-ac82-66eb-6737-212d2d848990,385949008,Dressing change management,completed,LOWELL GENERAL HOSPITAL
+306b506d-ac82-66eb-6737-212d2d848990,439830001,Behavior to prevent infection,completed,LOWELL GENERAL HOSPITAL
+43c99a31-d6dc-08a7-5812-afe801232fc4,304510005,Recommendation to avoid exercise,completed,NASHOBA VALLEY MEDICAL CENTER
+43c99a31-d6dc-08a7-5812-afe801232fc4,371605008,Deep breathing and coughing exercises,completed,NASHOBA VALLEY MEDICAL CENTER
+00c39f2d-e73b-c945-e4ac-f379480ab714,160670007,Diabetic diet,in-progress,PCP222354
+00c39f2d-e73b-c945-e4ac-f379480ab714,229065009,Exercise therapy,in-progress,PCP222354
+42696469-aca0-0dd0-4e4c-9095f2dd64c1,91251008,Physical therapy procedure (regime/therapy),completed,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+42696469-aca0-0dd0-4e4c-9095f2dd64c1,228557008,Cognitive and behavior therapy,completed,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+2401a022-96ea-d08c-aebc-b94304c783f6,183051005,Recommendation to rest,completed,WINCHESTER HOSPITAL
+2401a022-96ea-d08c-aebc-b94304c783f6,226138001,Alcohol-free diet,completed,WINCHESTER HOSPITAL
+5cfa5023-4b00-a4ec-2017-d8a9b90c32ba,304510005,Recommendation to avoid exercise,completed,Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA)
+5cfa5023-4b00-a4ec-2017-d8a9b90c32ba,371605008,Deep breathing and coughing exercises,completed,Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA)
+82ea9545-5a19-a015-56d6-08913e842194,409002,Food allergy diet,in-progress,LOWELL GENERAL HOSPITAL
+82ea9545-5a19-a015-56d6-08913e842194,58332002,Allergy education,in-progress,LOWELL GENERAL HOSPITAL
+82ea9545-5a19-a015-56d6-08913e842194,58332002,Allergy education,in-progress,LOWELL GENERAL HOSPITAL
+b25396d1-3c5a-d0c1-e7f0-290d5fc6c3b5,225130001,Application of moisturizer to skin,in-progress,LOWELL GENERAL HOSPITAL
+c1918e13-bfab-4abe-bff2-e59eadba9c4d,386463000,Prescribed activity/exercise education,in-progress,NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC
+c1918e13-bfab-4abe-bff2-e59eadba9c4d,413473000,Counseling about alcohol consumption,in-progress,NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC
+c1918e13-bfab-4abe-bff2-e59eadba9c4d,1151000175103,Dietary approaches to stop hypertension diet,in-progress,NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC
+c1918e13-bfab-4abe-bff2-e59eadba9c4d,225323000,Smoking cessation education,in-progress,NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC
+ab5d756d-517f-85cf-a24d-db83e6c2e0f5,386294003,Joint mobility exercises,in-progress,LOWELL GENERAL HOSPITAL
+ab5d756d-517f-85cf-a24d-db83e6c2e0f5,266694003,Heat therapy,in-progress,LOWELL GENERAL HOSPITAL
+677f7514-0f7a-5593-4ca3-5984c081f175,183051005,Recommendation to rest,completed,LOWELL GENERAL HOSPITAL
+677f7514-0f7a-5593-4ca3-5984c081f175,408580007,Physical activity target light exercise,completed,LOWELL GENERAL HOSPITAL
+06bb1dd5-529c-86ee-8851-570c1e307f6c,229586001,"Rest, ice, compression and elevation treatment programme",completed,LOWELL GENERAL HOSPITAL
+06bb1dd5-529c-86ee-8851-570c1e307f6c,229070002,Stretching exercises,completed,LOWELL GENERAL HOSPITAL
+8a4bfe24-a2c1-43db-a43c-3b9fd3ba5653,183063000,low salt diet education,in-progress,LOWELL GENERAL HOSPITAL
+8a4bfe24-a2c1-43db-a43c-3b9fd3ba5653,183301007,physical exercise,in-progress,LOWELL GENERAL HOSPITAL
+8f32450d-e519-7f73-7ccf-d71ef8270df6,409524006,Airborne precautions (procedure),completed,LOWELL GENERAL HOSPITAL
+8f32450d-e519-7f73-7ccf-d71ef8270df6,409526008,Personal protective equipment (physical object),completed,LOWELL GENERAL HOSPITAL
+4404a839-268c-d128-a775-04cd244f1126,409524006,Airborne precautions (procedure),completed,LOWELL GENERAL HOSPITAL
+4404a839-268c-d128-a775-04cd244f1126,361235007,Isolation of infected patient (procedure),completed,LOWELL GENERAL HOSPITAL
+ae919a01-0bda-e42e-3338-eb51ff13373a,160670007,Diabetic diet,in-progress,VHM SERVICES INC
+ae919a01-0bda-e42e-3338-eb51ff13373a,229065009,Exercise therapy,in-progress,VHM SERVICES INC
+496a4b80-dec0-a3c7-90b8-bc51798e0d17,385949008,Dressing change management,completed,MILFORD REGIONAL MEDICAL CENTER
+496a4b80-dec0-a3c7-90b8-bc51798e0d17,439830001,Behavior to prevent infection,completed,MILFORD REGIONAL MEDICAL CENTER
+0ff68e77-bcf3-8420-6cd3-96ce2c2bd29a,409524006,Airborne precautions (procedure),completed,MILFORD REGIONAL MEDICAL CENTER
+0ff68e77-bcf3-8420-6cd3-96ce2c2bd29a,409526008,Personal protective equipment (physical object),completed,MILFORD REGIONAL MEDICAL CENTER
+c16dc150-8fbe-7ae4-1b25-b376abe41caa,409524006,Airborne precautions (procedure),completed,MILFORD REGIONAL MEDICAL CENTER
+c16dc150-8fbe-7ae4-1b25-b376abe41caa,361235007,Isolation of infected patient (procedure),completed,MILFORD REGIONAL MEDICAL CENTER
+b5575249-803d-c103-6b6a-c4c5bf2a7900,77806000,Low calorie diet,in-progress,PCP25388
+b5575249-803d-c103-6b6a-c4c5bf2a7900,1171000175109,Increased physical activity,in-progress,PCP25388
+2c248c5b-e278-d2ac-6f05-84a54cbf0046,304510005,Recommendation to avoid exercise,completed,CAPE COD HOSPITAL
+2c248c5b-e278-d2ac-6f05-84a54cbf0046,371605008,Deep breathing and coughing exercises,completed,CAPE COD HOSPITAL
+bc1295ac-9f87-f32d-7314-0a06cb2237c0,409002,Food allergy diet,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bc1295ac-9f87-f32d-7314-0a06cb2237c0,58332002,Allergy education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bc1295ac-9f87-f32d-7314-0a06cb2237c0,58332002,Allergy education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+237f7e1d-db54-4f84-40b4-9bd4548e57f5,160670007,Diabetic diet,in-progress,PCP19321
+237f7e1d-db54-4f84-40b4-9bd4548e57f5,229065009,Exercise therapy,in-progress,PCP19321
+8df11b83-6113-853a-afe6-0e82962493cd,135892000,Antenatal education,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+8df11b83-6113-853a-afe6-0e82962493cd,713076009,Antenatal risk assessment,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+8df11b83-6113-853a-afe6-0e82962493cd,312404004,Antenatal blood tests,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+f2b42e36-f520-5ad9-dcd8-91b4b80364a6,135892000,Antenatal education,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+f2b42e36-f520-5ad9-dcd8-91b4b80364a6,713076009,Antenatal risk assessment,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+f2b42e36-f520-5ad9-dcd8-91b4b80364a6,312404004,Antenatal blood tests,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bfa6b1d8-f1a4-a574-4b67-9e29d58ba938,135892000,Antenatal education,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bfa6b1d8-f1a4-a574-4b67-9e29d58ba938,713076009,Antenatal risk assessment,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bfa6b1d8-f1a4-a574-4b67-9e29d58ba938,312404004,Antenatal blood tests,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+b733f711-3a55-aa51-f63e-cf727d450e02,266694003,Heat therapy,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+b733f711-3a55-aa51-f63e-cf727d450e02,183051005,Recommendation to rest,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+b08045de-12e1-d7b2-9482-2e89798a5b39,229586001,"Rest, ice, compression and elevation treatment programme",completed,FALMOUTH HOSPITAL
+b08045de-12e1-d7b2-9482-2e89798a5b39,229070002,Stretching exercises,completed,FALMOUTH HOSPITAL
+293db6e7-22a3-141b-bcd7-29c2bb8e9c4d,160670007,Diabetic diet,in-progress,PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC
+293db6e7-22a3-141b-bcd7-29c2bb8e9c4d,229065009,Exercise therapy,in-progress,PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC
+f357f8e2-f4a2-140c-3dad-5533b86cb36b,91251008,Physical therapy procedure (regime/therapy),in-progress,HALLMARK HEALTH SYSTEM
+f357f8e2-f4a2-140c-3dad-5533b86cb36b,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,HALLMARK HEALTH SYSTEM
+de686eeb-a36b-1696-476c-e10773572dbe,304510005,Recommendation to avoid exercise,completed,HALLMARK HEALTH SYSTEM
+de686eeb-a36b-1696-476c-e10773572dbe,371605008,Deep breathing and coughing exercises,completed,HALLMARK HEALTH SYSTEM
+c029d2e2-c178-4c8d-b4a2-d5157618eb86,183051005,Recommendation to rest,completed,HALLMARK HEALTH SYSTEM
+c029d2e2-c178-4c8d-b4a2-d5157618eb86,226138001,Alcohol-free diet,completed,HALLMARK HEALTH SYSTEM
+4f910842-6f83-e3ce-ca79-1455a71f2275,77806000,Low calorie diet,in-progress,PCP905
+4f910842-6f83-e3ce-ca79-1455a71f2275,1171000175109,Increased physical activity,in-progress,PCP905
+e1223e54-59f1-d9a7-cc40-ea6e4d58dc9f,160670007,Diabetic diet,in-progress,PCP905
+e1223e54-59f1-d9a7-cc40-ea6e4d58dc9f,229065009,Exercise therapy,in-progress,PCP905
+2e0785c8-7055-8b31-a674-d509fe6c780b,60112009,Drug addiction counseling,in-progress,SAINT ANNE'S HOSPITAL
+2e0785c8-7055-8b31-a674-d509fe6c780b,61480009,Drug detoxification,in-progress,SAINT ANNE'S HOSPITAL
+2e0785c8-7055-8b31-a674-d509fe6c780b,266707007,Drug addiction therapy,in-progress,SAINT ANNE'S HOSPITAL
+a3a8e0fb-697a-8b25-2f1f-4fc7d16f203f,304510005,Recommendation to avoid exercise,completed,SAINT ANNE'S HOSPITAL
+a3a8e0fb-697a-8b25-2f1f-4fc7d16f203f,371605008,Deep breathing and coughing exercises,completed,SAINT ANNE'S HOSPITAL
+5e2445b8-7b3c-7ef1-9739-0a72418b53c7,183063000,low salt diet education,in-progress,SAINT ANNE'S HOSPITAL
+5e2445b8-7b3c-7ef1-9739-0a72418b53c7,183301007,physical exercise,in-progress,SAINT ANNE'S HOSPITAL
+96aef358-b1fb-252c-3da5-1bb0fe0ccfce,385715006,Cardiac care (regime/therapy),completed,SAINT ANNE'S HOSPITAL
+96aef358-b1fb-252c-3da5-1bb0fe0ccfce,386619000,Low sodium diet (finding),completed,SAINT ANNE'S HOSPITAL
+7189a097-2b71-64a4-ea86-0acfc0463395,386463000,Prescribed activity/exercise education,in-progress,GUARDIAN BROCKTON PC
+7189a097-2b71-64a4-ea86-0acfc0463395,413473000,Counseling about alcohol consumption,in-progress,GUARDIAN BROCKTON PC
+7189a097-2b71-64a4-ea86-0acfc0463395,1151000175103,Dietary approaches to stop hypertension diet,in-progress,GUARDIAN BROCKTON PC
+7189a097-2b71-64a4-ea86-0acfc0463395,225323000,Smoking cessation education,in-progress,GUARDIAN BROCKTON PC
+c131c467-ee03-201b-6d91-03a32b8269da,385949008,Dressing change management,completed,GOOD SAMARITAN MEDICAL CENTER
+c131c467-ee03-201b-6d91-03a32b8269da,440381005,Behavior to prevent sun exposure,completed,GOOD SAMARITAN MEDICAL CENTER
+c131c467-ee03-201b-6d91-03a32b8269da,439830001,Behavior to prevent infection,completed,GOOD SAMARITAN MEDICAL CENTER
+5f183dba-ba54-b492-7687-39a7b32341a5,229586001,"Rest, ice, compression and elevation treatment programme",completed,GOOD SAMARITAN MEDICAL CENTER
+5f183dba-ba54-b492-7687-39a7b32341a5,229070002,Stretching exercises,completed,GOOD SAMARITAN MEDICAL CENTER
+981aaaf6-0e5a-f249-f81b-619ab6a5e527,91251008,Physical therapy procedure (regime/therapy),in-progress,GOOD SAMARITAN MEDICAL CENTER
+981aaaf6-0e5a-f249-f81b-619ab6a5e527,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,GOOD SAMARITAN MEDICAL CENTER
+fdcb5c19-1c88-4448-dd33-c49fea36d430,229586001,"Rest, ice, compression and elevation treatment programme",completed,GOOD SAMARITAN MEDICAL CENTER
+fdcb5c19-1c88-4448-dd33-c49fea36d430,229070002,Stretching exercises,completed,GOOD SAMARITAN MEDICAL CENTER
+95811bb3-3ba3-242f-2742-d9de2240534e,386463000,Prescribed activity/exercise education,in-progress,PCP10332
+95811bb3-3ba3-242f-2742-d9de2240534e,413473000,Counseling about alcohol consumption,in-progress,PCP10332
+95811bb3-3ba3-242f-2742-d9de2240534e,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP10332
+95811bb3-3ba3-242f-2742-d9de2240534e,225323000,Smoking cessation education,in-progress,PCP10332
+99e0bd19-5e55-ec2d-d210-8a5c55e8ea62,160670007,Diabetic diet,in-progress,PCP10332
+99e0bd19-5e55-ec2d-d210-8a5c55e8ea62,229065009,Exercise therapy,in-progress,PCP10332
+96c53eda-a2b6-2ba6-69bb-557a3fa3f2eb,183063000,low salt diet education,in-progress,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+96c53eda-a2b6-2ba6-69bb-557a3fa3f2eb,183301007,physical exercise,in-progress,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+3184209d-b3a2-10df-f803-c7443b49e47c,385949008,Dressing change management,completed,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+3184209d-b3a2-10df-f803-c7443b49e47c,439830001,Behavior to prevent infection,completed,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH
+e2cae722-664c-78bd-3863-0154631c2ecf,266694003,Heat therapy,completed,WINCHESTER HOSPITAL
+e2cae722-664c-78bd-3863-0154631c2ecf,183051005,Recommendation to rest,completed,WINCHESTER HOSPITAL
+669ae270-dbbc-5bf3-0f05-426902e1db7a,386294003,Joint mobility exercises,in-progress,WINCHESTER HOSPITAL
+669ae270-dbbc-5bf3-0f05-426902e1db7a,266694003,Heat therapy,in-progress,WINCHESTER HOSPITAL
+31311a81-f2a3-b2bf-c206-4663f4ae9d04,304510005,Recommendation to avoid exercise,in-progress,WINCHESTER HOSPITAL
+31311a81-f2a3-b2bf-c206-4663f4ae9d04,371605008,Deep breathing and coughing exercises,in-progress,WINCHESTER HOSPITAL
+ed3751f8-9ef5-2580-22f5-92f847fcb220,160670007,Diabetic diet,in-progress,CARL GUSTAFSON LLC
+ed3751f8-9ef5-2580-22f5-92f847fcb220,229065009,Exercise therapy,in-progress,CARL GUSTAFSON LLC
+8e97300b-4576-1385-d1a3-bd79e6bcbf3f,223472008,Discussion about hygiene,completed,NEWTON-WELLESLEY HOSPITAL
+8e97300b-4576-1385-d1a3-bd79e6bcbf3f,171245007,Urine screening,completed,NEWTON-WELLESLEY HOSPITAL
+621166b6-d6a1-713c-6993-0cbf28662608,304510005,Recommendation to avoid exercise,completed,NEWTON-WELLESLEY HOSPITAL
+621166b6-d6a1-713c-6993-0cbf28662608,371605008,Deep breathing and coughing exercises,completed,NEWTON-WELLESLEY HOSPITAL
+89d0976b-0e4e-2558-aa0f-f81a97202839,304510005,Recommendation to avoid exercise,completed,FALMOUTH HOSPITAL
+89d0976b-0e4e-2558-aa0f-f81a97202839,371605008,Deep breathing and coughing exercises,completed,FALMOUTH HOSPITAL
+e25ef449-b5fa-e9b4-8c7a-a6d653226f4b,385949008,Dressing change management,completed,FALMOUTH HOSPITAL
+e25ef449-b5fa-e9b4-8c7a-a6d653226f4b,439830001,Behavior to prevent infection,completed,FALMOUTH HOSPITAL
+1bdde0fb-366f-58e0-fc08-4a28810cadf6,386294003,Joint mobility exercises,in-progress,NASHOBA VALLEY MEDICAL CENTER
+1bdde0fb-366f-58e0-fc08-4a28810cadf6,266694003,Heat therapy,in-progress,NASHOBA VALLEY MEDICAL CENTER
+b746d9f3-535f-4c64-d4dd-7b77f3131107,160670007,Diabetic diet,in-progress,PCP169387
+b746d9f3-535f-4c64-d4dd-7b77f3131107,229065009,Exercise therapy,in-progress,PCP169387
+5b1b6e3d-43c9-1373-8ac5-45fa3ef89900,304510005,Recommendation to avoid exercise,completed,NASHOBA VALLEY MEDICAL CENTER
+5b1b6e3d-43c9-1373-8ac5-45fa3ef89900,371605008,Deep breathing and coughing exercises,completed,NASHOBA VALLEY MEDICAL CENTER
+abdef3de-6a35-0edb-968c-e1018bd13146,223472008,Discussion about hygiene,completed,NASHOBA VALLEY MEDICAL CENTER
+abdef3de-6a35-0edb-968c-e1018bd13146,171245007,Urine screening,completed,NASHOBA VALLEY MEDICAL CENTER
+3663b561-23fa-53b3-bfc6-cfb5d828c6d0,160670007,Diabetic diet,in-progress,PCP356252
+3663b561-23fa-53b3-bfc6-cfb5d828c6d0,229065009,Exercise therapy,in-progress,PCP356252
+b8b62ec3-e5eb-e5cf-fe5b-35f6181eaae9,386463000,Prescribed activity/exercise education,in-progress,HOLY FAMILY HOSPITAL
+b8b62ec3-e5eb-e5cf-fe5b-35f6181eaae9,413473000,Counseling about alcohol consumption,in-progress,HOLY FAMILY HOSPITAL
+b8b62ec3-e5eb-e5cf-fe5b-35f6181eaae9,1151000175103,Dietary approaches to stop hypertension diet,in-progress,HOLY FAMILY HOSPITAL
+b8b62ec3-e5eb-e5cf-fe5b-35f6181eaae9,225323000,Smoking cessation education,in-progress,HOLY FAMILY HOSPITAL
+d5c15b2b-6a6d-3b61-756a-1b80936624a6,160670007,Diabetic diet,in-progress,PCP59391
+d5c15b2b-6a6d-3b61-756a-1b80936624a6,229065009,Exercise therapy,in-progress,PCP59391
+eec137fe-d8ce-e027-e248-591a11a7527c,385949008,Dressing change management,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+eec137fe-d8ce-e027-e248-591a11a7527c,439830001,Behavior to prevent infection,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+d154b96e-de63-194a-819c-e8f6f6e3567b,266694003,Heat therapy,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+d154b96e-de63-194a-819c-e8f6f6e3567b,183051005,Recommendation to rest,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ffbb4d49-eb65-1e49-c67e-11aa53bdd8a2,304510005,Recommendation to avoid exercise,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ffbb4d49-eb65-1e49-c67e-11aa53bdd8a2,371605008,Deep breathing and coughing exercises,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+abb5c090-7fe2-8b3a-4823-7b3a6ccc009e,409002,Food allergy diet,in-progress,FALMOUTH HOSPITAL
+abb5c090-7fe2-8b3a-4823-7b3a6ccc009e,58332002,Allergy education,in-progress,FALMOUTH HOSPITAL
+abb5c090-7fe2-8b3a-4823-7b3a6ccc009e,58332002,Allergy education,in-progress,FALMOUTH HOSPITAL
+d3ed1132-93fa-fd0d-3761-11d130c751ca,710818004,Inhaled steroid therapy,in-progress,FALMOUTH HOSPITAL
+d3ed1132-93fa-fd0d-3761-11d130c751ca,708409001,Home nebulizer therapy,in-progress,FALMOUTH HOSPITAL
+d3ed1132-93fa-fd0d-3761-11d130c751ca,229298005,Breathing control,in-progress,FALMOUTH HOSPITAL
+78c71fb7-45cf-5775-f41f-66e2eb832eb7,182678001,Hyposensitization to allergens (procedure),completed,FALMOUTH HOSPITAL
+34c51e8d-37b5-c9a1-b73d-86d4dea4cd5e,135892000,Antenatal education,completed,FALMOUTH HOSPITAL
+34c51e8d-37b5-c9a1-b73d-86d4dea4cd5e,713076009,Antenatal risk assessment,completed,FALMOUTH HOSPITAL
+34c51e8d-37b5-c9a1-b73d-86d4dea4cd5e,312404004,Antenatal blood tests,completed,FALMOUTH HOSPITAL
+a3e44e2f-c08a-89c0-b009-209195f49954,304510005,Recommendation to avoid exercise,completed,FALMOUTH HOSPITAL
+a3e44e2f-c08a-89c0-b009-209195f49954,371605008,Deep breathing and coughing exercises,completed,FALMOUTH HOSPITAL
+547e619a-95be-4837-f016-156dd5020400,409002,Food allergy diet,in-progress,EMERSON HOSPITAL -
+547e619a-95be-4837-f016-156dd5020400,58332002,Allergy education,in-progress,EMERSON HOSPITAL -
+547e619a-95be-4837-f016-156dd5020400,58332002,Allergy education,in-progress,EMERSON HOSPITAL -
+bc43d468-237d-e4bf-640d-dc64cc347acf,60112009,Drug addiction counseling,in-progress,UMASS MEMORIAL MEDICAL CENTER INC
+bc43d468-237d-e4bf-640d-dc64cc347acf,61480009,Drug detoxification,in-progress,UMASS MEMORIAL MEDICAL CENTER INC
+bc43d468-237d-e4bf-640d-dc64cc347acf,266707007,Drug addiction therapy,in-progress,UMASS MEMORIAL MEDICAL CENTER INC
+c2b1b20f-6d54-acf5-3258-96ca5e6457f6,304510005,Recommendation to avoid exercise,completed,EMERSON HOSPITAL -
+c2b1b20f-6d54-acf5-3258-96ca5e6457f6,371605008,Deep breathing and coughing exercises,completed,EMERSON HOSPITAL -
+6c9d0e4d-ef5d-0155-7d06-e7350ac35a7e,91251008,Physical therapy procedure (regime/therapy),completed,ST VINCENT HOSPITAL
+6c9d0e4d-ef5d-0155-7d06-e7350ac35a7e,228557008,Cognitive and behavior therapy,completed,ST VINCENT HOSPITAL
+4772cfd6-66fb-30a7-d29d-2c41a5a0b3a6,91251008,Physical therapy procedure (regime/therapy),in-progress,EMERSON HOSPITAL -
+4772cfd6-66fb-30a7-d29d-2c41a5a0b3a6,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,EMERSON HOSPITAL -
+5f74d3f4-0ffa-25e8-87b5-f03630acdab0,386463000,Prescribed activity/exercise education,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+5f74d3f4-0ffa-25e8-87b5-f03630acdab0,413473000,Counseling about alcohol consumption,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+5f74d3f4-0ffa-25e8-87b5-f03630acdab0,1151000175103,Dietary approaches to stop hypertension diet,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+5f74d3f4-0ffa-25e8-87b5-f03630acdab0,225323000,Smoking cessation education,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+7694dbc2-25a0-62ea-b757-46963dae728c,135892000,Antenatal education,completed,FALMOUTH HOSPITAL
+7694dbc2-25a0-62ea-b757-46963dae728c,713076009,Antenatal risk assessment,completed,FALMOUTH HOSPITAL
+7694dbc2-25a0-62ea-b757-46963dae728c,312404004,Antenatal blood tests,completed,FALMOUTH HOSPITAL
+2611a977-5263-5ec4-d2e0-8a1e6840466d,135892000,Antenatal education,completed,FALMOUTH HOSPITAL
+2611a977-5263-5ec4-d2e0-8a1e6840466d,713076009,Antenatal risk assessment,completed,FALMOUTH HOSPITAL
+2611a977-5263-5ec4-d2e0-8a1e6840466d,312404004,Antenatal blood tests,completed,FALMOUTH HOSPITAL
+fdc4cfa7-a830-ef29-2541-67fb4cf17710,385949008,Dressing change management,completed,FALMOUTH HOSPITAL
+fdc4cfa7-a830-ef29-2541-67fb4cf17710,439830001,Behavior to prevent infection,completed,FALMOUTH HOSPITAL
+6438f17e-2d32-835b-c6f6-cf6117428019,183051005,Recommendation to rest,completed,FALMOUTH HOSPITAL
+6438f17e-2d32-835b-c6f6-cf6117428019,226138001,Alcohol-free diet,completed,FALMOUTH HOSPITAL
+c751d4ac-40d1-53d0-82d4-ec41beb3d1db,135892000,Antenatal education,completed,FALMOUTH HOSPITAL
+c751d4ac-40d1-53d0-82d4-ec41beb3d1db,713076009,Antenatal risk assessment,completed,FALMOUTH HOSPITAL
+c751d4ac-40d1-53d0-82d4-ec41beb3d1db,312404004,Antenatal blood tests,completed,FALMOUTH HOSPITAL
+55320787-5970-f4ac-bacd-cdb8ca99c0e4,304510005,Recommendation to avoid exercise,completed,FALMOUTH HOSPITAL
+55320787-5970-f4ac-bacd-cdb8ca99c0e4,371605008,Deep breathing and coughing exercises,completed,FALMOUTH HOSPITAL
+09a9db1a-a2c9-bc5c-ceb5-b2dbad5259b1,135892000,Antenatal education,completed,FALMOUTH HOSPITAL
+09a9db1a-a2c9-bc5c-ceb5-b2dbad5259b1,713076009,Antenatal risk assessment,completed,FALMOUTH HOSPITAL
+09a9db1a-a2c9-bc5c-ceb5-b2dbad5259b1,312404004,Antenatal blood tests,completed,FALMOUTH HOSPITAL
+0534c7be-6177-9f97-5319-784af99c4e63,183051005,Recommendation to rest,completed,FALMOUTH HOSPITAL
+0534c7be-6177-9f97-5319-784af99c4e63,243077000,Recommendation to limit sexual activity,completed,FALMOUTH HOSPITAL
+b48aa31c-ba37-49fb-defa-8754b28ee37b,386463000,Prescribed activity/exercise education,in-progress,PCP80065
+b48aa31c-ba37-49fb-defa-8754b28ee37b,413473000,Counseling about alcohol consumption,in-progress,PCP80065
+b48aa31c-ba37-49fb-defa-8754b28ee37b,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP80065
+b48aa31c-ba37-49fb-defa-8754b28ee37b,225323000,Smoking cessation education,in-progress,PCP80065
+b6c168ea-e445-1379-5334-dc2e5484f031,160670007,Diabetic diet,in-progress,Causeway OPC
+b6c168ea-e445-1379-5334-dc2e5484f031,229065009,Exercise therapy,in-progress,Causeway OPC
+1fdc2bbb-f346-0148-a5f6-5f6e4068d748,385949008,Dressing change management,completed,CAMBRIDGE HEALTH ALLIANCE
+1fdc2bbb-f346-0148-a5f6-5f6e4068d748,439830001,Behavior to prevent infection,completed,CAMBRIDGE HEALTH ALLIANCE
+84f5549e-f2a1-0337-a910-5b17ff3bd92a,160670007,Diabetic diet,in-progress,WINCHESTER HOSPITAL
+84f5549e-f2a1-0337-a910-5b17ff3bd92a,229065009,Exercise therapy,in-progress,WINCHESTER HOSPITAL
+7290aaab-3ebd-ee6a-df57-5c8c4c2dc867,386463000,Prescribed activity/exercise education,in-progress,WINCHESTER HOSPITAL
+7290aaab-3ebd-ee6a-df57-5c8c4c2dc867,413473000,Counseling about alcohol consumption,in-progress,WINCHESTER HOSPITAL
+7290aaab-3ebd-ee6a-df57-5c8c4c2dc867,1151000175103,Dietary approaches to stop hypertension diet,in-progress,WINCHESTER HOSPITAL
+7290aaab-3ebd-ee6a-df57-5c8c4c2dc867,225323000,Smoking cessation education,in-progress,WINCHESTER HOSPITAL
+c66317d7-7227-3d9f-27ec-96f105afe04a,444908001,Isolation nursing in negative pressure isolation environment (regime/therapy),completed,WINCHESTER HOSPITAL
+c66317d7-7227-3d9f-27ec-96f105afe04a,409524006,Airborne precautions (procedure),completed,WINCHESTER HOSPITAL
+c66317d7-7227-3d9f-27ec-96f105afe04a,409526008,Personal protective equipment (physical object),completed,WINCHESTER HOSPITAL
+4451ddc9-0aa0-48ba-cf2e-4f85cfacd059,160670007,Diabetic diet,in-progress,HOLYOKE HEALTH CENTER INC.
+4451ddc9-0aa0-48ba-cf2e-4f85cfacd059,229065009,Exercise therapy,in-progress,HOLYOKE HEALTH CENTER INC.
+d2b8c8ee-75a5-5c6c-bb0b-13106ce410c1,386463000,Prescribed activity/exercise education,in-progress,HOLYOKE HEALTH CENTER INC.
+d2b8c8ee-75a5-5c6c-bb0b-13106ce410c1,413473000,Counseling about alcohol consumption,in-progress,HOLYOKE HEALTH CENTER INC.
+d2b8c8ee-75a5-5c6c-bb0b-13106ce410c1,1151000175103,Dietary approaches to stop hypertension diet,in-progress,HOLYOKE HEALTH CENTER INC.
+d2b8c8ee-75a5-5c6c-bb0b-13106ce410c1,225323000,Smoking cessation education,in-progress,HOLYOKE HEALTH CENTER INC.
+311af95b-376c-1878-ad24-82ce42580cb2,304510005,Recommendation to avoid exercise,completed,BAYSTATE MEDICAL CENTER
+311af95b-376c-1878-ad24-82ce42580cb2,371605008,Deep breathing and coughing exercises,completed,BAYSTATE MEDICAL CENTER
+66ae1acc-cce5-ddba-b84b-2bd8ce9b38a4,91251008,Physical therapy procedure (regime/therapy),completed,BAYSTATE MEDICAL CENTER
+66ae1acc-cce5-ddba-b84b-2bd8ce9b38a4,228557008,Cognitive and behavior therapy,completed,BAYSTATE MEDICAL CENTER
+5fe0181a-1c84-7f58-a9ec-fbed1eda599c,385949008,Dressing change management,completed,MERCY MEDICAL CTR
+5fe0181a-1c84-7f58-a9ec-fbed1eda599c,439830001,Behavior to prevent infection,completed,MERCY MEDICAL CTR
+8634248a-e263-da27-ecfd-78201467d2a2,183063000,Low salt diet education (procedure),in-progress,BAYSTATE MEDICAL CENTER
+8634248a-e263-da27-ecfd-78201467d2a2,229152003,Lower limb exercises (regime/therapy),in-progress,BAYSTATE MEDICAL CENTER
+8634248a-e263-da27-ecfd-78201467d2a2,11816003,Diet education (procedure),in-progress,BAYSTATE MEDICAL CENTER
+4d931726-bef5-4b4c-aad8-42f3f5586db6,409524006,Airborne precautions (procedure),completed,BAYSTATE MEDICAL CENTER
+4d931726-bef5-4b4c-aad8-42f3f5586db6,409526008,Personal protective equipment (physical object),completed,BAYSTATE MEDICAL CENTER
+4cb43a80-3df1-32f5-c0ba-f396010a3cf7,409524006,Airborne precautions (procedure),completed,BAYSTATE MEDICAL CENTER
+4cb43a80-3df1-32f5-c0ba-f396010a3cf7,361235007,Isolation of infected patient (procedure),completed,BAYSTATE MEDICAL CENTER
+e8cdb4d0-4bab-1cd2-2484-b2ca1d27341e,160670007,Diabetic diet,in-progress,"VALLEY CHIROPRACTIC AND REHABILITATION, LLC"
+e8cdb4d0-4bab-1cd2-2484-b2ca1d27341e,229065009,Exercise therapy,in-progress,"VALLEY CHIROPRACTIC AND REHABILITATION, LLC"
+1a9dd6d8-ee36-9b69-2e80-46327f59e787,386294003,Joint mobility exercises,in-progress,SHRINERS' HOSPITAL FOR CHILDREN (THE)
+1a9dd6d8-ee36-9b69-2e80-46327f59e787,266694003,Heat therapy,in-progress,SHRINERS' HOSPITAL FOR CHILDREN (THE)
+66b8d1c7-0aae-dbac-f0ed-8ce508723c36,183051005,Recommendation to rest,completed,MERCY MEDICAL CTR
+66b8d1c7-0aae-dbac-f0ed-8ce508723c36,408580007,Physical activity target light exercise,completed,MERCY MEDICAL CTR
+43afa38f-9b2f-828c-6a5f-6b29bd559ee4,183051005,Recommendation to rest,completed,MERCY MEDICAL CTR
+43afa38f-9b2f-828c-6a5f-6b29bd559ee4,408580007,Physical activity target light exercise,completed,MERCY MEDICAL CTR
+03bb2f88-7c21-aa50-4deb-7151ed3d33b9,160670007,Diabetic diet,in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+03bb2f88-7c21-aa50-4deb-7151ed3d33b9,229065009,Exercise therapy,in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+a6134af7-9a9e-fb83-7781-75f9f25ee2bf,313071005,Counseling for substance abuse (procedure),in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+a6134af7-9a9e-fb83-7781-75f9f25ee2bf,408935001,Substance abuse prevention education (procedure),in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+a6134af7-9a9e-fb83-7781-75f9f25ee2bf,408936000,Substance abuse prevention management (procedure),in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+1c9b5f5a-a42a-44cb-a298-35cd92f877ba,408580007,Physical activity target light exercise,in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+1c9b5f5a-a42a-44cb-a298-35cd92f877ba,229578001,Ice bath treatment,in-progress,"VA Boston Healthcare System, Jamaica Plain Campus"
+c404d9bb-d05d-a588-4a36-0e1c52f58f5a,385949008,Dressing change management,completed,CAMBRIDGE HEALTH ALLIANCE
+c404d9bb-d05d-a588-4a36-0e1c52f58f5a,439830001,Behavior to prevent infection,completed,CAMBRIDGE HEALTH ALLIANCE
+c4b74d07-40ac-44f9-d1d4-a88419543b53,304510005,Recommendation to avoid exercise,completed,HEYWOOD HOSPITAL -
+c4b74d07-40ac-44f9-d1d4-a88419543b53,371605008,Deep breathing and coughing exercises,completed,HEYWOOD HOSPITAL -
+2741599c-f026-e19f-33fa-d565042c7370,386463000,Prescribed activity/exercise education,in-progress,PCP34313
+2741599c-f026-e19f-33fa-d565042c7370,413473000,Counseling about alcohol consumption,in-progress,PCP34313
+2741599c-f026-e19f-33fa-d565042c7370,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP34313
+2741599c-f026-e19f-33fa-d565042c7370,225323000,Smoking cessation education,in-progress,PCP34313
+f2a6dd9c-8cb7-af27-30f9-1c7becb03431,183063000,low salt diet education,in-progress,CAPE COD HOSPITAL
+f2a6dd9c-8cb7-af27-30f9-1c7becb03431,183301007,physical exercise,in-progress,CAPE COD HOSPITAL
+a5be6b08-4fb6-d5cd-504c-ccf995f0cef3,386294003,Joint mobility exercises,in-progress,CAPE COD HOSPITAL
+a5be6b08-4fb6-d5cd-504c-ccf995f0cef3,266694003,Heat therapy,in-progress,CAPE COD HOSPITAL
+752adecf-6a26-0b76-44ca-e83a522b1f64,229065009,Exercise therapy,in-progress,PCP5308
+752adecf-6a26-0b76-44ca-e83a522b1f64,15081005,Pulmonary rehabilitation (regime/therapy),in-progress,PCP5308
+f20f38f7-e2b1-9357-b192-cfdd0aa88bc4,409524006,Airborne precautions (procedure),completed,CAPE COD HOSPITAL
+f20f38f7-e2b1-9357-b192-cfdd0aa88bc4,409526008,Personal protective equipment (physical object),completed,CAPE COD HOSPITAL
+270bff01-39dd-51f5-8428-395495e07812,409524006,Airborne precautions (procedure),completed,CAPE COD HOSPITAL
+270bff01-39dd-51f5-8428-395495e07812,361235007,Isolation of infected patient (procedure),completed,CAPE COD HOSPITAL
+33613ce0-25f8-1f76-7291-7b8f4a522f9d,304510005,Recommendation to avoid exercise,completed,SAINT ANNE'S HOSPITAL
+33613ce0-25f8-1f76-7291-7b8f4a522f9d,371605008,Deep breathing and coughing exercises,completed,SAINT ANNE'S HOSPITAL
+844f0da9-6c36-aba3-a03f-981654200e24,409002,Food allergy diet,in-progress,SAINT ANNE'S HOSPITAL
+844f0da9-6c36-aba3-a03f-981654200e24,58332002,Allergy education,in-progress,SAINT ANNE'S HOSPITAL
+844f0da9-6c36-aba3-a03f-981654200e24,58332002,Allergy education,in-progress,SAINT ANNE'S HOSPITAL
+54e3ef64-5e91-8f23-55e1-5af1d87ccad5,160670007,Diabetic diet,in-progress,PCP17060
+54e3ef64-5e91-8f23-55e1-5af1d87ccad5,229065009,Exercise therapy,in-progress,PCP17060
+b579eaf1-db37-2f26-7734-52778818e35c,183063000,low salt diet education,in-progress,SAINT ANNE'S HOSPITAL
+b579eaf1-db37-2f26-7734-52778818e35c,183301007,physical exercise,in-progress,SAINT ANNE'S HOSPITAL
+d8e989a6-02c2-ce34-2648-51b490de43bb,91251008,Physical therapy procedure (regime/therapy),completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+d8e989a6-02c2-ce34-2648-51b490de43bb,228557008,Cognitive and behavior therapy,completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+3e35b0ec-0b00-ba7c-88fe-e6642c7a86bb,91251008,Physical therapy procedure (regime/therapy),in-progress,SAINT ANNE'S HOSPITAL
+3e35b0ec-0b00-ba7c-88fe-e6642c7a86bb,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,SAINT ANNE'S HOSPITAL
+9e2a7d15-cfcc-e3f6-ff1e-2db91ee1fcc6,229586001,"Rest, ice, compression and elevation treatment programme",completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+9e2a7d15-cfcc-e3f6-ff1e-2db91ee1fcc6,229070002,Stretching exercises,completed,"SOUTHCOAST HOSPITAL GROUP, INC"
+ef7d2423-2241-817e-eeae-5624cfff537c,409524006,Airborne precautions (procedure),completed,SAINT ANNE'S HOSPITAL
+ef7d2423-2241-817e-eeae-5624cfff537c,409526008,Personal protective equipment (physical object),completed,SAINT ANNE'S HOSPITAL
+9d328c29-a3a7-434a-2333-b54a3ac00449,409524006,Airborne precautions (procedure),completed,SAINT ANNE'S HOSPITAL
+9d328c29-a3a7-434a-2333-b54a3ac00449,361235007,Isolation of infected patient (procedure),completed,SAINT ANNE'S HOSPITAL
+f1adc2a9-df63-7a99-1a12-ce8a4d380712,58332002,Allergy education,in-progress,SOUTH SHORE HOSPITAL
+ae7a85d1-e96a-4a69-b111-dfeb808b488d,77806000,Low calorie diet,in-progress,BETH ISRAEL DEACONESS HOSPITAL-MILTON INC
+ae7a85d1-e96a-4a69-b111-dfeb808b488d,1171000175109,Increased physical activity,in-progress,BETH ISRAEL DEACONESS HOSPITAL-MILTON INC
+b4f64906-ad85-a6fd-d5a9-f3ee360c5cb0,710081004,smoking cessation therapy,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+ce76ba6e-36e4-c71a-0b7f-d523c5328cee,408580007,Physical activity target light exercise,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+ce76ba6e-36e4-c71a-0b7f-d523c5328cee,229578001,Ice bath treatment,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+4d40c8b4-8ae2-4309-ccf8-5059de360e19,91251008,Physical therapy procedure (regime/therapy),completed,"VA Boston Healthcare System, West Roxbury Campus"
+4d40c8b4-8ae2-4309-ccf8-5059de360e19,228557008,Cognitive and behavior therapy,completed,"VA Boston Healthcare System, West Roxbury Campus"
+31636093-b850-edc9-bdd1-e054d0bb43cf,229586001,"Rest, ice, compression and elevation treatment programme",completed,SOUTH SHORE HOSPITAL
+31636093-b850-edc9-bdd1-e054d0bb43cf,229070002,Stretching exercises,completed,SOUTH SHORE HOSPITAL
+01250539-f813-a9c7-80f2-40d89b358dcc,850261000000100,Education about dementia,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+01250539-f813-a9c7-80f2-40d89b358dcc,710125008,Promotion of use of memory skills,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+01250539-f813-a9c7-80f2-40d89b358dcc,315043002,Long term social support,in-progress,"VA Boston Healthcare System, West Roxbury Campus"
+de5fae1a-9ed7-1eee-de37-e0d2676a77c4,77806000,Low calorie diet,in-progress,"WORCESTER DERMATOLOGY ASSOCIATES, P.C."
+de5fae1a-9ed7-1eee-de37-e0d2676a77c4,1171000175109,Increased physical activity,in-progress,"WORCESTER DERMATOLOGY ASSOCIATES, P.C."
+6019b845-409d-c6fc-8985-b1a3122184f0,60112009,Drug addiction counseling,in-progress,ST VINCENT HOSPITAL
+6019b845-409d-c6fc-8985-b1a3122184f0,61480009,Drug detoxification,in-progress,ST VINCENT HOSPITAL
+6019b845-409d-c6fc-8985-b1a3122184f0,266707007,Drug addiction therapy,in-progress,ST VINCENT HOSPITAL
+2676d176-96e3-36b7-3301-eda7c1dcec38,91251008,Physical therapy procedure (regime/therapy),completed,UMASS MEMORIAL MEDICAL CENTER INC
+2676d176-96e3-36b7-3301-eda7c1dcec38,228557008,Cognitive and behavior therapy,completed,UMASS MEMORIAL MEDICAL CENTER INC
+07bd6bd9-88e6-0484-ca94-bfde2a4f103f,91251008,Physical therapy procedure (regime/therapy),in-progress,ADCARE HOSPITAL OF WORCESTER INC
+07bd6bd9-88e6-0484-ca94-bfde2a4f103f,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,ADCARE HOSPITAL OF WORCESTER INC
+5cbc7074-9a6c-3e34-51d7-e15e89646f5e,229586001,"Rest, ice, compression and elevation treatment programme",completed,ST VINCENT HOSPITAL
+5cbc7074-9a6c-3e34-51d7-e15e89646f5e,229070002,Stretching exercises,completed,ST VINCENT HOSPITAL
+82226f9f-8bab-bfdf-c0d0-e5e27a0b319a,266694003,Heat therapy,completed,HARRINGTON MEMORIAL HOSPITAL-1
+82226f9f-8bab-bfdf-c0d0-e5e27a0b319a,183051005,Recommendation to rest,completed,HARRINGTON MEMORIAL HOSPITAL-1
+63729558-00a8-b703-b90d-80d9aee15507,386463000,Prescribed activity/exercise education,in-progress,HARRINGTON PHYSICIAN SERVICES INC
+63729558-00a8-b703-b90d-80d9aee15507,413473000,Counseling about alcohol consumption,in-progress,HARRINGTON PHYSICIAN SERVICES INC
+63729558-00a8-b703-b90d-80d9aee15507,1151000175103,Dietary approaches to stop hypertension diet,in-progress,HARRINGTON PHYSICIAN SERVICES INC
+63729558-00a8-b703-b90d-80d9aee15507,225323000,Smoking cessation education,in-progress,HARRINGTON PHYSICIAN SERVICES INC
+441a8cf8-31b5-ca8e-590c-418aa68a8ad0,386294003,Joint mobility exercises,in-progress,HARRINGTON MEMORIAL HOSPITAL-1
+441a8cf8-31b5-ca8e-590c-418aa68a8ad0,266694003,Heat therapy,in-progress,HARRINGTON MEMORIAL HOSPITAL-1
+cbb0e973-533d-a5c3-10e9-1a3b4171bc61,386463000,Prescribed activity/exercise education,in-progress,PCP260628
+cbb0e973-533d-a5c3-10e9-1a3b4171bc61,413473000,Counseling about alcohol consumption,in-progress,PCP260628
+cbb0e973-533d-a5c3-10e9-1a3b4171bc61,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP260628
+cbb0e973-533d-a5c3-10e9-1a3b4171bc61,225323000,Smoking cessation education,in-progress,PCP260628
+de02476a-fddb-9562-0a0d-96c3442276bf,225130001,Application of moisturizer to skin,completed,NEWTON-WELLESLEY HOSPITAL
+e7430ed8-2133-833f-7573-5c437d8ab1a1,58332002,Allergy education,in-progress,NEWTON-WELLESLEY HOSPITAL
+bb6c81d8-54ba-be4f-eb67-cc2b5ed02c7c,182678001,Hyposensitization to allergens (procedure),completed,NEWTON-WELLESLEY HOSPITAL
+938575a9-3703-6914-2fd0-ff16497219fc,409002,Food allergy diet,in-progress,BEVERLY HOSPITAL CORPORATION
+938575a9-3703-6914-2fd0-ff16497219fc,58332002,Allergy education,in-progress,BEVERLY HOSPITAL CORPORATION
+938575a9-3703-6914-2fd0-ff16497219fc,58332002,Allergy education,in-progress,BEVERLY HOSPITAL CORPORATION
+ce71156c-0613-2128-5da0-be42358f096d,135892000,Antenatal education,completed,BEVERLY HOSPITAL CORPORATION
+ce71156c-0613-2128-5da0-be42358f096d,713076009,Antenatal risk assessment,completed,BEVERLY HOSPITAL CORPORATION
+ce71156c-0613-2128-5da0-be42358f096d,312404004,Antenatal blood tests,completed,BEVERLY HOSPITAL CORPORATION
+79381a08-d2ea-ffda-c2ab-856531c9f8dc,91251008,Physical therapy procedure (regime/therapy),completed,BEVERLY HOSPITAL CORPORATION
+79381a08-d2ea-ffda-c2ab-856531c9f8dc,228557008,Cognitive and behavior therapy,completed,BEVERLY HOSPITAL CORPORATION
+d2747597-4234-0a78-161a-170d30b80920,135892000,Antenatal education,completed,BEVERLY HOSPITAL CORPORATION
+d2747597-4234-0a78-161a-170d30b80920,713076009,Antenatal risk assessment,completed,BEVERLY HOSPITAL CORPORATION
+d2747597-4234-0a78-161a-170d30b80920,312404004,Antenatal blood tests,completed,BEVERLY HOSPITAL CORPORATION
+328933dd-a726-d3f1-c02c-42cd34074a3e,135892000,Antenatal education,completed,BEVERLY HOSPITAL CORPORATION
+328933dd-a726-d3f1-c02c-42cd34074a3e,713076009,Antenatal risk assessment,completed,BEVERLY HOSPITAL CORPORATION
+328933dd-a726-d3f1-c02c-42cd34074a3e,312404004,Antenatal blood tests,completed,BEVERLY HOSPITAL CORPORATION
+bcd97cbd-39b3-ca57-a16d-bc9308069cde,183051005,Recommendation to rest,completed,LAWRENCE GENERAL HOSPITAL
+bcd97cbd-39b3-ca57-a16d-bc9308069cde,226138001,Alcohol-free diet,completed,LAWRENCE GENERAL HOSPITAL
+96f539d0-3fd5-5a23-6ed3-1433c29c7158,386463000,Prescribed activity/exercise education,in-progress,VK NEW ENGLAND MANAGEMENT LLC
+96f539d0-3fd5-5a23-6ed3-1433c29c7158,413473000,Counseling about alcohol consumption,in-progress,VK NEW ENGLAND MANAGEMENT LLC
+96f539d0-3fd5-5a23-6ed3-1433c29c7158,1151000175103,Dietary approaches to stop hypertension diet,in-progress,VK NEW ENGLAND MANAGEMENT LLC
+96f539d0-3fd5-5a23-6ed3-1433c29c7158,225323000,Smoking cessation education,in-progress,VK NEW ENGLAND MANAGEMENT LLC
+3cd378f3-4bdf-7e1e-dfc7-641fc0f7f62e,304510005,Recommendation to avoid exercise,completed,MOUNT AUBURN HOSPITAL
+3cd378f3-4bdf-7e1e-dfc7-641fc0f7f62e,371605008,Deep breathing and coughing exercises,completed,MOUNT AUBURN HOSPITAL
+46788310-e6d6-afe9-6f23-b27709bb3a6f,386463000,Prescribed activity/exercise education,in-progress,PCP38777
+46788310-e6d6-afe9-6f23-b27709bb3a6f,413473000,Counseling about alcohol consumption,in-progress,PCP38777
+46788310-e6d6-afe9-6f23-b27709bb3a6f,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP38777
+46788310-e6d6-afe9-6f23-b27709bb3a6f,225323000,Smoking cessation education,in-progress,PCP38777
+23586485-e293-748c-ef52-12c791a7b223,304510005,Recommendation to avoid exercise,completed,MOUNT AUBURN HOSPITAL
+23586485-e293-748c-ef52-12c791a7b223,371605008,Deep breathing and coughing exercises,completed,MOUNT AUBURN HOSPITAL
+d2226bcd-4878-cfda-a2bd-ac562561ce9b,304510005,Recommendation to avoid exercise,completed,HALLMARK HEALTH SYSTEM
+d2226bcd-4878-cfda-a2bd-ac562561ce9b,371605008,Deep breathing and coughing exercises,completed,HALLMARK HEALTH SYSTEM
+0ba0cf52-2ba7-7b0d-562c-58bbe0318be4,304510005,Recommendation to avoid exercise,completed,HALLMARK HEALTH SYSTEM
+0ba0cf52-2ba7-7b0d-562c-58bbe0318be4,371605008,Deep breathing and coughing exercises,completed,HALLMARK HEALTH SYSTEM
+2a635f41-8a90-bb4b-44b3-16550b26abd0,385949008,Dressing change management,completed,HALLMARK HEALTH SYSTEM
+2a635f41-8a90-bb4b-44b3-16550b26abd0,439830001,Behavior to prevent infection,completed,HALLMARK HEALTH SYSTEM
+15978b76-9b11-36ac-31ea-1399f89e205a,304510005,Recommendation to avoid exercise,completed,NORWOOD HOSPITAL
+15978b76-9b11-36ac-31ea-1399f89e205a,371605008,Deep breathing and coughing exercises,completed,NORWOOD HOSPITAL
+1b51aea7-2054-d44c-b2da-511d246cdb8d,183051005,Recommendation to rest,completed,NORWOOD HOSPITAL
+1b51aea7-2054-d44c-b2da-511d246cdb8d,226138001,Alcohol-free diet,completed,NORWOOD HOSPITAL
+2c7b34b9-4a5a-246f-ee84-ff1018b6e91b,135892000,Antenatal education,completed,NORWOOD HOSPITAL
+2c7b34b9-4a5a-246f-ee84-ff1018b6e91b,713076009,Antenatal risk assessment,completed,NORWOOD HOSPITAL
+2c7b34b9-4a5a-246f-ee84-ff1018b6e91b,312404004,Antenatal blood tests,completed,NORWOOD HOSPITAL
+62762ea2-06ae-9894-a5b6-6bd0d3959891,225130001,Application of moisturizer to skin,completed,NORWOOD HOSPITAL
+4594884e-f0fb-9319-69fb-adfdac400f6e,58332002,Allergy education,in-progress,NORWOOD HOSPITAL
+8b753658-de52-cf21-be51-47f2890c0638,135892000,Antenatal education,completed,NORWOOD HOSPITAL
+8b753658-de52-cf21-be51-47f2890c0638,713076009,Antenatal risk assessment,completed,NORWOOD HOSPITAL
+8b753658-de52-cf21-be51-47f2890c0638,312404004,Antenatal blood tests,completed,NORWOOD HOSPITAL
+7a2dba67-405b-dde7-d3a2-ec3e5fc554e5,58332002,Allergy education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+54a24eda-469b-f44a-6da5-60a28c230b46,386463000,Prescribed activity/exercise education,in-progress,GREATER LOWELL FAMILY PRACTICE PC
+54a24eda-469b-f44a-6da5-60a28c230b46,413473000,Counseling about alcohol consumption,in-progress,GREATER LOWELL FAMILY PRACTICE PC
+54a24eda-469b-f44a-6da5-60a28c230b46,1151000175103,Dietary approaches to stop hypertension diet,in-progress,GREATER LOWELL FAMILY PRACTICE PC
+54a24eda-469b-f44a-6da5-60a28c230b46,225323000,Smoking cessation education,in-progress,GREATER LOWELL FAMILY PRACTICE PC
+39515496-0b7e-71c2-2b35-125d09452db9,135892000,Antenatal education,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+39515496-0b7e-71c2-2b35-125d09452db9,713076009,Antenatal risk assessment,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+39515496-0b7e-71c2-2b35-125d09452db9,312404004,Antenatal blood tests,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+657942f4-fec9-69d7-5c8e-0aeb86ad9a2f,135892000,Antenatal education,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+657942f4-fec9-69d7-5c8e-0aeb86ad9a2f,713076009,Antenatal risk assessment,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+657942f4-fec9-69d7-5c8e-0aeb86ad9a2f,312404004,Antenatal blood tests,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bc7464fe-0dca-3ef3-95a9-f5b8cd83ba3c,229586001,"Rest, ice, compression and elevation treatment programme",completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+bc7464fe-0dca-3ef3-95a9-f5b8cd83ba3c,229070002,Stretching exercises,completed,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+db4d76b4-e660-bedd-b230-61a308ece2eb,135892000,Antenatal education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+db4d76b4-e660-bedd-b230-61a308ece2eb,713076009,Antenatal risk assessment,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+db4d76b4-e660-bedd-b230-61a308ece2eb,312404004,Antenatal blood tests,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+3db9cf39-07ed-92f9-58a5-81a3f1c36a44,60112009,Drug addiction counseling,in-progress,MILFORD REGIONAL MEDICAL CENTER
+3db9cf39-07ed-92f9-58a5-81a3f1c36a44,61480009,Drug detoxification,in-progress,MILFORD REGIONAL MEDICAL CENTER
+3db9cf39-07ed-92f9-58a5-81a3f1c36a44,266707007,Drug addiction therapy,in-progress,MILFORD REGIONAL MEDICAL CENTER
+7506cf99-8431-6ceb-49a3-51e67fa844c5,229586001,"Rest, ice, compression and elevation treatment programme",completed,MILFORD REGIONAL MEDICAL CENTER
+7506cf99-8431-6ceb-49a3-51e67fa844c5,229070002,Stretching exercises,completed,MILFORD REGIONAL MEDICAL CENTER
+d22ac291-3238-5aa2-41fe-08f21044c744,91251008,Physical therapy procedure (regime/therapy),completed,MILFORD REGIONAL MEDICAL CENTER
+d22ac291-3238-5aa2-41fe-08f21044c744,228557008,Cognitive and behavior therapy,completed,MILFORD REGIONAL MEDICAL CENTER
+85a33f94-9aed-5d61-6a56-b45c5c8efd45,304510005,Recommendation to avoid exercise,completed,MILFORD REGIONAL MEDICAL CENTER
+85a33f94-9aed-5d61-6a56-b45c5c8efd45,371605008,Deep breathing and coughing exercises,completed,MILFORD REGIONAL MEDICAL CENTER
+dead7470-ba91-da57-e576-837d776b3f22,183063000,low salt diet education,in-progress,NANTUCKET COTTAGE HOSPITAL
+dead7470-ba91-da57-e576-837d776b3f22,183301007,physical exercise,in-progress,NANTUCKET COTTAGE HOSPITAL
+ec531ac2-c2a9-51d6-d7cb-03a3caf0f62c,135892000,Antenatal education,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ec531ac2-c2a9-51d6-d7cb-03a3caf0f62c,713076009,Antenatal risk assessment,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ec531ac2-c2a9-51d6-d7cb-03a3caf0f62c,312404004,Antenatal blood tests,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+6941b0c0-e1c4-1b4e-642b-f603b6f80eba,135892000,Antenatal education,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+6941b0c0-e1c4-1b4e-642b-f603b6f80eba,713076009,Antenatal risk assessment,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+6941b0c0-e1c4-1b4e-642b-f603b6f80eba,312404004,Antenatal blood tests,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+f8f7ff34-50ff-91f7-b56d-801943d5eab0,444908001,Isolation nursing in negative pressure isolation environment (regime/therapy),completed,MORTON HOSPITAL
+f8f7ff34-50ff-91f7-b56d-801943d5eab0,409524006,Airborne precautions (procedure),completed,MORTON HOSPITAL
+f8f7ff34-50ff-91f7-b56d-801943d5eab0,409526008,Personal protective equipment (physical object),completed,MORTON HOSPITAL
+c58e9f5c-565c-c222-a57a-032e0f6c47a7,304510005,Recommendation to avoid exercise,completed,Lowell Vet Center
+c58e9f5c-565c-c222-a57a-032e0f6c47a7,371605008,Deep breathing and coughing exercises,completed,Lowell Vet Center
+e2d5b381-6b0e-fe18-a704-74d2894ead34,183063000,low salt diet education,in-progress,Lowell Vet Center
+e2d5b381-6b0e-fe18-a704-74d2894ead34,183301007,physical exercise,in-progress,Lowell Vet Center
+803cabcb-8d9d-5b43-7ed0-17a29f62236c,385715006,Cardiac care (regime/therapy),completed,Lowell Vet Center
+803cabcb-8d9d-5b43-7ed0-17a29f62236c,386619000,Low sodium diet (finding),completed,Lowell Vet Center
+d0f8405b-c3cd-235b-91b4-e40ac7dbe92f,385949008,Dressing change management,completed,LOWELL GENERAL HOSPITAL
+d0f8405b-c3cd-235b-91b4-e40ac7dbe92f,439830001,Behavior to prevent infection,completed,LOWELL GENERAL HOSPITAL
+2e870265-25bd-2779-9ed4-0bdc5a8aa9f2,385715006,Cardiac care (regime/therapy),completed,Lowell Vet Center
+2e870265-25bd-2779-9ed4-0bdc5a8aa9f2,386619000,Low sodium diet (finding),completed,Lowell Vet Center
+c594235e-9b7b-03b8-47b6-e964f3acb0c7,304510005,Recommendation to avoid exercise,completed,NASHOBA VALLEY MEDICAL CENTER
+c594235e-9b7b-03b8-47b6-e964f3acb0c7,371605008,Deep breathing and coughing exercises,completed,NASHOBA VALLEY MEDICAL CENTER
+155f44a3-9ee8-dc80-231e-32db5cca857b,160670007,Diabetic diet,in-progress,PCP8861
+155f44a3-9ee8-dc80-231e-32db5cca857b,229065009,Exercise therapy,in-progress,PCP8861
+f9eb0701-2fe3-faff-30e4-e6143642c5f0,183063000,low salt diet education,in-progress,STURDY MEMORIAL HOSPITAL
+f9eb0701-2fe3-faff-30e4-e6143642c5f0,183301007,physical exercise,in-progress,STURDY MEMORIAL HOSPITAL
+0a2fd873-3189-0aba-7425-4fcaa7ff3a56,304510005,Recommendation to avoid exercise,completed,STURDY MEMORIAL HOSPITAL
+0a2fd873-3189-0aba-7425-4fcaa7ff3a56,371605008,Deep breathing and coughing exercises,completed,STURDY MEMORIAL HOSPITAL
+12baed78-4fe7-d521-e895-da0217ea4633,226234005,Healthy diet,in-progress,STURDY MEMORIAL HOSPITAL
+12baed78-4fe7-d521-e895-da0217ea4633,703993001,Colonoscopy planned,in-progress,STURDY MEMORIAL HOSPITAL
+12baed78-4fe7-d521-e895-da0217ea4633,243072006,Cancer education,in-progress,STURDY MEMORIAL HOSPITAL
+498ef74e-ba17-8984-94ba-472514a2729c,10888001,Liquid diet,completed,STURDY MEMORIAL HOSPITAL
+498ef74e-ba17-8984-94ba-472514a2729c,103744005,Administration of intravenous fluids,completed,STURDY MEMORIAL HOSPITAL
+8c1d1d45-df4c-26e6-06b9-e4b02003fde7,386463000,Prescribed activity/exercise education,in-progress,NESC BIDPO LLC
+8c1d1d45-df4c-26e6-06b9-e4b02003fde7,413473000,Counseling about alcohol consumption,in-progress,NESC BIDPO LLC
+8c1d1d45-df4c-26e6-06b9-e4b02003fde7,1151000175103,Dietary approaches to stop hypertension diet,in-progress,NESC BIDPO LLC
+8c1d1d45-df4c-26e6-06b9-e4b02003fde7,225323000,Smoking cessation education,in-progress,NESC BIDPO LLC
+a49a897b-a70c-c1d9-6de1-63cdd7d023ed,386294003,Joint mobility exercises,in-progress,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+a49a897b-a70c-c1d9-6de1-63cdd7d023ed,266694003,Heat therapy,in-progress,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+77eec028-684d-bd17-ae90-7b78e6a17d7f,91251008,Physical therapy procedure (regime/therapy),completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+77eec028-684d-bd17-ae90-7b78e6a17d7f,228557008,Cognitive and behavior therapy,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ffc6beeb-a99f-c735-e081-da91efb5cad9,183051005,Recommendation to rest,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+ffc6beeb-a99f-c735-e081-da91efb5cad9,408580007,Physical activity target light exercise,completed,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM
+1c9fc18f-afbc-a658-1768-e8dcd6d714cc,160670007,Diabetic diet,in-progress,PCP20300
+1c9fc18f-afbc-a658-1768-e8dcd6d714cc,229065009,Exercise therapy,in-progress,PCP20300
+da5fc1d7-7ceb-5e6e-b8a5-5ad4ca2d83ad,266694003,Heat therapy,completed,NANTUCKET COTTAGE HOSPITAL
+da5fc1d7-7ceb-5e6e-b8a5-5ad4ca2d83ad,183051005,Recommendation to rest,completed,NANTUCKET COTTAGE HOSPITAL
+a91aab8c-f2c2-93bc-eaaf-13686c9f2439,386294003,Joint mobility exercises,in-progress,NANTUCKET COTTAGE HOSPITAL
+a91aab8c-f2c2-93bc-eaaf-13686c9f2439,266694003,Heat therapy,in-progress,NANTUCKET COTTAGE HOSPITAL
+3a535f36-04d4-888f-674b-e3861307a778,385949008,Dressing change management,completed,NANTUCKET COTTAGE HOSPITAL
+3a535f36-04d4-888f-674b-e3861307a778,440381005,Behavior to prevent sun exposure,completed,NANTUCKET COTTAGE HOSPITAL
+3a535f36-04d4-888f-674b-e3861307a778,439830001,Behavior to prevent infection,completed,NANTUCKET COTTAGE HOSPITAL
+b17e88f9-f30e-ac94-503d-91dd2dbdaf2f,229586001,"Rest, ice, compression and elevation treatment programme",completed,FALMOUTH HOSPITAL
+b17e88f9-f30e-ac94-503d-91dd2dbdaf2f,229070002,Stretching exercises,completed,FALMOUTH HOSPITAL
+69f25a10-5c76-3272-84b1-2299633c5e6f,183051005,Recommendation to rest,completed,FALMOUTH HOSPITAL
+69f25a10-5c76-3272-84b1-2299633c5e6f,408580007,Physical activity target light exercise,completed,FALMOUTH HOSPITAL
+bc2cbab3-d51f-4f9f-73af-dae798fc354a,386463000,Prescribed activity/exercise education,in-progress,PCP100060
+bc2cbab3-d51f-4f9f-73af-dae798fc354a,413473000,Counseling about alcohol consumption,in-progress,PCP100060
+bc2cbab3-d51f-4f9f-73af-dae798fc354a,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP100060
+bc2cbab3-d51f-4f9f-73af-dae798fc354a,225323000,Smoking cessation education,in-progress,PCP100060
+4dd4a575-7ea9-6f90-e4db-a5d8c56c86e2,160670007,Diabetic diet,in-progress,AT CARE PLLC
+4dd4a575-7ea9-6f90-e4db-a5d8c56c86e2,229065009,Exercise therapy,in-progress,AT CARE PLLC
+71337636-0edd-be92-726c-1ec57e99cc6d,183063000,low salt diet education,in-progress,LOWELL GENERAL HOSPITAL
+71337636-0edd-be92-726c-1ec57e99cc6d,183301007,physical exercise,in-progress,LOWELL GENERAL HOSPITAL
+298d29c7-9a96-29a0-f44e-c3ef73e56b18,385949008,Dressing change management,completed,LOWELL GENERAL HOSPITAL
+298d29c7-9a96-29a0-f44e-c3ef73e56b18,439830001,Behavior to prevent infection,completed,LOWELL GENERAL HOSPITAL
+d52c924e-a946-08d5-b134-87591e809827,304510005,Recommendation to avoid exercise,completed,LOWELL GENERAL HOSPITAL
+d52c924e-a946-08d5-b134-87591e809827,371605008,Deep breathing and coughing exercises,completed,LOWELL GENERAL HOSPITAL
+1e96172a-5c76-3c91-4628-6671bc1faa46,710818004,Inhaled steroid therapy,in-progress,"HEALTHALLIANCE HOSPITALS, INC"
+1e96172a-5c76-3c91-4628-6671bc1faa46,708409001,Home nebulizer therapy,in-progress,"HEALTHALLIANCE HOSPITALS, INC"
+1e96172a-5c76-3c91-4628-6671bc1faa46,229298005,Breathing control,in-progress,"HEALTHALLIANCE HOSPITALS, INC"
+d8c87f57-a837-0789-7c2b-6b39b4249d81,58332002,Allergy education,in-progress,"HEALTHALLIANCE HOSPITALS, INC"
+23fcc6af-a35f-294d-fcc5-947b36153ca0,304510005,Recommendation to avoid exercise,completed,"HEALTHALLIANCE HOSPITALS, INC"
+23fcc6af-a35f-294d-fcc5-947b36153ca0,371605008,Deep breathing and coughing exercises,completed,"HEALTHALLIANCE HOSPITALS, INC"
+575acd0d-998a-419e-c6bd-a69949c2889c,304510005,Recommendation to avoid exercise,completed,"HEALTHALLIANCE HOSPITALS, INC"
+575acd0d-998a-419e-c6bd-a69949c2889c,371605008,Deep breathing and coughing exercises,completed,"HEALTHALLIANCE HOSPITALS, INC"
+d8adcfd0-3be6-5b6b-a76f-26d1a05879a8,229586001,"Rest, ice, compression and elevation treatment programme",completed,"HEALTHALLIANCE HOSPITALS, INC"
+d8adcfd0-3be6-5b6b-a76f-26d1a05879a8,229070002,Stretching exercises,completed,"HEALTHALLIANCE HOSPITALS, INC"
+8a5b7da3-c28d-9ed4-2c9a-0cc50c51dc89,409524006,Airborne precautions (procedure),completed,"HEALTHALLIANCE HOSPITALS, INC"
+8a5b7da3-c28d-9ed4-2c9a-0cc50c51dc89,409526008,Personal protective equipment (physical object),completed,"HEALTHALLIANCE HOSPITALS, INC"
+442a796c-22f2-8666-b0e7-c9ae9fa1f57c,409524006,Airborne precautions (procedure),completed,"HEALTHALLIANCE HOSPITALS, INC"
+442a796c-22f2-8666-b0e7-c9ae9fa1f57c,361235007,Isolation of infected patient (procedure),completed,"HEALTHALLIANCE HOSPITALS, INC"
+7c8451c2-9c0f-2f35-4dda-70d449597424,266694003,Heat therapy,completed,METROWEST MEDICAL CENTER
+7c8451c2-9c0f-2f35-4dda-70d449597424,183051005,Recommendation to rest,completed,METROWEST MEDICAL CENTER
+e718cd7b-5c92-ff35-82ec-bbf22f63b6d2,304510005,Recommendation to avoid exercise,completed,METROWEST MEDICAL CENTER
+e718cd7b-5c92-ff35-82ec-bbf22f63b6d2,371605008,Deep breathing and coughing exercises,completed,METROWEST MEDICAL CENTER
+438f4329-5bf1-60c5-2ddb-14919cc4769e,77806000,Low calorie diet,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+438f4329-5bf1-60c5-2ddb-14919cc4769e,1171000175109,Increased physical activity,in-progress,MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION
+5b0e155c-9b95-711d-1d38-4936ad963f30,135892000,Antenatal education,completed,MILFORD REGIONAL MEDICAL CENTER
+5b0e155c-9b95-711d-1d38-4936ad963f30,713076009,Antenatal risk assessment,completed,MILFORD REGIONAL MEDICAL CENTER
+5b0e155c-9b95-711d-1d38-4936ad963f30,312404004,Antenatal blood tests,completed,MILFORD REGIONAL MEDICAL CENTER
+46bd0cbd-03b5-f72c-8f5c-c921d7303118,304510005,Recommendation to avoid exercise,completed,MILFORD REGIONAL MEDICAL CENTER
+46bd0cbd-03b5-f72c-8f5c-c921d7303118,371605008,Deep breathing and coughing exercises,completed,MILFORD REGIONAL MEDICAL CENTER
+ddb4cf93-f1c6-704e-142c-518612e5e4a0,91251008,Physical therapy procedure (regime/therapy),in-progress,MILFORD REGIONAL MEDICAL CENTER
+ddb4cf93-f1c6-704e-142c-518612e5e4a0,228557008,Cognitive and behavioral therapy (regime/therapy),in-progress,MILFORD REGIONAL MEDICAL CENTER
+387da3a5-e8cf-6475-2d40-be2d1c9c9758,304510005,Recommendation to avoid exercise,completed,MILFORD REGIONAL MEDICAL CENTER
+387da3a5-e8cf-6475-2d40-be2d1c9c9758,371605008,Deep breathing and coughing exercises,completed,MILFORD REGIONAL MEDICAL CENTER
+8de86c23-6ef0-9f33-5d4d-b7aeec57669c,135892000,Antenatal education,completed,MILFORD REGIONAL MEDICAL CENTER
+8de86c23-6ef0-9f33-5d4d-b7aeec57669c,713076009,Antenatal risk assessment,completed,MILFORD REGIONAL MEDICAL CENTER
+8de86c23-6ef0-9f33-5d4d-b7aeec57669c,312404004,Antenatal blood tests,completed,MILFORD REGIONAL MEDICAL CENTER
+5007befa-60be-787b-7530-601584839511,386463000,Prescribed activity/exercise education,in-progress,BAY STATE EXCELLENT VISION
+5007befa-60be-787b-7530-601584839511,413473000,Counseling about alcohol consumption,in-progress,BAY STATE EXCELLENT VISION
+5007befa-60be-787b-7530-601584839511,1151000175103,Dietary approaches to stop hypertension diet,in-progress,BAY STATE EXCELLENT VISION
+5007befa-60be-787b-7530-601584839511,225323000,Smoking cessation education,in-progress,BAY STATE EXCELLENT VISION
+8d39bfa7-2e17-a988-cc9d-d438384cf1ad,229065009,Exercise therapy,in-progress,BAY STATE EXCELLENT VISION
+8d39bfa7-2e17-a988-cc9d-d438384cf1ad,15081005,Pulmonary rehabilitation (regime/therapy),in-progress,BAY STATE EXCELLENT VISION
+feded59e-b750-52ad-a7cd-bb881cba02a8,304510005,Recommendation to avoid exercise,completed,HALLMARK HEALTH SYSTEM
+feded59e-b750-52ad-a7cd-bb881cba02a8,371605008,Deep breathing and coughing exercises,completed,HALLMARK HEALTH SYSTEM
+50e902da-d5e9-81a9-1d6f-6b2679d96e44,304510005,Recommendation to avoid exercise,completed,HALLMARK HEALTH SYSTEM
+50e902da-d5e9-81a9-1d6f-6b2679d96e44,371605008,Deep breathing and coughing exercises,completed,HALLMARK HEALTH SYSTEM
+c06b8643-e50f-590b-310e-862909c0bc1e,385949008,Dressing change management,completed,NORTH SHORE MEDICAL CENTER -
+c06b8643-e50f-590b-310e-862909c0bc1e,439830001,Behavior to prevent infection,completed,NORTH SHORE MEDICAL CENTER -
+7bc59ee1-0855-18ef-773c-9717508e3c8a,304510005,Recommendation to avoid exercise,completed,NORTH SHORE MEDICAL CENTER -
+7bc59ee1-0855-18ef-773c-9717508e3c8a,371605008,Deep breathing and coughing exercises,completed,NORTH SHORE MEDICAL CENTER -
+e3f5867b-a573-888c-df4d-f9c4628192a6,183051005,Recommendation to rest,completed,NORTH SHORE MEDICAL CENTER -
+e3f5867b-a573-888c-df4d-f9c4628192a6,408580007,Physical activity target light exercise,completed,NORTH SHORE MEDICAL CENTER -
+bddd245d-0fee-27b8-440c-dc005fde36b6,160670007,Diabetic diet,in-progress,PCP30989
+bddd245d-0fee-27b8-440c-dc005fde36b6,229065009,Exercise therapy,in-progress,PCP30989
+b3665709-0c64-aaef-338d-ec51dd5ded96,135892000,Antenatal education,completed,NEWTON-WELLESLEY HOSPITAL
+b3665709-0c64-aaef-338d-ec51dd5ded96,713076009,Antenatal risk assessment,completed,NEWTON-WELLESLEY HOSPITAL
+b3665709-0c64-aaef-338d-ec51dd5ded96,312404004,Antenatal blood tests,completed,NEWTON-WELLESLEY HOSPITAL
+f52d2337-ca72-9749-126b-206387b85b4e,266694003,Heat therapy,completed,NEWTON-WELLESLEY HOSPITAL
+f52d2337-ca72-9749-126b-206387b85b4e,183051005,Recommendation to rest,completed,NEWTON-WELLESLEY HOSPITAL
+88951050-8bac-a3fc-0387-9e39a03a438d,135892000,Antenatal education,completed,NEWTON-WELLESLEY HOSPITAL
+88951050-8bac-a3fc-0387-9e39a03a438d,713076009,Antenatal risk assessment,completed,NEWTON-WELLESLEY HOSPITAL
+88951050-8bac-a3fc-0387-9e39a03a438d,312404004,Antenatal blood tests,completed,NEWTON-WELLESLEY HOSPITAL
+d6638df9-801f-4cff-a1f8-d71e8797025c,58332002,Allergy education,in-progress,ST VINCENT HOSPITAL
+269fedd9-d672-0ac6-ab6d-3133c662f669,160670007,Diabetic diet,in-progress,PCP364
+269fedd9-d672-0ac6-ab6d-3133c662f669,229065009,Exercise therapy,in-progress,PCP364
+f1dfc39a-5175-26ce-999b-910b6eaaacaf,183051005,Recommendation to rest,completed,EMERSON HOSPITAL -
+f1dfc39a-5175-26ce-999b-910b6eaaacaf,408580007,Physical activity target light exercise,completed,EMERSON HOSPITAL -
+dd5d3d8f-dac4-65cc-9323-2e9702aa3d52,183063000,low salt diet education,in-progress,ST VINCENT HOSPITAL
+dd5d3d8f-dac4-65cc-9323-2e9702aa3d52,183301007,physical exercise,in-progress,ST VINCENT HOSPITAL
+4baf3f93-3371-4005-1cd1-f8bebf2021ab,409002,Food allergy diet,in-progress,METROWEST MEDICAL CENTER
+4baf3f93-3371-4005-1cd1-f8bebf2021ab,58332002,Allergy education,in-progress,METROWEST MEDICAL CENTER
+4baf3f93-3371-4005-1cd1-f8bebf2021ab,58332002,Allergy education,in-progress,METROWEST MEDICAL CENTER
+120e3a3d-ea5f-a11d-e747-af884616e004,160670007,Diabetic diet,in-progress,PCP229490
+120e3a3d-ea5f-a11d-e747-af884616e004,229065009,Exercise therapy,in-progress,PCP229490
+d71b83de-4a68-f1d3-60a8-51c5c600aadc,710818004,Inhaled steroid therapy,in-progress,METROWEST MEDICAL CENTER
+d71b83de-4a68-f1d3-60a8-51c5c600aadc,708409001,Home nebulizer therapy,in-progress,METROWEST MEDICAL CENTER
+d71b83de-4a68-f1d3-60a8-51c5c600aadc,229298005,Breathing control,in-progress,METROWEST MEDICAL CENTER
+8e06a3dc-0eab-b99a-91fb-7a2c1fe0b25b,304510005,Recommendation to avoid exercise,completed,METROWEST MEDICAL CENTER
+8e06a3dc-0eab-b99a-91fb-7a2c1fe0b25b,371605008,Deep breathing and coughing exercises,completed,METROWEST MEDICAL CENTER
+028ccd52-9168-4277-64fc-72cae171a379,229586001,"Rest, ice, compression and elevation treatment programme",completed,BEVERLY HOSPITAL CORPORATION
+028ccd52-9168-4277-64fc-72cae171a379,229070002,Stretching exercises,completed,BEVERLY HOSPITAL CORPORATION
+e78dfe4b-ce02-068a-1289-dda3b9778124,304510005,Recommendation to avoid exercise,completed,BEVERLY HOSPITAL CORPORATION
+e78dfe4b-ce02-068a-1289-dda3b9778124,371605008,Deep breathing and coughing exercises,completed,BEVERLY HOSPITAL CORPORATION
+6229a6fa-40b2-9722-a8c6-f0833f65c101,409524006,Airborne precautions (procedure),completed,BEVERLY HOSPITAL CORPORATION
+6229a6fa-40b2-9722-a8c6-f0833f65c101,409526008,Personal protective equipment (physical object),completed,BEVERLY HOSPITAL CORPORATION
+2baf69b9-fe5a-df7c-e2d0-73c5fb7cd9df,409524006,Airborne precautions (procedure),completed,BEVERLY HOSPITAL CORPORATION
+2baf69b9-fe5a-df7c-e2d0-73c5fb7cd9df,361235007,Isolation of infected patient (procedure),completed,BEVERLY HOSPITAL CORPORATION
+caf1b691-407e-4c7e-60ff-db971655ea6f,266694003,Heat therapy,completed,MARLBOROUGH HOSPITAL
+caf1b691-407e-4c7e-60ff-db971655ea6f,183051005,Recommendation to rest,completed,MARLBOROUGH HOSPITAL
+8ab78491-732f-3d6c-d40c-44b981047608,386294003,Joint mobility exercises,in-progress,MARLBOROUGH HOSPITAL
+8ab78491-732f-3d6c-d40c-44b981047608,266694003,Heat therapy,in-progress,MARLBOROUGH HOSPITAL
+aae0598a-d55d-82bf-7e81-677208a203f9,91251008,Physical therapy procedure (regime/therapy),completed,MARLBOROUGH HOSPITAL
+aae0598a-d55d-82bf-7e81-677208a203f9,228557008,Cognitive and behavior therapy,completed,MARLBOROUGH HOSPITAL
+e453aed5-e660-2c45-9ea6-881d503a6f11,135892000,Antenatal education,completed,MARLBOROUGH HOSPITAL
+e453aed5-e660-2c45-9ea6-881d503a6f11,713076009,Antenatal risk assessment,completed,MARLBOROUGH HOSPITAL
+e453aed5-e660-2c45-9ea6-881d503a6f11,312404004,Antenatal blood tests,completed,MARLBOROUGH HOSPITAL
+daee8e4a-8dd9-b215-69b3-7050e649bf79,304510005,Recommendation to avoid exercise,completed,SOUTH SHORE HOSPITAL
+daee8e4a-8dd9-b215-69b3-7050e649bf79,371605008,Deep breathing and coughing exercises,completed,SOUTH SHORE HOSPITAL
+94692a07-2eab-ed0c-fe93-99ad0b6b25ba,58332002,Allergy education,in-progress,NORWOOD HOSPITAL
+2ea0a74c-db65-2e60-686a-e46ca49867d2,160670007,Diabetic diet,in-progress,Brockton Vet Center
+2ea0a74c-db65-2e60-686a-e46ca49867d2,229065009,Exercise therapy,in-progress,Brockton Vet Center
+225ee6d6-624d-318e-7f15-f743c30dea8a,183063000,low salt diet education,in-progress,Brockton Vet Center
+225ee6d6-624d-318e-7f15-f743c30dea8a,183301007,physical exercise,in-progress,Brockton Vet Center
+a5f36381-e712-3c48-9a87-2520a14ed0ca,91251008,Physical therapy procedure (regime/therapy),completed,Brockton Vet Center
+a5f36381-e712-3c48-9a87-2520a14ed0ca,228557008,Cognitive and behavior therapy,completed,Brockton Vet Center
+dea5a7d0-a28a-2f9c-d73f-fd207c4ae8c9,183051005,Recommendation to rest,completed,NORWOOD HOSPITAL
+dea5a7d0-a28a-2f9c-d73f-fd207c4ae8c9,408580007,Physical activity target light exercise,completed,NORWOOD HOSPITAL
+d68bc061-e5a9-1a32-a67f-276505d757aa,409002,Food allergy diet,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+d68bc061-e5a9-1a32-a67f-276505d757aa,58332002,Allergy education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+d68bc061-e5a9-1a32-a67f-276505d757aa,58332002,Allergy education,in-progress,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON"
+325242b5-624b-c021-21ff-2cbee9374385,160670007,Diabetic diet,in-progress,PCP28562
+325242b5-624b-c021-21ff-2cbee9374385,229065009,Exercise therapy,in-progress,PCP28562
+56c39342-af53-28fc-bac5-5fcda8922799,409002,Food allergy diet,in-progress,MILFORD REGIONAL MEDICAL CENTER
+56c39342-af53-28fc-bac5-5fcda8922799,58332002,Allergy education,in-progress,MILFORD REGIONAL MEDICAL CENTER
+56c39342-af53-28fc-bac5-5fcda8922799,58332002,Allergy education,in-progress,MILFORD REGIONAL MEDICAL CENTER
+f5b143ce-2bbb-f1f2-a82b-043acd5f2893,386463000,Prescribed activity/exercise education,in-progress,PCP126177
+f5b143ce-2bbb-f1f2-a82b-043acd5f2893,413473000,Counseling about alcohol consumption,in-progress,PCP126177
+f5b143ce-2bbb-f1f2-a82b-043acd5f2893,1151000175103,Dietary approaches to stop hypertension diet,in-progress,PCP126177
+f5b143ce-2bbb-f1f2-a82b-043acd5f2893,225323000,Smoking cessation education,in-progress,PCP126177
+023ded08-ff16-258e-ea42-059bc0a61148,229586001,"Rest, ice, compression and elevation treatment programme",completed,MILFORD REGIONAL MEDICAL CENTER
+023ded08-ff16-258e-ea42-059bc0a61148,229070002,Stretching exercises,completed,MILFORD REGIONAL MEDICAL CENTER
+1d1eabe4-6432-ae0f-1522-586c24ab6e3f,385949008,Dressing change management,completed,MILFORD REGIONAL MEDICAL CENTER
+1d1eabe4-6432-ae0f-1522-586c24ab6e3f,439830001,Behavior to prevent infection,completed,MILFORD REGIONAL MEDICAL CENTER
+3542dadf-17e2-070c-cccb-708f10f012bb,77806000,Low calorie diet,in-progress,"EYE EXAMS, LLC"
+3542dadf-17e2-070c-cccb-708f10f012bb,1171000175109,Increased physical activity,in-progress,"EYE EXAMS, LLC"
+8a9aebb1-7756-faf8-4bcd-4666aa664664,58332002,Allergy education,in-progress,NORTH SHORE MEDICAL CENTER -
+7d0c98dc-72bc-cde8-cfa6-f74551250fdf,304510005,Recommendation to avoid exercise,completed,NORTH SHORE MEDICAL CENTER -
+7d0c98dc-72bc-cde8-cfa6-f74551250fdf,371605008,Deep breathing and coughing exercises,completed,NORTH SHORE MEDICAL CENTER -
+adb7e531-82e8-8c0f-23dc-a93a948ec353,229586001,"Rest, ice, compression and elevation treatment programme",completed,NORTH SHORE MEDICAL CENTER -
+adb7e531-82e8-8c0f-23dc-a93a948ec353,229070002,Stretching exercises,completed,NORTH SHORE MEDICAL CENTER -
+cf54ee62-f61a-5587-3de8-e2b4d217b994,409524006,Airborne precautions (procedure),completed,NORTH SHORE MEDICAL CENTER -
+cf54ee62-f61a-5587-3de8-e2b4d217b994,409526008,Personal protective equipment (physical object),completed,NORTH SHORE MEDICAL CENTER -
+2c823cb6-aad6-3980-0b87-6ea64402d486,409524006,Airborne precautions (procedure),completed,NORTH SHORE MEDICAL CENTER -
+2c823cb6-aad6-3980-0b87-6ea64402d486,361235007,Isolation of infected patient (procedure),completed,NORTH SHORE MEDICAL CENTER -
+dc5f4970-5fd8-2edc-c0bd-d1a12301ec9e,160670007,Diabetic diet,in-progress,Cape Cod Vet Center
+dc5f4970-5fd8-2edc-c0bd-d1a12301ec9e,229065009,Exercise therapy,in-progress,Cape Cod Vet Center

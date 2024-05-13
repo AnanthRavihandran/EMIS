@@ -1,0 +1,2049 @@
+medication_request_id,dosage_sequence,frequency,period,period_unit,dosage_instruction,as_needed,dose_code,dose_name,dose_quantity
+c874e064-3f6d-63b7-346a-9bdf53138c84,1,,,,Take as needed.,True,,,
+53aae832-ed4a-125b-64ee-1feb45a07b13,1,,,,Take as needed.,True,,,
+fc3c23cb-7995-9243-a8c8-ffed5c3e86ff,1,,,,Take as needed.,True,,,
+0d0c68fe-bd2a-cb55-0037-0c1b64c7b98d,1,,,,Take as needed.,True,,,
+5c405bbb-6302-154f-8f11-adc92e673193,1,,,,Take as needed.,True,,,
+01e4b7d7-5f44-5d45-de2f-138e07fbcbea,1,,,,Take as needed.,True,,,
+e0f1c7dc-cdbf-ef33-c0f5-b6d95dbefc51,1,,,,Take as needed.,True,,,
+231b62a9-3313-3274-5b8d-85b5f1342b08,1,,,,Take as needed.,True,,,
+1de3d716-9b6d-ed97-2e76-85376d21615b,1,,,,Take as needed.,True,,,
+a0fd349d-8418-9a4f-f56e-6e9a39feaa2e,1,,,,Take as needed.,True,,,
+8514117a-286c-95ee-1a1d-dd9fed4ff973,1,,,,Take as needed.,True,,,
+d38949df-10d4-ef56-0b87-ccaf002d3f72,1,,,,Take as needed.,True,,,
+7fcfa9bf-664d-9302-33e5-90b9d8b1f251,1,,,,Take as needed.,True,,,
+1ac103e5-2ffd-f5d4-3720-cd2abcf0687c,1,,,,Take as needed.,True,,,
+9d0844fa-ca65-842f-ab36-1b4d1ab49d3d,1,,,,Take as needed.,True,,,
+aabb1c1a-f9f7-3b4c-baec-4dbaab3bc6cb,1,,,,Take as needed.,True,,,
+7505a703-4674-ee51-8d18-9436222c8cb5,1,,,,Take as needed.,True,,,
+21bd5197-e9b0-feeb-ffe0-0c83d3ee7ce0,1,,,,Take as needed.,True,,,
+7bd3bd3a-2381-889c-6b22-cb64cb5f6be9,1,,,,Take as needed.,True,,,
+80e635eb-cacd-0cfd-a090-d7e2e155d1f9,1,,,,Take as needed.,True,,,
+1475fa0b-39ce-64ff-189a-54727be077c1,1,,,,Take as needed.,True,,,
+cf5d0312-0426-0fd3-01ac-d7879f564792,1,,,,Take as needed.,True,,,
+59c9dd9a-1e11-dccc-bc35-a06fd66cf61d,1,,,,Take as needed.,True,,,
+407106a8-f970-ece5-f28e-8cc191be3527,1,,,,Take as needed.,True,,,
+1e8fdfb7-6c62-6596-7867-7afedbe06f5c,1,,,,Take as needed.,True,,,
+1a525665-2cf1-d238-c18b-5e1a2f8e2e3d,1,,,,Take as needed.,True,,,
+0ccb0133-7def-705c-0452-a88b940ef359,1,,,,Take as needed.,True,,,
+52c01aaa-829c-db0f-15e0-e7f20a7680fa,1,,,,Take as needed.,True,,,
+80f8eb1d-2e92-933f-9090-c65967098d07,1,,,,Take as needed.,True,,,
+332837a6-ebdf-6ba5-bf7e-ab6282eb8a1a,1,,,,Take as needed.,True,,,
+e069c89a-48d9-77a4-4806-811a15e3cc31,1,,,,Take as needed.,True,,,
+bc561b13-3c93-62c5-3dca-650fe13c80d3,1,,,,Take as needed.,True,,,
+35b02d2a-543c-bc2a-6bc6-90d451e6a116,1,,,,Take as needed.,True,,,
+a49b23ec-4b60-1fc1-9601-2c76861ee375,1,,,,Take as needed.,True,,,
+6da6b1f2-0db9-ba87-ca61-59126acd9ce6,1,,,,Take as needed.,True,,,
+01c951b4-6f32-0caa-f22f-706915c247a8,1,,,,Take as needed.,True,,,
+bc96c724-3e5b-d277-a84f-891876494bb4,1,,,,Take as needed.,True,,,
+a51fcdbe-94c2-9a56-47a2-fa2fd063d163,1,,,,Take as needed.,True,,,
+5509095f-8d60-f25c-f339-69056a361334,1,,,,Take as needed.,True,,,
+61e6b442-350a-74b5-8492-aca363a33dec,1,,,,Take as needed.,True,,,
+2a6eee81-8b5e-28d6-630e-35d89f19a06c,1,,,,Take as needed.,True,,,
+a3f6f545-5d92-20aa-1d58-89ed16dde47b,1,,,,Take as needed.,True,,,
+5a5bee40-77d2-00c9-cb67-025d62f786d8,1,,,,Take as needed.,True,,,
+71738ad9-eb13-bf63-56df-cf8e03a055be,1,,,,Take as needed.,True,,,
+3fcadf8a-a66b-6961-acdb-2a32f38f7bd9,1,,,,Take as needed.,True,,,
+cc0b541c-4b28-38a5-9004-18e51004af17,1,,,,Take as needed.,True,,,
+2f0f592b-25c2-1d56-93fa-8c7537bd878d,1,,,,Take as needed.,True,,,
+d435160d-73c3-1a69-56c8-bd0ee971a72e,1,,,,Take as needed.,True,,,
+b67c384c-c23f-58ee-f05a-6a0a85b5b1c5,1,,,,Take as needed.,True,,,
+da9fe457-7398-4b65-9691-129067771de0,1,1,1.0,d,,False,ordered,Ordered,1.0
+a312ce0e-6253-f239-c0e6-a06a6d53af3e,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef4a1ec9-af9e-be1b-5feb-8ff054fe05c5,1,1,1.0,d,,False,ordered,Ordered,1.0
+eefff3bc-dbda-d5a9-1609-4302050c9158,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef2ed722-f026-4260-2d3f-2ca6628498b8,1,1,1.0,d,,False,ordered,Ordered,1.0
+1be9c9c6-9588-649f-9b89-a7395d98b09b,1,1,1.0,d,,False,ordered,Ordered,1.0
+33bb4657-b3a8-5b15-1b00-af871c736bcc,1,1,1.0,d,,False,ordered,Ordered,1.0
+04c74196-b2fb-c776-d5ca-529972bda0d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d81863e-ea65-d68f-846e-7fc09861447d,1,1,1.0,d,,False,ordered,Ordered,1.0
+d0c136a8-5131-3111-edf8-44bf7008e774,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f1db585-3a07-fb9a-c6a8-9ad25b583334,1,1,1.0,d,,False,ordered,Ordered,1.0
+790ae8e0-157a-c3ff-66ab-b81bb6083636,1,1,1.0,d,,False,ordered,Ordered,1.0
+636540ca-96ac-c0d1-20dd-092c5c00f8f6,1,1,1.0,d,,False,ordered,Ordered,1.0
+6ea7d2b6-01a6-3d4a-8094-dd752f4e9e5d,1,1,1.0,d,,False,ordered,Ordered,1.0
+e2365784-75af-eeb3-f430-d0b188d78875,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ea23289-8a80-7147-42b6-146a43f6e2da,1,1,1.0,d,,False,ordered,Ordered,1.0
+366e0432-d50b-598d-82d2-fb350f758108,1,1,1.0,d,,False,ordered,Ordered,1.0
+137763f4-8fa3-4b91-4d67-c4375981b01f,1,1,1.0,d,,False,ordered,Ordered,1.0
+89b2ddde-884e-e97d-2fb9-1ffc16071bb7,1,1,1.0,d,,False,ordered,Ordered,1.0
+ba39c985-ad82-1d04-62eb-1591c81752c2,1,1,1.0,d,,False,ordered,Ordered,1.0
+7fc75aed-db27-1c5b-278d-6da249c23765,1,1,1.0,d,,False,ordered,Ordered,1.0
+92e1b810-59de-06a0-5fc9-9ee6737503a6,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3784e48-d044-576b-a173-aa4714fd5f9e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3f68728-9bed-77dc-6117-b35508745205,1,1,1.0,d,,False,ordered,Ordered,1.0
+984206e1-9288-6b0b-5bdd-c962340ec22b,1,1,1.0,d,,False,ordered,Ordered,1.0
+624b150c-f6a5-f42c-926b-ce88845fd9c7,1,1,1.0,d,,False,ordered,Ordered,1.0
+7c82283d-0545-1454-b10a-61334492c2f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+16aa86c6-530c-f62b-7ba6-944f11da49ee,1,1,1.0,d,,False,ordered,Ordered,1.0
+3399f4b4-3310-dd44-7b20-26468607a719,1,1,1.0,d,,False,ordered,Ordered,1.0
+449516b4-95ea-f367-c597-77269abadb20,1,1,1.0,d,,False,ordered,Ordered,1.0
+f5652646-974e-b06a-e0b4-858d192dc1bb,1,1,1.0,d,,False,ordered,Ordered,1.0
+45b62622-a3aa-e074-605a-9538fcd107dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+9a5f6f80-788f-b32d-6b99-3ea433f026a5,1,1,1.0,d,,False,ordered,Ordered,1.0
+fe880a9a-a46e-a2be-c3b6-534f6479a70b,1,1,1.0,d,,False,ordered,Ordered,1.0
+444834c2-9235-cd58-161c-1bd1113cfb81,1,1,1.0,d,,False,ordered,Ordered,1.0
+a22282f7-38de-189a-ef5f-cd7b30876aef,1,1,1.0,d,,False,ordered,Ordered,1.0
+c94eede4-9bb6-e17a-0723-4913a992b0bd,1,1,1.0,d,,False,ordered,Ordered,1.0
+8e4fd658-1155-b869-7082-e53fa6e59c64,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a52edc3-349d-fc80-7821-f0f0138a58f9,1,1,1.0,d,,False,ordered,Ordered,1.0
+06c8dfbc-0142-b7ef-f14c-df771df86f04,1,1,1.0,d,,False,ordered,Ordered,1.0
+d434b950-184f-9511-ed48-92992686aee5,1,1,1.0,d,,False,ordered,Ordered,1.0
+362a342a-e220-f20c-eaa9-61d4d53ade19,1,1,1.0,d,,False,ordered,Ordered,1.0
+549f14ea-ebc8-d56b-d01a-be6c2b68df5a,1,1,1.0,d,,False,ordered,Ordered,1.0
+94e20170-a957-e242-62e4-0a28c221318c,1,1,1.0,d,,False,ordered,Ordered,1.0
+0e8d0dac-2a47-5565-52d7-f9ac32649776,1,1,1.0,d,,False,ordered,Ordered,1.0
+67422471-b1a4-b520-97ba-46c0b7e146f7,1,1,1.0,d,,False,ordered,Ordered,1.0
+f046146a-1297-ded1-9e8c-08c5345381df,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c474f41-7444-f37f-af27-b03baa234d98,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c71cad7-f244-df52-89a5-56ac6df11e5d,1,1,1.0,d,,False,ordered,Ordered,1.0
+41e9a7ce-70d3-e072-6466-e0eb89e3c681,1,1,1.0,d,,False,ordered,Ordered,1.0
+89970d55-9c40-577a-2dbd-c79b6eb36a6c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6d9d65b3-842e-b2c6-e6d1-d9da874a1a4a,1,1,1.0,d,,False,ordered,Ordered,1.0
+7361f45f-4248-dc3b-d48a-12bbfa922e4b,1,1,1.0,d,,False,ordered,Ordered,1.0
+05c35d67-662d-bff8-40ff-d2f6941cb3a7,1,1,1.0,d,,False,ordered,Ordered,1.0
+2864ff69-f8e3-ad7f-3287-dd2c9fda2bd1,1,1,1.0,d,,False,ordered,Ordered,1.0
+7045520d-5bdc-b8ac-f347-a8bdd753afad,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c67f1fd-3fe4-0c75-68c6-f71c912c6e46,1,1,1.0,d,,False,ordered,Ordered,1.0
+d1a21eea-e6d0-ee07-32ef-6e591f3846c0,1,1,1.0,d,,False,ordered,Ordered,1.0
+25289aa8-a54b-89b6-b5c8-5ce9d27ac470,1,1,1.0,d,,False,ordered,Ordered,1.0
+3108641c-372b-cac1-eb1d-661e6ac1ef29,1,1,1.0,d,,False,ordered,Ordered,1.0
+000f4af6-b507-e95a-beb2-4b9d905314c6,1,1,1.0,d,,False,ordered,Ordered,1.0
+db0496f8-66a1-a5b9-7860-a29c6b1c83c7,1,1,1.0,d,,False,ordered,Ordered,1.0
+4a604b85-bd89-ee4f-07a2-4bb4f52a0ae4,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c3756b8-0757-23c9-6a48-25dd81c7ac0b,1,1,1.0,d,,False,ordered,Ordered,1.0
+dee61419-01d8-8500-dfca-8958aac12e08,1,1,1.0,d,,False,ordered,Ordered,1.0
+fefe4ca6-94ec-1189-d781-70973521786d,1,1,1.0,d,,False,ordered,Ordered,1.0
+98a104bd-b1c1-383e-8938-45883c6f6c76,1,1,1.0,d,,False,ordered,Ordered,1.0
+e8221def-8952-be4b-edd5-93af9b589a97,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f67481a-412e-3435-1340-a44a40ac5b52,1,1,1.0,d,,False,ordered,Ordered,1.0
+87f671c3-31ee-efc8-7bb6-8b8d70812a00,1,1,1.0,d,,False,ordered,Ordered,1.0
+baf7098d-cfff-0cce-8f64-40ca40a2e3e2,1,1,1.0,d,,False,ordered,Ordered,1.0
+ee6113c3-0125-15a7-a76f-eeb21d7f8d49,1,1,1.0,d,,False,ordered,Ordered,1.0
+0533dc0e-accd-35fb-7325-7a2f5e6a6764,1,1,1.0,d,,False,ordered,Ordered,1.0
+585b3a77-1eef-1b5f-72f7-d78c16176cd9,1,1,1.0,d,,False,ordered,Ordered,1.0
+f2da718c-7ad2-5cdb-9c62-15f43045bd99,1,1,1.0,d,,False,ordered,Ordered,1.0
+bcb88a24-389d-60c0-f83c-e6e1aa45bb07,1,1,1.0,d,,False,ordered,Ordered,1.0
+d5c43365-978e-fb94-725c-d8342e08fd28,1,1,1.0,d,,False,ordered,Ordered,1.0
+59ee7eaf-15ee-6cf0-4013-3d47ce82df47,1,1,1.0,d,,False,ordered,Ordered,1.0
+6a8d88e2-be38-82ba-fc78-3a22470bec18,1,1,1.0,d,,False,ordered,Ordered,1.0
+88e527fc-2cb5-fe1a-2695-512b9dc58466,1,1,1.0,d,,False,ordered,Ordered,1.0
+b8279a9d-fcb8-8cb4-22e1-d843b49589d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+83125ef3-0917-e5e3-da91-c17c9745a0fb,1,1,1.0,d,,False,ordered,Ordered,1.0
+0de6c74b-8b42-bb91-eff1-f0470e525cb3,1,1,1.0,d,,False,ordered,Ordered,1.0
+b645b754-dd8d-2e53-7595-17a3e929bebc,1,1,1.0,d,,False,ordered,Ordered,1.0
+dc7ada3b-8850-ec98-0062-9aad43bd34c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+61260d64-3ee9-4476-bab6-63dc08af0758,1,1,1.0,d,,False,ordered,Ordered,1.0
+3642307d-9301-63ba-c7c1-d448918695e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+c9b7f7b9-9557-5022-f06f-4748012e2b45,1,1,1.0,d,,False,ordered,Ordered,1.0
+431cef01-f259-57c1-2058-6f4fd280562e,1,1,1.0,d,,False,ordered,Ordered,1.0
+665bb91e-4573-4801-cdda-0856ee4962ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+4b852447-a2cf-d8d2-cdcc-f1f08e79120b,1,1,1.0,d,,False,ordered,Ordered,1.0
+4331d0eb-698a-cb67-6179-eb0259d7d5fd,1,1,1.0,d,,False,ordered,Ordered,1.0
+c9964f6e-5d50-4b1b-54fb-2cefbff6255c,1,1,1.0,d,,False,ordered,Ordered,1.0
+69708e5f-4ce7-0f59-d47b-62631371e919,1,1,1.0,d,,False,ordered,Ordered,1.0
+96841174-c079-e4d4-919a-afd6b46689e5,1,1,1.0,d,,False,ordered,Ordered,1.0
+a0a73e19-7750-172e-f7db-3f503fdbeddb,1,1,1.0,d,,False,ordered,Ordered,1.0
+d944d2f9-a9dd-b309-fb9a-080ac2231e76,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1ccf1b0-3fe8-369c-df91-e8f0e07b209b,1,1,1.0,d,,False,ordered,Ordered,1.0
+6a164277-b5d4-2870-b11d-e9d9421110cb,1,1,1.0,d,,False,ordered,Ordered,1.0
+066a0567-972a-8258-1b07-94615184b888,1,1,1.0,d,,False,ordered,Ordered,1.0
+1bd92762-1dd1-906c-d0d3-b969f14d08f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+204b5ceb-0e52-8056-b970-95dfab54c77d,1,1,1.0,d,,False,ordered,Ordered,1.0
+2c02e9f0-9c35-9e82-5173-0667438a6851,1,1,1.0,d,,False,ordered,Ordered,1.0
+03385735-1ccc-e715-def6-370cdc8286f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+003db749-a68c-2cc0-cdd2-2351a26e03f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b6269a2-aecb-5dc4-0091-5bc943f94447,1,1,1.0,d,,False,ordered,Ordered,1.0
+66eded9e-57be-89f6-3ae9-19b1e9a6fa8d,1,1,1.0,d,,False,ordered,Ordered,1.0
+06410f54-5fe1-6ba3-71bd-d72f26a0bfaa,1,1,1.0,d,,False,ordered,Ordered,1.0
+b913bbac-ac25-be3e-ac32-bbddcccf159f,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3e0a4ae-f9d1-a8f0-649e-631ee5cb2c78,1,1,1.0,d,,False,ordered,Ordered,1.0
+d8a4feea-0a92-0925-6362-d5a6c6936398,1,,,,Take as needed.,True,,,
+808996cf-4f35-478c-bce3-496438c2e61c,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1f1da2c-c486-4767-2a81-937fb9bf43cc,1,1,1.0,d,,False,ordered,Ordered,1.0
+15e4abfd-4f1a-f60e-2a27-66965310a160,1,1,1.0,d,,False,ordered,Ordered,1.0
+8f2358d3-c6e5-c142-c2bb-d43ca2154ee1,1,1,1.0,d,,False,ordered,Ordered,1.0
+026e85cb-1058-2b18-aa2d-799c46a110ed,1,1,1.0,d,,False,ordered,Ordered,1.0
+1b672228-ceeb-640d-fbd1-a5159d75bc88,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b859468-bb17-1ad2-56e2-303a387b21af,1,1,1.0,d,,False,ordered,Ordered,1.0
+57262528-c91b-fdfd-5e7f-45988289197a,1,1,1.0,d,,False,ordered,Ordered,1.0
+ecee0296-53f1-8d61-ec02-593d11a1df9f,1,1,1.0,d,,False,ordered,Ordered,1.0
+bd738bf4-8543-831f-1399-d840a28ca5ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+c40fb83f-1d28-b7ef-5c04-4fe1d7626e1b,1,1,1.0,d,,False,ordered,Ordered,1.0
+e5380f30-1b2d-22ec-d8ad-acd3dc3a233e,1,1,1.0,d,,False,ordered,Ordered,1.0
+5cea4861-4859-0ee7-1fbd-07fa46b45d43,1,1,1.0,d,,False,ordered,Ordered,1.0
+01d4b367-17c6-1dac-cebc-9f5294887eb7,1,1,1.0,d,,False,ordered,Ordered,1.0
+5523baae-124b-e897-ad81-c458c2a8d616,1,1,1.0,d,,False,ordered,Ordered,1.0
+9d749783-116a-2691-c9c6-58ba3debdc66,1,1,1.0,d,,False,ordered,Ordered,1.0
+d2305b2c-b404-9805-038b-8af18a1aa03f,1,1,1.0,d,,False,ordered,Ordered,1.0
+426a9a7d-b09b-3409-0d3b-88a11d0209ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+735f1091-6a28-735b-f0df-633ba3af2d60,1,1,1.0,d,,False,ordered,Ordered,1.0
+d0574ac2-0e88-c8cb-995c-3628fa4a5098,1,1,1.0,d,,False,ordered,Ordered,1.0
+a04bf40c-1ca7-b5ee-e1a3-5a846478d6d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+8aee7698-6632-7eb1-c9b7-02e922aacd18,1,1,1.0,d,,False,ordered,Ordered,1.0
+a99d6e18-14da-e8b8-c95e-f70c67ea9698,1,1,1.0,d,,False,ordered,Ordered,1.0
+b378f21f-51c6-45c4-6c24-89aa4bce8411,1,1,1.0,d,,False,ordered,Ordered,1.0
+20a85350-b9e4-dc40-0f91-475ba8115efa,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b9129da-9928-8fd8-6743-27548c205224,1,1,1.0,d,,False,ordered,Ordered,1.0
+790ecec1-726c-f17d-a78c-9c0c72320122,1,1,1.0,d,,False,ordered,Ordered,1.0
+2ed90b1a-92be-1b2d-e5b8-690727533316,1,1,1.0,d,,False,ordered,Ordered,1.0
+4301c7a7-2920-001e-b3a8-e47e997c35f1,1,1,1.0,d,,False,ordered,Ordered,1.0
+23cd83bc-2b51-c8cd-19ac-3c9607b91ffe,1,1,1.0,d,,False,ordered,Ordered,1.0
+cb6935c3-e34a-b52d-cb2e-c58cf5e601c5,1,1,1.0,d,,False,ordered,Ordered,1.0
+40cd6f01-af74-4122-0811-b04e597db23c,1,1,1.0,d,,False,ordered,Ordered,1.0
+8abf5ce9-a677-9a4b-29a6-f6defa2648a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+58ddb4d6-2264-d7a9-1421-2affcb182b7e,1,1,1.0,d,,False,ordered,Ordered,1.0
+b83c7f9b-1026-8c88-3dc2-5a227d559583,1,1,1.0,d,,False,ordered,Ordered,1.0
+64be041c-2503-c29a-b5fa-df9333f6fbe6,1,1,1.0,d,,False,ordered,Ordered,1.0
+d8b22461-b1fa-b731-a43b-ac705700ba98,1,1,1.0,d,,False,ordered,Ordered,1.0
+ac1e984d-6bca-2b93-c196-c02488040fb6,1,1,1.0,d,,False,ordered,Ordered,1.0
+31fa280f-5706-38be-22a6-915be9b2023f,1,1,1.0,d,,False,ordered,Ordered,1.0
+45525b55-eae0-3d6f-e873-c3d7c84f69d8,1,1,1.0,d,,False,ordered,Ordered,1.0
+24fc5ef5-a496-c8cf-b51b-f9729ed81a03,1,1,1.0,d,,False,ordered,Ordered,1.0
+bcd1b2eb-588d-e53c-c890-8e04e87c016d,1,1,1.0,d,,False,ordered,Ordered,1.0
+abbe7932-1c82-071e-2ec7-6752b7bad858,1,1,4.0,h,,False,ordered,Ordered,1.0
+d4ab8fbb-10a8-6039-32b6-48a33f956182,1,,,,Take as needed.,True,,,
+96dbd11d-107e-cad0-e4c8-f1bb7e2c9ce5,1,,,,Take as needed.,True,,,
+22c9442d-de3e-93f7-dbf3-41a6e562aab6,1,,,,Take as needed.,True,,,
+c9a9cf73-b386-0c00-0b9c-a0b79719be6c,1,,,,Take as needed.,True,,,
+fece4f32-15ec-0f03-3494-3c9793c46b32,1,,,,Take as needed.,True,,,
+a6337492-0355-a1a8-2b70-cc82c8e49129,1,1,1.0,d,,False,ordered,Ordered,1.0
+fd5b7893-f670-3efa-5119-b56b75b3afe2,1,1,1.0,d,,False,ordered,Ordered,1.0
+827af3ae-c78a-7ad3-d476-685c47e1cf61,1,1,1.0,d,,False,ordered,Ordered,1.0
+4afcd29b-dffd-e3fa-6699-609486b0ad52,1,1,1.0,d,,False,ordered,Ordered,1.0
+076aab85-babc-772a-95a3-563b7e6d89df,1,1,1.0,d,,False,ordered,Ordered,1.0
+b69f3847-326b-356e-76c1-ff76d1fb3fd7,1,1,1.0,d,,False,ordered,Ordered,1.0
+a00d008c-727c-97bb-56d3-44e731948b23,1,1,1.0,d,,False,ordered,Ordered,1.0
+d1c7fc1e-466e-ce37-4eb5-979230dcbc2b,1,1,1.0,d,,False,ordered,Ordered,1.0
+2763a6c6-39a3-3d0c-3bbc-8c8177af7758,1,1,1.0,d,,False,ordered,Ordered,1.0
+3405004a-6d08-7c60-7512-dcbc08dab511,1,1,1.0,d,,False,ordered,Ordered,1.0
+09f445fd-6a01-6413-0392-b5abc9f45901,1,1,1.0,d,,False,ordered,Ordered,1.0
+d06b3bcb-b8da-ffef-4557-cccb52c69469,1,1,1.0,d,,False,ordered,Ordered,1.0
+f9528d83-88b5-c862-0225-1c67acba6073,1,1,1.0,d,,False,ordered,Ordered,1.0
+75f22c7b-3d88-65ac-5655-e45ceb083e61,1,1,1.0,d,,False,ordered,Ordered,1.0
+a03a08ec-4626-d050-5f05-295951146a46,1,1,1.0,d,,False,ordered,Ordered,1.0
+6cb9b936-95cb-c6bc-2165-ca5015ccaa0f,1,1,1.0,d,,False,ordered,Ordered,1.0
+514e3c8b-d897-98d3-d2a5-e05d8b2b369f,1,1,1.0,d,,False,ordered,Ordered,1.0
+fcf2be76-8cf2-883d-d726-130b30a6cf18,1,1,1.0,d,,False,ordered,Ordered,1.0
+566896f6-5e98-0169-0a94-7c0de1797c2f,1,1,1.0,d,,False,ordered,Ordered,1.0
+8b0b3594-7fbd-649d-ba63-68d7b9b56a31,1,1,1.0,d,,False,ordered,Ordered,1.0
+60915c25-e428-8b8a-4492-bbd7ed4126a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+a93a9040-f243-418b-0ea6-9286305bcfbc,1,1,1.0,d,,False,ordered,Ordered,1.0
+768353db-2572-377f-36eb-739e8959b008,1,1,1.0,d,,False,ordered,Ordered,1.0
+c6665c79-d073-6007-3bd2-6510ca6728f1,1,1,1.0,d,,False,ordered,Ordered,1.0
+11a4ec28-27bc-90d4-bfae-8afdf96821dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+fd9c1897-0850-b433-ed08-86ba4b4e5f87,1,1,1.0,d,,False,ordered,Ordered,1.0
+d14c9b0c-7021-dee3-b938-68b1d865f620,1,1,1.0,d,,False,ordered,Ordered,1.0
+c797e2d8-6821-9f4f-589f-dfc185bbd6be,1,1,1.0,d,,False,ordered,Ordered,1.0
+dfbc983a-14f3-cf5a-c4f2-871d549df91a,1,1,1.0,d,,False,ordered,Ordered,1.0
+4d34bb6f-68b9-8312-155f-b94511bf89f5,1,1,1.0,d,,False,ordered,Ordered,1.0
+4fb93927-e20a-bff9-a02e-b62a84104be2,1,1,1.0,d,,False,ordered,Ordered,1.0
+27a32bfe-96f9-ca3d-9917-666125fe6550,1,1,1.0,d,,False,ordered,Ordered,1.0
+f299e047-e47e-aa96-570b-0d409979587d,1,1,1.0,d,,False,ordered,Ordered,1.0
+bdb339f6-6608-5296-e7e8-9d57b8b6e8be,1,1,1.0,d,,False,ordered,Ordered,1.0
+7d71025d-f201-f22f-1c44-be5207a4a728,1,1,1.0,d,,False,ordered,Ordered,1.0
+9f64e82d-6ce5-a9d9-6dfd-96fcb48bc605,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf87dd62-23df-d1b9-69e4-670a549ba2c7,1,1,1.0,d,,False,ordered,Ordered,1.0
+a5be305d-1bcf-994f-d2ec-69f437b510d2,1,1,1.0,d,,False,ordered,Ordered,1.0
+58070d66-6683-8b41-5179-9942dbf97f0e,1,1,1.0,d,,False,ordered,Ordered,1.0
+9a1564c6-0d6c-a638-e253-527e29b3f064,1,1,1.0,d,,False,ordered,Ordered,1.0
+4681eac2-f7e8-5cdc-6026-572ccbb2fbba,1,1,1.0,d,,False,ordered,Ordered,1.0
+28fd17a5-be8a-95d4-f606-ccd8bca2cbfa,1,1,1.0,d,,False,ordered,Ordered,1.0
+9fb5a9cf-7817-9e39-01f9-ec4290018c60,1,1,1.0,d,,False,ordered,Ordered,1.0
+3148b574-c755-be18-98eb-4df549653e17,1,1,1.0,d,,False,ordered,Ordered,1.0
+0433f325-496f-f48d-eaf9-6a71c4baa51d,1,1,1.0,d,,False,ordered,Ordered,1.0
+e88e29f3-d41e-e59d-fc2c-eb4bb4489759,1,1,1.0,d,,False,ordered,Ordered,1.0
+c5ac26ab-4ed9-726d-694d-9e8b3b9cfe34,1,1,1.0,d,,False,ordered,Ordered,1.0
+4197d2a7-6bef-3d07-6aaa-b8ce1e348360,1,1,1.0,d,,False,ordered,Ordered,1.0
+089eb8ed-3b85-67f5-ae1e-085a9d26f364,1,1,1.0,d,,False,ordered,Ordered,1.0
+c1f4847c-44a7-75c2-0fbc-58f3ea428ec7,1,1,1.0,d,,False,ordered,Ordered,1.0
+6ffe7dd3-c10b-0423-6367-38b6326077fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9a8d129-99a5-e611-e1e0-ee4bcd812613,1,1,1.0,d,,False,ordered,Ordered,1.0
+05e7294b-a747-307b-a3d9-bb3e9c23ef34,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd64faae-18ac-4e5c-2566-d8337f1857ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+2f711b7a-08e1-2d87-3c2c-ee5f7e84caf4,1,1,1.0,d,,False,ordered,Ordered,1.0
+7c7eabf0-cb85-ef55-a0ac-8abda3fd8f02,1,1,1.0,d,,False,ordered,Ordered,1.0
+02eb8592-5aa6-e9ed-61ef-df47e9c5ff6f,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd168ec4-bfdb-b8ef-1272-c801c89fbbd6,1,1,1.0,d,,False,ordered,Ordered,1.0
+291762b7-e612-c289-37ff-da1b3f39cb0d,1,1,1.0,d,,False,ordered,Ordered,1.0
+1a45bc88-8700-d506-6958-c318e44eb36b,1,1,1.0,d,,False,ordered,Ordered,1.0
+88408516-d75e-cc5c-b511-3ad3befb4f07,1,,,,Take as needed.,True,,,
+981c92d2-73c7-60c3-fea2-10a973f96741,1,1,6.0,h,,False,ordered,Ordered,1.0
+a16a7cea-a462-57c5-24e7-54220effbb77,1,,,,Take as needed.,True,,,
+5e1f02ad-40f1-92b3-ba53-20a5a88ff854,1,1,1.0,d,,False,ordered,Ordered,1.0
+98060c59-7b44-ca31-2ad1-dd066475ae40,1,1,1.0,d,,False,ordered,Ordered,1.0
+45717521-d5ab-3f5a-50e7-12fa25a17cd3,1,1,1.0,d,,False,ordered,Ordered,1.0
+081b56f6-64f1-9a33-1648-92a4fa27177d,1,,,,Take as needed.,True,,,
+fb425eb7-50e0-79ae-5996-a8046a03d8fa,1,1,1.0,d,,False,ordered,Ordered,1.0
+702fffb9-e612-87a9-9c79-e6720ab8685a,1,1,1.0,d,,False,ordered,Ordered,1.0
+a309a8d5-1ff4-0bee-8c98-440f2b67c489,1,1,1.0,d,,False,ordered,Ordered,1.0
+e83d9fec-2285-bb8b-f29b-7a2b62a0cbd1,1,,,,Take as needed.,True,,,
+8899a269-5e3e-002c-ba5c-8d5102b32fa8,1,1,1.0,d,,False,ordered,Ordered,1.0
+d09024ed-1e64-fa2f-b4f7-cba4f44c04c6,1,1,1.0,d,,False,ordered,Ordered,1.0
+c3015e5e-c9d4-29c1-f491-5a7f3427c534,1,1,1.0,d,,False,ordered,Ordered,1.0
+c6e4449b-b7fd-6ce0-898f-b7c486ad474e,1,1,1.0,d,,False,ordered,Ordered,1.0
+4aa8aa68-ce1a-82b4-13fc-d76bb805c195,1,1,1.0,d,,False,ordered,Ordered,1.0
+67be0aef-ec2b-a614-2cec-70dab88e7d05,1,,,,Take as needed.,True,,,
+c37d4958-15d9-c4d9-08ed-6614fe853f4a,1,,,,Take as needed.,True,,,
+daa0eba6-46b9-5a7b-bda7-74f439dc3177,1,,,,Take as needed.,True,,,
+9e9b26db-0456-eea1-8022-ae82dba221f0,1,,,,Take as needed.,True,,,
+c5014297-5723-db9e-a491-d257c4989343,1,,,,Take as needed.,True,,,
+ca661407-a46e-f0e8-0807-f1339387b94e,1,4,1.0,d,,False,ordered,Ordered,1.0
+1b299b99-3dc4-72ff-f792-8abb22a68b62,1,,,,Take as needed.,True,,,
+12dae6aa-556c-38f2-cee5-bc5d42b32e77,1,1,1.0,d,,False,ordered,Ordered,1.0
+60052300-6c41-71ae-1a49-7984529a66b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b6b4236-3508-49fb-7f74-6fec47ec8a8b,1,,,,Take as needed.,True,,,
+1e635e51-d610-20ba-39b4-01bfa060d708,1,4,1.0,d,,False,ordered,Ordered,1.0
+c7bd2dac-acf9-ddaa-577b-81868ebe666d,1,1,3.0,d,,False,ordered,Ordered,1.0
+6013366f-8c67-d398-4a6c-373ac599cd71,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c401c62-380e-bae1-5c9d-934717a43bd6,1,1,3.0,d,,False,ordered,Ordered,1.0
+a3d5569f-011d-7308-5c19-5c537b2f588b,1,,,,Take as needed.,True,,,
+c72e3fa1-23b5-6128-1d9c-641998ecb559,1,4,1.0,d,,False,ordered,Ordered,1.0
+144fc8fd-3f20-5955-6bd2-1859391492d9,1,1,1.0,d,,False,ordered,Ordered,1.0
+8f149416-4652-c51f-4869-55ce21af3dda,1,1,3.0,d,,False,ordered,Ordered,1.0
+e6f5d61b-d0f2-e98e-b9d3-8a0376a0744b,1,,,,Take as needed.,True,,,
+47a48fad-030e-4111-f0ec-137448c3cf69,1,4,1.0,d,,False,ordered,Ordered,1.0
+1394fa65-452b-2a2f-020a-d13aac7e0270,1,1,1.0,d,,False,ordered,Ordered,1.0
+9049c2d1-77e3-49ee-e6bb-3b35a5d81281,1,1,3.0,d,,False,ordered,Ordered,1.0
+92d343e9-cda2-baa5-ba03-0947fc9b660f,1,,,,Take as needed.,True,,,
+f05b572d-5444-8e24-bbc7-4dcdf2e06cb4,1,4,1.0,d,,False,ordered,Ordered,1.0
+a7a19544-7762-b17c-8acf-a960f5b3fdf0,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce99dfea-c053-7054-e9c5-330f56c089cf,1,1,3.0,d,,False,ordered,Ordered,1.0
+6fa342c2-67e1-3c1b-7a35-68a279f92575,1,,,,Take as needed.,True,,,
+24f24fe4-17ea-9c56-c041-4badc09a84ec,1,4,1.0,d,,False,ordered,Ordered,1.0
+38b8e807-98ea-b65e-d6b7-0cee2a661d5f,1,1,1.0,d,,False,ordered,Ordered,1.0
+5241bea9-fdfb-bb5c-9121-58ca280ddb47,1,1,3.0,d,,False,ordered,Ordered,1.0
+672e5da3-bde8-f3ec-02bb-21ec617fd7af,1,,,,Take as needed.,True,,,
+b425bafd-59ae-94a1-7c97-934b0d8757c7,1,4,1.0,d,,False,ordered,Ordered,1.0
+6e58385b-912b-7f54-df27-a9f16db24b97,1,1,1.0,d,,False,ordered,Ordered,1.0
+bc6fbe49-936e-f4ec-abb2-7f99a40824a1,1,1,3.0,d,,False,ordered,Ordered,1.0
+c1c8ddbe-5046-d113-bc19-6b0d6bc105fc,1,,,,Take as needed.,True,,,
+53489e6f-8b1a-bd25-0a55-cd44400affb3,1,4,1.0,d,,False,ordered,Ordered,1.0
+46856165-f271-6203-fc72-4a00395bbca3,1,1,1.0,d,,False,ordered,Ordered,1.0
+670d293c-6b82-2554-0711-84609c2fc0c7,1,1,3.0,d,,False,ordered,Ordered,1.0
+6bcdf491-2e3f-3c3f-eba5-0f6ff26b76b3,1,,,,Take as needed.,True,,,
+809bf66d-72b5-d456-b930-1b24928a4497,1,4,1.0,d,,False,ordered,Ordered,1.0
+8e5ca042-6b7d-84b8-d238-e73b942e37eb,1,1,1.0,d,,False,ordered,Ordered,1.0
+bc57c02c-0d96-2120-cbcc-2325eb3ff98c,1,1,3.0,d,,False,ordered,Ordered,1.0
+e23b8c3c-926c-5571-5b68-643123038be9,1,,,,Take as needed.,True,,,
+728b1332-c3ae-5fbc-be9e-13fa5ee904e2,1,4,1.0,d,,False,ordered,Ordered,1.0
+1db329e2-24a0-9ce0-03e6-217a1f97abd7,1,1,1.0,d,,False,ordered,Ordered,1.0
+b3a40937-a4a5-441d-b9bc-082346386374,1,1,3.0,d,,False,ordered,Ordered,1.0
+4c511a52-0785-237b-6242-d6f5a809ce38,1,,,,Take as needed.,True,,,
+aa5ef594-ab9c-d26c-8fed-1248a03c7f33,1,4,1.0,d,,False,ordered,Ordered,1.0
+1b88f43f-5d52-4ead-5ddb-6534f75f3d7e,1,1,60.0,d,,False,ordered,Ordered,1.0
+f246320c-6a49-9785-74d6-185dbad0a9c4,1,,,,Take as needed.,True,,,
+57200e91-9ab9-6fd1-32eb-5d7dd42d1011,1,,,,Take as needed.,True,,,
+6e2d5b9b-bc12-0d8c-9995-3082e10b6285,1,,,,Take as needed.,True,,,
+950f839c-bb0b-e508-79c8-5a6428da9408,1,1,1.0,d,,False,ordered,Ordered,1.0
+e0e8b382-c78d-5832-002f-3886ca848e7d,1,1,1.0,d,,False,ordered,Ordered,1.0
+61fb7268-c992-9d97-12c8-6fba8c211d5c,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed659c5b-2ed2-5984-f75d-1bf0c6fdc716,1,1,1.0,d,,False,ordered,Ordered,1.0
+ae15efd1-0547-485e-109c-e76fc19725eb,1,1,1.0,d,,False,ordered,Ordered,1.0
+2572c2ee-d101-c84b-01de-0e7eaec0985c,1,1,1.0,d,,False,ordered,Ordered,1.0
+8c6e0eef-f441-8e22-dc0c-af91da06eaa3,1,1,1.0,d,,False,ordered,Ordered,1.0
+aad136b4-96f5-919b-10d1-41e4e24b3b11,1,1,1.0,d,,False,ordered,Ordered,1.0
+326ede69-0995-3984-4b59-fad40c59466c,1,1,1.0,d,,False,ordered,Ordered,1.0
+482a7f77-846f-1be0-8562-ce531164c8d1,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6fbe88a-5061-6a76-7af0-b32849095f2a,1,1,1.0,d,,False,ordered,Ordered,1.0
+eb192248-2ba7-6a60-2d66-4546cedfe14d,1,1,1.0,d,,False,ordered,Ordered,1.0
+dafc9cff-5e6a-2d94-104b-229600e6ea90,1,1,1.0,d,,False,ordered,Ordered,1.0
+af39bf7d-984e-6dbf-897c-eefda1d2b2a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+62708310-750e-9d17-cc46-e5ae20563de6,1,1,1.0,d,,False,ordered,Ordered,1.0
+8c75fbed-52f6-1195-1264-2db6bfda36dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+317b0ee8-ed52-95ea-9976-0d2d3be5f076,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c04f337-167e-0cab-18bb-5de99e502cfb,1,1,1.0,d,,False,ordered,Ordered,1.0
+b728b737-abbc-616b-035d-1b1908a896dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+f057ddf5-9c27-2049-fa43-3208604cf98b,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf22a74e-0cc1-7ba6-6de7-67ee7d745e49,1,1,1.0,d,,False,ordered,Ordered,1.0
+006f2fce-80e4-8ad7-a3dd-7b70cdd9fd3e,1,1,1.0,d,,False,ordered,Ordered,1.0
+c24fa890-36b1-b98b-64e1-e73f5edcebd0,1,1,1.0,d,,False,ordered,Ordered,1.0
+ecf8886d-9d78-f415-e010-1c15367df6e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+84ece67c-9208-22c9-72f9-f3fcb8b663e2,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a896759-00b1-bdfa-7b24-fd34d177f063,1,1,1.0,d,,False,ordered,Ordered,1.0
+e26bddc0-315b-8aa9-f211-8e637bbd98b4,1,1,1.0,d,,False,ordered,Ordered,1.0
+46511928-2b49-23dc-39b4-aac544edac10,1,1,1.0,d,,False,ordered,Ordered,1.0
+d86d8f1e-809f-87c0-02d4-8b9bb9edc9db,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f90f89f-f9ae-231a-4452-156575102394,1,1,1.0,d,,False,ordered,Ordered,1.0
+5db18e89-85e7-fcec-464e-b9e21700c1b8,1,1,1.0,d,,False,ordered,Ordered,1.0
+ecc84ad8-7be0-7e02-ed0f-6bc3fdf21fc4,1,1,1.0,d,,False,ordered,Ordered,1.0
+d6453ae2-4627-5643-ef83-1642926fcc53,1,1,1.0,d,,False,ordered,Ordered,1.0
+4d9633df-b8a1-e5b6-2b4e-0947fa8d99ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+76166694-0667-c806-9252-84a56add5545,1,1,1.0,d,,False,ordered,Ordered,1.0
+a9646db7-4645-061c-add9-dd6dd7c258c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+dadc46f2-035c-8658-2e52-31a61cabca09,1,1,1.0,d,,False,ordered,Ordered,1.0
+7adf4e23-81dc-dd4f-eedf-038a4dc92c81,1,1,1.0,d,,False,ordered,Ordered,1.0
+2bbf4507-dd6a-23f9-9f39-7cbaad64b811,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3ac5351-5f6f-305a-ea8c-a7ba488abfe4,1,1,1.0,d,,False,ordered,Ordered,1.0
+a8ad7c72-f540-3b77-a8fe-59585899d11d,1,1,1.0,d,,False,ordered,Ordered,1.0
+4aa9e45a-c4d7-d1c9-4de4-e6358cd4e719,1,1,1.0,d,,False,ordered,Ordered,1.0
+8e29cf3f-80f3-e9b9-f40c-e28810bc1e93,1,1,1.0,d,,False,ordered,Ordered,1.0
+7af9c695-a2f8-2780-7f47-b479fa2ae9b6,1,1,1.0,d,,False,ordered,Ordered,1.0
+9e0bce8e-1a88-d193-a1b8-140fb013f165,1,1,1.0,d,,False,ordered,Ordered,1.0
+1fc899eb-3914-e37e-2496-8efda0a978f5,1,1,1.0,d,,False,ordered,Ordered,1.0
+316425ed-2610-6a55-e43a-5e23880d1705,1,1,1.0,d,,False,ordered,Ordered,1.0
+27c7acec-8653-ae9a-bc30-65a74f529ecb,1,1,1.0,d,,False,ordered,Ordered,1.0
+31043cd5-786f-1418-f6fc-e75d1f5a28b8,1,1,1.0,d,,False,ordered,Ordered,1.0
+859b388c-d461-c99d-4868-df32d50ff8b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+dc40422c-d25a-3304-97a9-fd2dd09a4d68,1,1,1.0,d,,False,ordered,Ordered,1.0
+aa098143-9b86-8ac7-9e45-f0559b0afcb9,1,1,1.0,d,,False,ordered,Ordered,1.0
+e89cb79e-ee62-df74-3413-e55bcccef928,1,1,1.0,d,,False,ordered,Ordered,1.0
+977e8080-3be1-4b48-203d-8e16b6a6d882,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1f7d942-95a3-d0cd-87c7-f9e60c18c3df,1,1,1.0,d,,False,ordered,Ordered,1.0
+e7531232-966a-46aa-258f-5d7f6beb86a0,1,1,1.0,d,,False,ordered,Ordered,1.0
+0f460bf0-7059-49e6-b3c7-32aa67b0e308,1,1,1.0,d,,False,ordered,Ordered,1.0
+d05e1bb1-6880-7534-7a13-265a680233fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+d105dead-42e9-412e-dd75-e3b862ccb303,1,1,1.0,d,,False,ordered,Ordered,1.0
+3ad46178-e382-a734-b7ed-c64805bdb3a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+650b1072-15cf-afbf-99ba-33b64e001745,1,1,1.0,d,,False,ordered,Ordered,1.0
+842e1773-5feb-43a5-eb56-46c4f4631144,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6c9f3d6-0a55-7993-ba92-13b6a6f5a89c,1,1,1.0,d,,False,ordered,Ordered,1.0
+98904dc9-1052-acf3-6f72-6173f9aaf718,1,,,,Take as needed.,True,,,
+5bec9373-5668-12ff-252d-3a9a98678eda,1,1,1.0,d,,False,ordered,Ordered,1.0
+06b74453-7dc8-055d-df12-96d711f2504c,1,1,1.0,d,,False,ordered,Ordered,1.0
+693fc705-2549-df09-9f1b-92fde334e084,1,1,1.0,d,,False,ordered,Ordered,1.0
+0beaaa68-f958-e319-c65a-73af819f176a,1,,,,Take as needed.,True,,,
+9a3981b5-28c0-c79b-cffd-ae349eefe82d,1,1,1.0,d,,False,ordered,Ordered,1.0
+48c5d444-2a60-0079-44bd-ecbee2c755d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+4598b524-db6f-9cc1-b22c-1e4da99889f0,1,1,1.0,d,,False,ordered,Ordered,1.0
+065db51b-d0e1-b3dc-c0f5-79db0f5bed6c,1,4,1.0,d,,False,ordered,Ordered,1.0
+f81fb387-303a-2224-9d57-30f628eaaf20,1,1,1.0,d,,False,ordered,Ordered,1.0
+a68a15ee-8cfd-7b55-f9a1-90c03f55ba15,1,4,1.0,d,,False,ordered,Ordered,1.0
+1de13fa0-dc6a-9d4a-3e48-e6e821bc30cb,1,1,1.0,d,,False,ordered,Ordered,1.0
+b45613d4-95e8-b650-3722-a4f8c92d7e3e,1,1,1.0,d,,False,ordered,Ordered,1.0
+2b8e3c09-6460-db6d-532c-3286f5118467,1,1,1.0,d,,False,ordered,Ordered,1.0
+941ee83d-3b42-ffdb-fe62-4b474c4f5091,1,1,1.0,d,,False,ordered,Ordered,1.0
+86ec45ef-dbde-8ae0-321b-7fd109b2e89e,1,4,1.0,d,,False,ordered,Ordered,1.0
+634629a7-40e6-0000-a428-30fd52eb1d4c,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c56cabd-09d1-697d-856f-a90ccc64091f,1,1,1.0,d,,False,ordered,Ordered,1.0
+fb879e4a-77df-0282-0791-cb5183cfa53a,1,1,1.0,d,,False,ordered,Ordered,1.0
+a13c1a06-4082-a40f-5a3f-26638887eeb8,1,1,1.0,d,,False,ordered,Ordered,1.0
+c796dc3f-8ad9-5838-13a9-1212dd19bfcd,1,4,1.0,d,,False,ordered,Ordered,1.0
+e0deee65-2594-622e-7648-18bcbf075185,1,1,1.0,d,,False,ordered,Ordered,1.0
+9281fccb-ece6-1927-5a14-8f64c859dce0,1,1,1.0,d,,False,ordered,Ordered,1.0
+314f55ec-a236-862f-1bf2-41bdedf38be3,1,1,1.0,d,,False,ordered,Ordered,1.0
+22ae14df-589b-2c25-e286-52be2b1fc888,1,1,1.0,d,,False,ordered,Ordered,1.0
+86f4aa54-edf5-a908-272f-693c67454b05,1,4,1.0,d,,False,ordered,Ordered,1.0
+86ed1e27-7c4f-d674-f57a-c3f7fed89002,1,1,1.0,d,,False,ordered,Ordered,1.0
+d34bdb2e-c1c0-5325-eb87-9728bab0e018,1,1,1.0,d,,False,ordered,Ordered,1.0
+03a0ebb0-983b-ffb5-fc9c-d6d137e06f5a,1,1,1.0,d,,False,ordered,Ordered,1.0
+21e1d099-4eb2-9894-cbc1-88375a73e3d1,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ab2fa39-9518-a42d-f5c2-b9edef65f5c5,1,4,1.0,d,,False,ordered,Ordered,1.0
+ff5a70fe-39af-2e15-c7bb-ab1905192b75,1,1,1.0,d,,False,ordered,Ordered,1.0
+7ce22683-c215-d715-7a21-4b9a3e5bf80c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c255bda-96b9-4fcc-cbf7-ec4cbe44f472,1,1,1.0,d,,False,ordered,Ordered,1.0
+da0517f9-1c76-62ea-11dc-f0936a6a33bf,1,1,1.0,d,,False,ordered,Ordered,1.0
+d60ccf94-dc0a-ff4b-7038-0036f7a5b842,1,4,1.0,d,,False,ordered,Ordered,1.0
+f53a47a5-eb49-b7bd-a374-cd14d5677585,1,1,1.0,d,,False,ordered,Ordered,1.0
+091085b1-75e7-a3b8-bb5f-ee99d76697fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+389d1fd4-7512-3ed1-be35-24621bfa9372,1,1,1.0,d,,False,ordered,Ordered,1.0
+6517c5cf-d41d-476f-9ff5-1a49b1488caa,1,1,1.0,d,,False,ordered,Ordered,1.0
+c9de11cb-a5a3-080e-fcd3-10bb11cdcd0b,1,,,,Take as needed.,True,,,
+42b25075-0a69-eb0b-2e51-6d702f5865c3,1,4,1.0,d,,False,ordered,Ordered,1.0
+4ef0c90d-eb05-7bd6-7288-eedaad22cb17,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff8861b6-14c6-bab8-7f9e-8f647bfa691e,1,1,1.0,d,,False,ordered,Ordered,1.0
+e31327ae-1a0a-68c1-e5d2-3f9a3d10f6af,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7cc4418-d204-ff11-5f0f-488d52c372d3,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7b3464d-b60b-ec00-24f9-af40af3c4ef6,1,4,1.0,d,,False,ordered,Ordered,1.0
+9557148c-fbf5-c4d4-b7d2-2179fd4cb3f7,1,1,1.0,d,,False,ordered,Ordered,1.0
+1410c3fa-f877-77fa-8d39-284bc12ab100,1,1,1.0,d,,False,ordered,Ordered,1.0
+e5b30be7-3ebe-c275-eb91-00008fd6f0cc,1,1,1.0,d,,False,ordered,Ordered,1.0
+ca6bb341-c1fc-621d-48b1-b728dd15bd0d,1,1,1.0,d,,False,ordered,Ordered,1.0
+6afa8894-a88d-18ec-7886-76a8344a34bc,1,1,1.0,d,,False,ordered,Ordered,1.0
+a80ff0d5-f0c7-2622-21a6-67c49f4fd4a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+962d9aac-0749-6692-1b45-1bed690ee016,1,1,1.0,d,,False,ordered,Ordered,1.0
+c82722ca-446c-ca11-8706-cc41e611e0b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+dd854f98-62c1-15d9-a08c-14fc2ace3684,1,1,1.0,d,,False,ordered,Ordered,1.0
+975866ff-5d4c-ecdb-c7e7-2f9a15fe8532,1,1,1.0,d,,False,ordered,Ordered,1.0
+595d3f47-277f-cbac-8949-c0de852dd131,1,1,1.0,d,,False,ordered,Ordered,1.0
+65bf97b4-1058-fbc1-ae3a-960bec60115a,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b35ee3b-a26b-33be-f597-44effe055bde,1,1,1.0,d,,False,ordered,Ordered,1.0
+e0e1baeb-7698-f390-1fa5-f8cf736bb6d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+060c61f9-0b7d-d63c-f429-f44c5339df41,1,1,1.0,d,,False,ordered,Ordered,1.0
+bcd87083-7f60-36b2-e2cb-c63af7213412,1,1,1.0,d,,False,ordered,Ordered,1.0
+a835f652-11cc-bcc0-4ab3-1e3e1c86921e,1,1,1.0,d,,False,ordered,Ordered,1.0
+695dc92c-c79f-dee9-b076-14c2ce51ab5d,1,1,1.0,d,,False,ordered,Ordered,1.0
+a35ffd1d-50e9-b407-e1ef-f3e4af440808,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d79648c-2b32-b968-c6c5-63d888b13fc0,1,1,1.0,d,,False,ordered,Ordered,1.0
+beb5f6eb-1b37-755f-bdfa-d0e4240c3f74,1,1,1.0,d,,False,ordered,Ordered,1.0
+75b47f60-7fce-d1e0-4ee4-7c9047cee14b,1,1,1.0,d,,False,ordered,Ordered,1.0
+f8529585-be40-04fa-dd47-fe1908be580a,1,1,1.0,d,,False,ordered,Ordered,1.0
+4ca1e913-cd35-b556-d7a9-b587bbd7c0e7,1,1,1.0,d,,False,ordered,Ordered,1.0
+b8f48e83-3622-a4b4-f6ad-9f432b5908f9,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d277ad2-8bed-c114-0d93-6f4a9f9ce4c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+530d5145-e941-c8bf-7745-8a5b9b4df1d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1e031c4-e388-aded-9c5b-3cff7e90f5a3,1,1,1.0,d,,False,ordered,Ordered,1.0
+16c4c594-bd55-b15e-11e8-f1b5321dee75,1,1,1.0,d,,False,ordered,Ordered,1.0
+e45421d2-4245-cc3c-076d-8e1b41349faf,1,1,1.0,d,,False,ordered,Ordered,1.0
+f8e3ca22-fdfb-f873-7630-31c3c363dc0e,1,1,1.0,d,,False,ordered,Ordered,1.0
+3ee22521-ac4b-d2ec-16fc-03ff69790b8b,1,1,1.0,d,,False,ordered,Ordered,1.0
+2d9f7779-8b45-0d79-10b5-f19a27590db2,1,1,1.0,d,,False,ordered,Ordered,1.0
+c0364a2c-8d0c-6f9b-cb0a-081f5652d658,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4686bfa-7e9e-ed63-62ec-1606ce2d1244,1,1,1.0,d,,False,ordered,Ordered,1.0
+1e348d30-16c0-1845-a80e-7224313e1fc8,1,1,1.0,d,,False,ordered,Ordered,1.0
+69db0871-7937-b9fb-fe9f-5504553762ed,1,1,1.0,d,,False,ordered,Ordered,1.0
+5cf8f329-ece0-9495-a8a9-2f1a3f5d83ea,1,1,1.0,d,,False,ordered,Ordered,1.0
+27b088a2-9d1a-dc89-f67d-9489daa70fd3,1,1,1.0,d,,False,ordered,Ordered,1.0
+2535ba5d-25b7-9d53-e1f5-8a2c65a37171,1,1,1.0,d,,False,ordered,Ordered,1.0
+1630411f-965e-93c8-3bf6-46e4b40a09d6,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3eec5e0-10b4-5023-f5de-0a939e92d694,1,1,1.0,d,,False,ordered,Ordered,1.0
+7be2891c-1b29-72fb-a3ab-41ede903341b,1,1,1.0,d,,False,ordered,Ordered,1.0
+53b1b3a4-dbac-1a65-404d-54f3798c190b,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e0208fb-f824-2741-31df-fe73308dbaad,1,1,1.0,d,,False,ordered,Ordered,1.0
+ae964941-2ded-eac3-cb5f-d19096ccf2c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+1aef1852-4d19-0e05-e384-ec45acc8f75f,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f697241-1c57-00a9-1a36-a6d05168bcdf,1,1,1.0,d,,False,ordered,Ordered,1.0
+829a14c0-0d3c-1aa5-c2a4-0579538fb799,1,1,1.0,d,,False,ordered,Ordered,1.0
+498142c1-c3de-0b57-f44a-5d3c885a01c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+6428532a-2d4c-c614-8694-1f0dffafbee2,1,1,1.0,d,,False,ordered,Ordered,1.0
+cb54f3f5-f0a6-9c4e-aa66-ce60aa37b1ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+f221129f-17e2-7d29-4360-d2dc29e4c8cf,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d0d60f2-0ef4-51cf-1cde-42bd813768db,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f054d30-885b-bf41-674f-4e459c094d33,1,1,1.0,d,,False,ordered,Ordered,1.0
+6d2eec8d-f8af-d42a-6b00-a07b124d245f,1,1,1.0,d,,False,ordered,Ordered,1.0
+a91cf4fd-00c3-780f-3d98-aecc48a48350,1,1,1.0,d,,False,ordered,Ordered,1.0
+e2c44e47-6795-b723-8378-05acc69c3834,1,1,1.0,d,,False,ordered,Ordered,1.0
+e8ad3cf5-bda4-fb3a-86d7-14776a311da0,1,1,1.0,d,,False,ordered,Ordered,1.0
+2711934d-0469-b04c-9be1-eccde4b319dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+66f4d9bd-fe3f-5984-d572-6c93e2847ee9,1,1,1.0,d,,False,ordered,Ordered,1.0
+cc9059b8-6882-e585-64d8-c9894597e7df,1,1,1.0,d,,False,ordered,Ordered,1.0
+ad68fc6b-3f51-f272-51b3-543a5f051909,1,1,1.0,d,,False,ordered,Ordered,1.0
+e56fee75-5840-bcf1-55a2-81743e890dc4,1,1,1.0,d,,False,ordered,Ordered,1.0
+c955d955-bb59-a4bb-af28-5f1f7eb5489f,1,1,1.0,d,,False,ordered,Ordered,1.0
+3cbafc55-90c1-1f59-17f7-04adfe438e5b,1,1,1.0,d,,False,ordered,Ordered,1.0
+e82c1a72-f611-4deb-2d15-415e9fb90a9d,1,1,1.0,d,,False,ordered,Ordered,1.0
+d18a0990-c483-c9c5-4b1c-6f316a78f845,1,1,1.0,d,,False,ordered,Ordered,1.0
+93a385fe-cf37-3e18-8b19-23ecd9aa6014,1,1,1.0,d,,False,ordered,Ordered,1.0
+4edc7287-aee2-da10-df36-69fbb8459bdf,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff997f2d-4c99-a3d3-d8a1-62c25f9c39b0,1,1,1.0,d,,False,ordered,Ordered,1.0
+9041e7b5-c8a7-4edd-3466-752f2a4a8d39,1,,,,Take as needed.,True,,,
+22e0d003-9e2e-1d84-c8c9-629f0f190810,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9aaab89-3779-b579-4b17-1ba84a36987a,1,1,1.0,d,,False,ordered,Ordered,1.0
+ec65f65f-0ca5-a858-aa39-41eacf81d7a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+b218aff8-e5f4-672f-c4e3-b7608ba3c961,1,1,1.0,d,,False,ordered,Ordered,1.0
+5352e8ff-c911-6b04-ff21-d9953b3a6b13,1,1,1.0,d,,False,ordered,Ordered,1.0
+13be9c84-1436-723a-42dd-ff0a4a2a901c,1,1,1.0,d,,False,ordered,Ordered,1.0
+0692cd1d-5f4a-345a-dd3a-a821c5c2400c,1,1,1.0,d,,False,ordered,Ordered,1.0
+4ccd54f2-96ee-da1e-5748-a68d69dc85cd,1,1,1.0,d,,False,ordered,Ordered,1.0
+1deb7b6c-8202-8b97-ea9b-cdeb2023c8c7,1,,,,Take as needed.,True,,,
+d200a96c-6451-c472-390e-f319f2a16d63,1,,,,Take as needed.,True,,,
+ee6ac03f-160d-0948-0d9e-e2b0defb4c54,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7ba0689-8a0e-c338-74cd-0836641f1315,1,1,1.0,d,,False,ordered,Ordered,1.0
+70787380-a9cc-ae84-66df-62147dc03b0a,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9f0b8af-4f22-478a-6991-1a37051bcebb,1,1,1.0,d,,False,ordered,Ordered,1.0
+715b87c1-57dc-b705-0287-0e71648d4567,1,1,1.0,d,,False,ordered,Ordered,1.0
+d08d7c4d-6464-0565-04b3-0bcdfe10e115,1,1,1.0,d,,False,ordered,Ordered,1.0
+d646e2d6-155b-89cf-a5c5-f259e4139894,1,1,1.0,d,,False,ordered,Ordered,1.0
+bd692155-8dd7-ab6b-65b7-9ad1aad1c382,1,1,1.0,d,,False,ordered,Ordered,1.0
+91a29ee4-b881-7460-df1e-3e15f727c9a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a2d6c88-6532-f594-7645-d58eb1c47417,1,1,1.0,d,,False,ordered,Ordered,1.0
+30ab5dea-dc26-a252-82d3-8c3d9da6479d,1,1,1.0,d,,False,ordered,Ordered,1.0
+6662200f-8844-ff7a-cb2c-c19b20f4f0be,1,1,1.0,d,,False,ordered,Ordered,1.0
+a08c496a-3a92-b1eb-e035-5c5c69f91de5,1,1,1.0,d,,False,ordered,Ordered,1.0
+2e05d370-3b54-e8d4-ad98-e80c3da5efb3,1,1,1.0,d,,False,ordered,Ordered,1.0
+92ff18e7-aad7-4d00-a55a-5ef1c82261ea,1,1,1.0,d,,False,ordered,Ordered,1.0
+3701d2ee-9965-3a72-3c27-0a4a27db558c,1,1,1.0,d,,False,ordered,Ordered,1.0
+d20bbeb7-123a-7da3-5374-62997740b1e6,1,1,1.0,d,,False,ordered,Ordered,1.0
+42991667-dd73-0701-4328-e82c52bc20d2,1,1,1.0,d,,False,ordered,Ordered,1.0
+6ae75eaa-a131-8c73-70b9-8823423a1c26,1,1,1.0,d,,False,ordered,Ordered,1.0
+cfd7a92a-091b-77a9-9a6f-396ee4a96dc9,1,1,1.0,d,,False,ordered,Ordered,1.0
+5adf43e0-4844-982a-ab9c-7eb5afd859cc,1,1,1.0,d,,False,ordered,Ordered,1.0
+2c80758a-b33e-3ce1-ae90-d115f5e89c4c,1,1,1.0,d,,False,ordered,Ordered,1.0
+d6b8c074-49f2-293f-d4d2-421618ba2d9c,1,1,1.0,d,,False,ordered,Ordered,1.0
+fd714d9c-5f4a-c016-d0a5-9dfdc520214f,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d577c79-0dba-b03e-afbd-39fed5d559a0,1,1,1.0,d,,False,ordered,Ordered,1.0
+66a6842a-17df-d182-653c-8d9430d328e5,1,1,1.0,d,,False,ordered,Ordered,1.0
+2162e203-ee4c-80e3-0200-bf04f3e681c7,1,,,,Take as needed.,True,,,
+137dc344-5a62-a670-f70a-ea3dc1fa06c7,1,,,,Take as needed.,True,,,
+6e21eaf2-0097-7960-52a5-6df628d35b16,1,,,,Take as needed.,True,,,
+118f6bc2-7f94-763d-0e81-de89db365fd2,1,,,,Take as needed.,True,,,
+a5fbc279-925f-be9c-65fa-5d86be63ed88,1,,,,Take as needed.,True,,,
+e6214082-24bb-f9e5-5600-d14a796ac4e4,1,,,,Take as needed.,True,,,
+5872040b-f1a5-b25e-c54f-bc9b35a0502b,1,,,,Take as needed.,True,,,
+d48f609a-1310-9a42-1697-814f70238ee2,1,,,,Take as needed.,True,,,
+aba22bec-6b33-718e-d7eb-170b23595332,1,,,,Take as needed.,True,,,
+a85bb6d2-b147-c6cb-ec06-4a4d858a1aa4,1,,,,Take as needed.,True,,,
+3662947e-4d29-2b11-0aac-6c119fe6620a,1,,,,Take as needed.,True,,,
+54fbdd8e-7bb9-d39e-c706-2939c50b9dd5,1,,,,Take as needed.,True,,,
+4129df51-b291-07fe-51b7-14da7492b194,1,,,,Take as needed.,True,,,
+a347b5c4-e700-9929-ba07-a2eb4bebada4,1,,,,Take as needed.,True,,,
+eeed389a-ccbd-b147-5f77-bcd432fc8289,1,,,,Take as needed.,True,,,
+cb25e27e-950d-76fe-0e15-582a6633b79f,1,,,,Take as needed.,True,,,
+3201e9e8-2713-7e5f-7864-958cabebaabd,1,,,,Take as needed.,True,,,
+1ec17e02-9fc4-32f9-186f-6002326fef74,1,,,,Take as needed.,True,,,
+51a52d35-bcdb-c98a-7ba5-3f5df750cb07,1,,,,Take as needed.,True,,,
+5337605b-e0b7-c2a6-a4d8-596d8622306b,1,,,,Take as needed.,True,,,
+0f05ec53-ec8f-cfd3-be89-9ca8d99e5fb6,1,,,,Take as needed.,True,,,
+5087d68f-d9d7-676c-c3a0-926f4d8602e2,1,,,,Take as needed.,True,,,
+e4c78097-b7a7-5d3d-e41a-5ffdbb75b91c,1,1,1.0,d,,False,ordered,Ordered,1.0
+a240c936-08bf-2357-5576-df9201718d80,1,,,,Take as needed.,True,,,
+0edd5a1a-336d-a305-65f1-5ceedde0b127,1,,,,Take as needed.,True,,,
+b1b1b8a9-a427-9df2-81ee-9740fd24c83d,1,,,,Take as needed.,True,,,
+1a0cf251-3067-32bc-477f-368918a65b9a,1,,,,Take as needed.,True,,,
+e6190800-6572-337f-a44f-b8ea65c37883,1,,,,Take as needed.,True,,,
+c4d39265-f7bb-c79d-5fee-ee29347b0da7,1,,,,Take as needed.,True,,,
+9442b8ee-64c9-acc4-10bf-9c36fa10b231,1,1,1.0,d,,False,ordered,Ordered,1.0
+c2036421-184e-7050-d927-0acd6139ecc3,1,,,,Take as needed.,True,,,
+a95666db-4440-5cee-2a9f-9e5f8b7d26fb,1,,,,Take as needed.,True,,,
+af2bada9-11d3-e53e-4f77-75b378907ae9,1,,,,Take as needed.,True,,,
+43abe696-56dc-2ab6-921b-feb5d66f012c,1,,,,Take as needed.,True,,,
+df7db77b-fba9-0239-59da-fb8195ef11a2,1,,,,Take as needed.,True,,,
+32f38ccf-cf0f-6929-a6f6-455d3261c2de,1,,,,Take as needed.,True,,,
+e3e10104-8545-838d-8342-42105e8ea92b,1,2,1.0,d,,False,ordered,Ordered,1.0
+4488a0e1-2fbb-9af1-cb1d-fba49e4b0cc1,1,,,,Take as needed.,True,,,
+109aa342-018f-dfa2-c209-99aa2ea63ac0,1,,,,Take as needed.,True,,,
+655d2db0-abc5-2a00-b1da-c27f562fccfd,1,,,,Take as needed.,True,,,
+4f99cac9-6aae-f1f1-31a8-23799e0b6b8b,1,,,,Take as needed.,True,,,
+9170d8bc-15c2-5295-34a8-de2bab548fee,1,,,,Take as needed.,True,,,
+58668ccb-1b26-0d7d-f128-58f338202157,1,,,,Take as needed.,True,,,
+223d4c12-2c91-f023-28e6-c45adc659f40,1,,,,Take as needed.,True,,,
+b125dbfc-9a0a-dfcd-404c-9d9e1df46cbb,1,4,1.0,d,,False,ordered,Ordered,1.0
+e606a0c9-4f2b-f9a6-8225-1f5be91b042c,1,1,1.0,d,,False,ordered,Ordered,1.0
+54cd328d-7fa7-e891-6271-7a8361acbe3d,1,1,1.0,d,,False,ordered,Ordered,1.0
+666166f7-d60c-e0e5-b2cc-c39f22fbd15c,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9edeee4-9107-52d6-986c-3aef6c4d38de,1,1,1.0,d,,False,ordered,Ordered,1.0
+f0c72ba9-bc71-bdc5-c4e4-52e9d2e33918,1,1,1.0,d,,False,ordered,Ordered,1.0
+3468eef6-3dfd-dfa5-8bdd-33128827fa4d,1,1,1.0,d,,False,ordered,Ordered,1.0
+c48116d6-9d2f-b450-9fd4-56e870cd32c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+08aef827-08fc-5463-4060-0e18fd329b43,1,1,1.0,d,,False,ordered,Ordered,1.0
+619f7582-d7f6-c407-355a-8f8b11009ac1,1,1,1.0,d,,False,ordered,Ordered,1.0
+aa2827e1-0780-4327-3a5a-ecf6803ededf,1,1,1.0,d,,False,ordered,Ordered,1.0
+b6bac3c2-dfc7-d11b-d54c-8f6663745f46,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd5542bb-049a-97be-c7ce-288c6b8c2658,1,1,1.0,d,,False,ordered,Ordered,1.0
+5433baf6-3204-4dbf-65b0-0b64b83565b0,1,1,1.0,d,,False,ordered,Ordered,1.0
+18f52e95-e10a-666f-e942-f69889df3e6e,1,1,1.0,d,,False,ordered,Ordered,1.0
+79fdd52d-1db4-152e-5c1a-e85394186a02,1,1,1.0,d,,False,ordered,Ordered,1.0
+16cbba65-758a-7bb4-ed1c-c01f4cb96056,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a643d99-45ec-1344-cc7c-ebcbd8d22889,1,1,1.0,d,,False,ordered,Ordered,1.0
+2b6d9f75-a314-5799-1a78-26df3b8dbce1,1,1,1.0,d,,False,ordered,Ordered,1.0
+4125101a-c1cf-33ad-c9b4-7e311b945a39,1,1,1.0,d,,False,ordered,Ordered,1.0
+b6f6e422-5d32-9621-3569-9c86d3153458,1,1,1.0,d,,False,ordered,Ordered,1.0
+d29bc8c8-8c64-1eb5-3ad6-113159b5c7ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+31ae86fe-5ff0-6bf1-5fed-8648c4cd3c5c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6951d153-fd85-0841-dc88-f9c237ac0855,1,,,,Take as needed.,True,,,
+0c83f447-38f3-dc39-5d29-09f2d34128b1,1,1,1.0,d,,False,ordered,Ordered,1.0
+1597bf33-de37-790e-a12b-98a3e8c830d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+4d215b97-64cb-e3eb-027d-375f580cb632,1,1,1.0,d,,False,ordered,Ordered,1.0
+45f4f778-6b20-89fb-f06f-0e2354f8a625,1,1,1.0,d,,False,ordered,Ordered,1.0
+155867c4-7d06-a94f-f96d-d26c5a3d04f8,1,1,1.0,d,,False,ordered,Ordered,1.0
+6dd72960-419c-2c29-39da-95de3f876e95,1,1,1.0,d,,False,ordered,Ordered,1.0
+6057f813-8f7e-cdd3-704b-262bbd460b74,1,1,1.0,d,,False,ordered,Ordered,1.0
+7272c104-de9d-819f-b84c-4f00bd81cbfa,1,1,1.0,d,,False,ordered,Ordered,1.0
+b126a726-a05c-a7ca-3f24-2866814a4592,1,1,1.0,d,,False,ordered,Ordered,1.0
+22daee22-de29-fee9-60d1-5f3ff790799e,1,1,1.0,d,,False,ordered,Ordered,1.0
+68698fcc-c7cb-5a43-6b83-e4ef4ce143a1,1,1,1.0,d,,False,ordered,Ordered,1.0
+9a488807-ce52-60c8-c9d1-1cbbc7d2e982,1,1,1.0,d,,False,ordered,Ordered,1.0
+8b2a692f-6b40-382c-d898-6332962aef82,1,1,1.0,d,,False,ordered,Ordered,1.0
+b959e59d-a392-03fd-9953-aee88c2e09f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+ae0628fc-fec1-32d5-64e8-cba391ea8cb1,1,1,1.0,d,,False,ordered,Ordered,1.0
+35749e75-1da1-0e62-2a75-f7b4adbf57ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+3930eb92-f6c6-1ed6-da1e-92f730b8596c,1,1,1.0,d,,False,ordered,Ordered,1.0
+47770c0f-6b46-6a24-a527-0268b396cd65,1,1,1.0,d,,False,ordered,Ordered,1.0
+19298c0a-7250-6dfa-04c5-aba54defea69,1,1,1.0,d,,False,ordered,Ordered,1.0
+7d9297c0-b6c4-cc4e-3902-9f06044a5fd7,1,1,1.0,d,,False,ordered,Ordered,1.0
+dd21bfe2-332a-e40d-7d84-0ebfd6676a3b,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a659ba7-4f57-06c3-c92d-927d7187389b,1,1,1.0,d,,False,ordered,Ordered,1.0
+279d7799-8ba7-e088-1ad2-55bd9de01d4e,1,1,1.0,d,,False,ordered,Ordered,1.0
+796894a1-2e76-f523-b554-89c439012163,1,1,1.0,d,,False,ordered,Ordered,1.0
+48246e53-355f-5bac-4067-dd025d9674a6,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf557dd7-e1c1-9774-d377-aa315af61a85,1,1,1.0,d,,False,ordered,Ordered,1.0
+65d3866d-b6c3-4fae-0506-e735c25d9f51,1,1,1.0,d,,False,ordered,Ordered,1.0
+16d05c26-5d10-f365-85b9-9e6d82e1929f,1,1,1.0,d,,False,ordered,Ordered,1.0
+d59d4e68-af80-c1df-c603-718117dab8f8,1,1,1.0,d,,False,ordered,Ordered,1.0
+3baf809e-16a2-3e66-b151-f616da46bae3,1,1,1.0,d,,False,ordered,Ordered,1.0
+9b19ea2c-d2b0-3041-9616-b5d6c90a24e9,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4d1f361-2b50-6160-9838-c1d70da048c6,1,1,1.0,d,,False,ordered,Ordered,1.0
+db3464f9-e380-e512-0018-d1789537d765,1,1,1.0,d,,False,ordered,Ordered,1.0
+12208a66-5325-ae6e-af85-1d066969464e,1,1,1.0,d,,False,ordered,Ordered,1.0
+686ecd67-4092-cff6-0530-d756a3a0b233,1,1,1.0,d,,False,ordered,Ordered,1.0
+402e4a4f-0c87-7ab8-1742-83090c237441,1,1,1.0,d,,False,ordered,Ordered,1.0
+cf46db98-baf0-6c74-6215-6a211df3282c,1,1,1.0,d,,False,ordered,Ordered,1.0
+2ca39f6f-086d-28b7-50fc-adf8a4056bd0,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f5c6687-4d6c-8a4c-6642-6f154f7fd05d,1,1,1.0,d,,False,ordered,Ordered,1.0
+5905dddd-6d86-b4ad-6e0c-97dfd72ea077,1,1,1.0,d,,False,ordered,Ordered,1.0
+c633d1f3-a5c3-ad29-1e82-fdfb3cabcf56,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ee6a004-6f52-0af0-970b-3e9badaef225,1,1,1.0,d,,False,ordered,Ordered,1.0
+b0f37756-441c-c765-7e9b-d826af0dc163,1,1,1.0,d,,False,ordered,Ordered,1.0
+8bba7d62-d3df-e2fe-0704-b7a1297c80b4,1,1,1.0,d,,False,ordered,Ordered,1.0
+88c41ad9-4a23-642f-1fd1-befeabe20f60,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f5e0791-5726-7617-5edf-9724bed74740,1,1,1.0,d,,False,ordered,Ordered,1.0
+1dfb065c-26f0-e5e4-35da-a3efcca18df1,1,1,1.0,d,,False,ordered,Ordered,1.0
+a02d165c-ca3c-f038-712d-0cb157d9b7ee,1,1,1.0,d,,False,ordered,Ordered,1.0
+c013d3c8-e27d-7994-b0a3-572e567ad39b,1,1,1.0,d,,False,ordered,Ordered,1.0
+ca0c288e-1cfe-8b6a-7a98-2802e7eeadf8,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f0f2a9d-beff-92a7-e0aa-e5ff4efec395,1,1,1.0,d,,False,ordered,Ordered,1.0
+a781b9e2-4b24-0d25-12d7-0979ca60c037,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b816fcc-0dd8-b8e0-e993-4c5a9b6d4c40,1,1,1.0,d,,False,ordered,Ordered,1.0
+290296ec-598e-a69e-b894-fac4d9d19903,1,1,1.0,d,,False,ordered,Ordered,1.0
+f6a61492-a5cf-4053-4b0b-5d57b373afb3,1,1,1.0,d,,False,ordered,Ordered,1.0
+cc343ccf-38c7-5e04-da17-876d4d8b530f,1,1,1.0,d,,False,ordered,Ordered,1.0
+83e41de0-40ab-3736-f173-1ca6b64ed236,1,1,1.0,d,,False,ordered,Ordered,1.0
+93061717-f174-6b06-0e8a-231fc4d49e68,1,1,1.0,d,,False,ordered,Ordered,1.0
+b05ee871-4bf2-155f-b8e1-bd296ebb1892,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1fe621e-9ec3-7ff5-7a79-73450a52f31c,1,1,1.0,d,,False,ordered,Ordered,1.0
+b606f38e-bdc3-cafe-2a4e-d00268963e77,1,1,1.0,d,,False,ordered,Ordered,1.0
+682b4fa3-7269-4c09-8a9e-28a57b70b244,1,1,1.0,d,,False,ordered,Ordered,1.0
+084be399-ebb6-5cd1-88d6-724bf5c4adb2,1,1,1.0,d,,False,ordered,Ordered,1.0
+1e228f06-c81e-382d-2ad2-5928f7b760a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+1ae4c696-d593-1ede-ccc2-260a5dfb167f,1,1,1.0,d,,False,ordered,Ordered,1.0
+312c3bbf-583c-0ed0-f183-256872ba58c5,1,1,1.0,d,,False,ordered,Ordered,1.0
+cf48f1d4-0a26-98fd-d44b-7d1b22f93cbe,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf492400-1310-7966-5958-ec2a67d89438,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed4f90f8-0d37-3641-a289-cc7f427bee6c,1,1,1.0,d,,False,ordered,Ordered,1.0
+25f2fe2b-af03-6aca-aeba-ce6a5d59ee3e,1,1,1.0,d,,False,ordered,Ordered,1.0
+7ad5828a-9bd1-cf62-f37d-bfb7d231895c,1,1,1.0,d,,False,ordered,Ordered,1.0
+faaa7666-21d1-abed-f7a3-b51706cadc8f,1,1,1.0,d,,False,ordered,Ordered,1.0
+2b33cffe-6c1c-5f58-3007-5a6e636637db,1,1,1.0,d,,False,ordered,Ordered,1.0
+7096a15a-96c4-8c53-b265-20dc32ec5b11,1,1,1.0,d,,False,ordered,Ordered,1.0
+3988b66d-e2d0-e50e-91be-4706274b39c4,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ccecdb1-235e-9026-8496-9f0de62cf8ef,1,1,1.0,d,,False,ordered,Ordered,1.0
+c820d9c7-6336-ea7c-86c0-24935a8b15fa,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a96f886-5ddc-4352-247d-69846a07b984,1,1,1.0,d,,False,ordered,Ordered,1.0
+aa78e0d8-49fb-9f88-8c81-d60e0cd33b02,1,1,1.0,d,,False,ordered,Ordered,1.0
+c087ecee-db1d-74b1-d5a3-3ffe2230809c,1,1,1.0,d,,False,ordered,Ordered,1.0
+eacecf73-3ef7-ede8-f682-c1b087c21fec,1,1,1.0,d,,False,ordered,Ordered,1.0
+5629baac-6955-16bc-9f94-6ff2128e33c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+db08c4bf-c2c5-6247-f9e4-2336d932644d,1,1,1.0,d,,False,ordered,Ordered,1.0
+23baa1ca-a99d-93f5-476f-5e1dc608040d,1,1,1.0,d,,False,ordered,Ordered,1.0
+fe9a225a-840d-b054-8d5c-3c0ccb1b3b4c,1,,,,Take as needed.,True,,,
+00dc3fe1-96ed-0c04-8e3d-191e8f42263e,1,1,1.0,d,,False,ordered,Ordered,1.0
+ac2bdbde-3741-3e47-50d2-1baed6870c80,1,1,1.0,d,,False,ordered,Ordered,1.0
+a006459d-b0b2-3cff-b32b-49b1498eadfb,1,1,1.0,d,,False,ordered,Ordered,1.0
+98203f49-f489-ea6d-36e1-58e7ccf3f42e,1,1,1.0,d,,False,ordered,Ordered,1.0
+fa02b417-6b26-043f-d368-7bdefdef0b00,1,1,1.0,d,,False,ordered,Ordered,1.0
+946fa1e8-89ea-0119-b3df-9339e8a1391e,1,1,1.0,d,,False,ordered,Ordered,1.0
+5eaeb3c1-ad68-c669-04fa-df4079c0f82c,1,1,1.0,d,,False,ordered,Ordered,1.0
+d75340e0-98d1-722e-2ee4-d609c732c973,1,1,1.0,d,,False,ordered,Ordered,1.0
+92aa12af-1de7-b80b-fc39-c7729923bf38,1,1,1.0,d,,False,ordered,Ordered,1.0
+bfeacba6-dd43-a502-798a-2a000a3aaab9,1,1,1.0,d,,False,ordered,Ordered,1.0
+5b687e3e-10a8-df02-69d0-0bf794c168d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+0e27befd-e724-9274-2a49-3dcc23a79adb,1,1,1.0,d,,False,ordered,Ordered,1.0
+d14354b4-bb2c-3701-9ed4-b0fd932439bf,1,1,1.0,d,,False,ordered,Ordered,1.0
+932f0217-51d8-fd44-78dc-73ba5483c577,1,1,1.0,d,,False,ordered,Ordered,1.0
+7b700ab9-27bc-e383-b156-46602b1fd5b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+f829794b-e3cf-ae16-885b-67bdc4c64e62,1,1,1.0,d,,False,ordered,Ordered,1.0
+e48572e6-fd65-584c-67b1-f322bec287f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+b0cac0d5-fbf9-745f-b759-efc662d5949d,1,1,1.0,d,,False,ordered,Ordered,1.0
+67743783-62f4-fc5f-f67f-c1692e0ca622,1,1,1.0,d,,False,ordered,Ordered,1.0
+e8d64314-21d9-5710-aedd-be66bc7b9f48,1,1,1.0,d,,False,ordered,Ordered,1.0
+7547789f-3cb7-cc3a-4708-798ddcd6ef93,1,1,1.0,d,,False,ordered,Ordered,1.0
+4eda0d60-2fb7-a59a-c577-fde6e8ab3b88,1,1,1.0,d,,False,ordered,Ordered,1.0
+43435c44-4631-7ac3-fb08-b2eb8fe8e021,1,1,1.0,d,,False,ordered,Ordered,1.0
+afac3917-d922-6c03-98f3-b90906d15743,1,1,1.0,d,,False,ordered,Ordered,1.0
+3f0a9336-1a35-f2a2-aa44-1c58623c746d,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef739a7b-8c67-24c3-c46e-fa543e09735b,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f421039-198a-0479-c610-6615f74af0ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c198e5e-a8c7-5292-aa20-eba48ff204e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+58aa6db8-cbe3-553e-ee72-b19d24bd6991,1,1,1.0,d,,False,ordered,Ordered,1.0
+8d940925-fa2b-5caa-5324-f3350977696f,1,1,1.0,d,,False,ordered,Ordered,1.0
+382c2873-b4c9-8717-bdfc-2ba6a1ec80ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+a42065b3-44cc-0139-54a8-01cc513cf685,1,1,1.0,d,,False,ordered,Ordered,1.0
+65deac74-65d5-7092-d9b6-ca128729dd03,1,1,1.0,d,,False,ordered,Ordered,1.0
+99bf3569-d57c-e783-7325-3ca28e7bfdff,1,1,1.0,d,,False,ordered,Ordered,1.0
+9616aafd-c0d1-2e49-7ac1-ae09ae3b3275,1,1,1.0,d,,False,ordered,Ordered,1.0
+e088c83e-c8bd-2528-b410-8d1608bca6b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+d71744f1-dacd-5711-e23c-444430f0c36d,1,1,1.0,d,,False,ordered,Ordered,1.0
+3bcd8927-06cd-0b1e-58d9-1fceff6f4e8b,1,1,1.0,d,,False,ordered,Ordered,1.0
+897a8db7-c78d-227a-9411-e441a9e19a21,1,1,1.0,d,,False,ordered,Ordered,1.0
+4415925d-d9ea-c08a-8324-d4bb877ac42e,1,1,1.0,d,,False,ordered,Ordered,1.0
+79573d30-a6dd-8a88-02d1-e12c933be5b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+b64c237e-3eee-af76-6265-6fbe0cd63e8e,1,1,4.0,h,,False,ordered,Ordered,4.0
+509912be-9e6e-8ce6-e222-76bd1cdb9b2e,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c457796-c873-65a0-a5d1-51e5c4b211ba,1,1,1.0,d,,False,ordered,Ordered,1.0
+c6992fdb-f864-790c-7845-2fb16c416175,1,1,1.0,d,,False,ordered,Ordered,1.0
+b3c28fe6-d000-733c-a22e-e782cc76ced8,1,1,1.0,d,,False,ordered,Ordered,1.0
+2400071f-e272-5158-f96f-9c539e692885,1,1,1.0,d,,False,ordered,Ordered,1.0
+241d7c21-de38-8439-ca1c-ea1673b6b32d,1,1,1.0,d,,False,ordered,Ordered,1.0
+e0fff37a-59d2-6101-30bb-ca9936c5bfd9,1,1,1.0,d,,False,ordered,Ordered,1.0
+409222af-1b14-9c70-fef0-fbc4cebc1769,1,1,1.0,d,,False,ordered,Ordered,1.0
+822e6247-af76-81b8-ecf9-a9fdc599f0ed,1,1,1.0,d,,False,ordered,Ordered,1.0
+791a7e0a-95e2-8439-53b2-306a73725dbf,1,1,1.0,d,,False,ordered,Ordered,1.0
+64364fa3-6dbb-7a90-2c08-4eb383a2e467,1,1,1.0,d,,False,ordered,Ordered,1.0
+2386fa7b-4a31-fb94-81e6-9c0df0e5ba30,1,1,1.0,d,,False,ordered,Ordered,1.0
+a6a026f7-5195-e0ce-0412-2e022d085e6d,1,1,1.0,d,,False,ordered,Ordered,1.0
+3c215fab-1c0c-e9e0-3334-7ab46e91c7b1,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b12b9dc-07c4-d3c4-b862-1cd5946a38ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+c22a5b14-0d75-71de-c586-97b04d977478,1,1,1.0,d,,False,ordered,Ordered,1.0
+b32cfbc0-f85f-6b84-458f-9098ffe74a2c,1,1,1.0,d,,False,ordered,Ordered,1.0
+1b1ee313-dab4-226f-90af-c16eb672487f,1,1,1.0,d,,False,ordered,Ordered,1.0
+58bde645-6229-c07a-c440-8584d1d1b3c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+63352f0a-153e-d0c1-fd0f-6b23fba9364a,1,1,1.0,d,,False,ordered,Ordered,1.0
+45178fa6-fe1b-cb2e-eea1-f8c4c4d69f8c,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff3e618a-400e-ee5f-ef9b-a1fbf9203d90,1,1,1.0,d,,False,ordered,Ordered,1.0
+eb235621-f055-cc04-a504-3dffedcc54b4,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d39be1c-6674-a536-9026-119ade723477,1,1,1.0,d,,False,ordered,Ordered,1.0
+a22c88ec-ea43-a61d-6090-0155c2ae9cc1,1,1,1.0,d,,False,ordered,Ordered,1.0
+f76cc19f-280e-4710-f7c6-e5891fed3b6d,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3483a29-6ca6-9ff1-d88f-91b0e5f7b4b6,1,1,1.0,d,,False,ordered,Ordered,1.0
+192f9a87-7f26-ece6-6699-a8f25df835c0,1,1,1.0,d,,False,ordered,Ordered,1.0
+1d4cd3aa-6461-5a56-3e36-949ad783fac3,1,1,1.0,d,,False,ordered,Ordered,1.0
+b6c68f85-cb59-82ee-3682-59401cf82bff,1,1,1.0,d,,False,ordered,Ordered,1.0
+89cf9f82-aa15-7165-d7c5-29df76555a57,1,1,1.0,d,,False,ordered,Ordered,1.0
+a751af8d-f4be-b8a0-5b5c-961ffe87bbfa,1,1,1.0,d,,False,ordered,Ordered,1.0
+f35a7805-c31f-6c73-c56d-1b88ff48bc22,1,1,1.0,d,,False,ordered,Ordered,1.0
+71a081d3-b22e-f0b2-caae-d17b25e288bf,1,1,1.0,d,,False,ordered,Ordered,1.0
+d70577c6-9426-ae18-9a3b-0de1e97f7611,1,1,1.0,d,,False,ordered,Ordered,1.0
+cee9b5ca-7998-311b-45e1-7f7d2684aa9e,1,1,1.0,d,,False,ordered,Ordered,1.0
+d474a999-6c41-642b-a403-af76df7cbb54,1,1,1.0,d,,False,ordered,Ordered,1.0
+a7e6ca29-ebf0-d937-15b4-0f313d2dfde4,1,1,1.0,d,,False,ordered,Ordered,1.0
+d136ead2-466e-b7a0-16fc-b0d640bd295b,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c421d59-a4f2-d2f7-9298-94fc84abb6c5,1,1,1.0,d,,False,ordered,Ordered,1.0
+30a644f7-1862-74fc-feaa-feef453a0c51,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3908e2b-4d5f-43b5-c918-e115ad089d23,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a8d9b5e-269b-de6c-b7b3-9c360acd230e,1,1,1.0,d,,False,ordered,Ordered,1.0
+7df79d76-0422-3ad5-3b78-7fb298c9f14f,1,1,1.0,d,,False,ordered,Ordered,1.0
+500176ca-7279-995b-e856-6efca20c281b,1,1,1.0,d,,False,ordered,Ordered,1.0
+030a0ae1-6f27-c2bd-8984-68aee0c7fd87,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f81c83c-73c1-f612-4f97-6f7ef110ce98,1,1,1.0,d,,False,ordered,Ordered,1.0
+ffa3b24b-dede-6d15-6120-aa25dead054b,1,1,1.0,d,,False,ordered,Ordered,1.0
+73c6e4f7-fb4f-7417-cb86-3438e914aae3,1,1,1.0,d,,False,ordered,Ordered,1.0
+02a86390-d445-d2ad-7bcf-f0881ed13409,1,1,1.0,d,,False,ordered,Ordered,1.0
+762dcf93-362b-8373-1f67-ea9cc8207570,1,1,1.0,d,,False,ordered,Ordered,1.0
+9bc8f602-5af9-8710-7529-aec7135b28ae,1,1,1.0,d,,False,ordered,Ordered,1.0
+76300b98-b3c3-747c-5296-4a848ceefda1,1,1,1.0,d,,False,ordered,Ordered,1.0
+59a0b800-89a4-555e-f18f-ca7d9513c388,1,1,1.0,d,,False,ordered,Ordered,1.0
+32d7b335-b01c-8801-11e4-4c319fd56f94,1,1,1.0,d,,False,ordered,Ordered,1.0
+8df20d0f-c6bb-4def-57be-6a063d4fdac2,1,1,1.0,d,,False,ordered,Ordered,1.0
+0dc51e84-c824-cd9d-d618-c99e1921d17d,1,1,1.0,d,,False,ordered,Ordered,1.0
+a23161b7-fb88-c104-07cc-4dc2efc4daf0,1,1,1.0,d,,False,ordered,Ordered,1.0
+ffafc703-824d-caac-6504-c3cc340b6b2c,1,1,1.0,d,,False,ordered,Ordered,1.0
+bbc4a9c2-a1c9-5079-ed36-7b66bd5eeb20,1,1,1.0,d,,False,ordered,Ordered,1.0
+f8963a7d-c039-c023-1903-a70ccd6cba8e,1,1,1.0,d,,False,ordered,Ordered,1.0
+b552b8b5-506e-294e-de30-9970c2f14ac4,1,1,1.0,d,,False,ordered,Ordered,1.0
+a8d60e1a-6361-3316-7dee-9d0544aacfe5,1,1,1.0,d,,False,ordered,Ordered,1.0
+427ea3ee-ca64-81f8-b8e0-39cfce3d83b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+ab11329a-e4f6-4662-1ef3-c1c0f7c924a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+95eef23c-8ff3-514e-225f-26ff58a1dd70,1,1,1.0,d,,False,ordered,Ordered,1.0
+d1f6ca27-02a9-1edb-4f71-b1334ae8ef73,1,1,1.0,d,,False,ordered,Ordered,1.0
+fe20824c-aabe-5e64-2950-a244f057b6de,1,1,1.0,d,,False,ordered,Ordered,1.0
+2619691a-8849-1203-eced-6c5579e716ed,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1f258f0-950c-da79-243e-4f4cb9bb85e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+bc5ab862-10b8-6e20-4a90-3e2beaf05b1b,1,1,1.0,d,,False,ordered,Ordered,1.0
+64de8a19-c5c9-9603-0c21-dac27fe17152,1,1,1.0,d,,False,ordered,Ordered,1.0
+98fa374f-d1e8-fb89-bc7e-9dc57ca34daa,1,1,1.0,d,,False,ordered,Ordered,1.0
+45a061fc-a22d-d4ba-8be7-838e148b6536,1,1,1.0,d,,False,ordered,Ordered,1.0
+86cf6577-dbbe-1dd5-1337-9c6a19c7ad8a,1,1,1.0,d,,False,ordered,Ordered,1.0
+a01dad0e-68ab-021b-11f1-8f8dffd7bb8d,1,1,1.0,d,,False,ordered,Ordered,1.0
+7e380212-8a1c-8be8-3020-0a2cd17dd8d7,1,1,1.0,d,,False,ordered,Ordered,1.0
+841d1bb7-1464-ca07-db18-ae0c7d44724f,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a2c90ab-d0a4-e0d0-e132-dfbf303973b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+702d4e42-c146-b44b-0434-adba51f8f7d9,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed6887b9-f085-b9cd-57a9-24ef89336aff,1,1,1.0,d,,False,ordered,Ordered,1.0
+15d9d6d4-dea1-2d5b-d5e9-8ff983427994,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf7f2432-ce58-a193-51b3-ca404aeec8ad,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c96ad20-648a-cb76-e452-c574e6551712,1,1,1.0,d,,False,ordered,Ordered,1.0
+e945424d-7e50-e701-ff63-c4ac658a85c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+4edc3ec2-9c31-c80b-0c97-c618b3cbbe9f,1,1,1.0,d,,False,ordered,Ordered,1.0
+b5e9e0e8-1f03-e028-7c00-fcdc8f36b494,1,1,1.0,d,,False,ordered,Ordered,1.0
+771c8f22-2070-8642-acbd-d38091b8a13a,1,1,1.0,d,,False,ordered,Ordered,1.0
+0888ecc5-d7d0-8e0f-ea5f-2ccef29506f1,1,1,1.0,d,,False,ordered,Ordered,1.0
+dd100ddf-735f-0081-dce7-15891e597921,1,1,1.0,d,,False,ordered,Ordered,1.0
+0cce06eb-7c37-30fd-654d-7cbd58629ffc,1,1,1.0,d,,False,ordered,Ordered,1.0
+1d1c46de-372b-b870-cb50-ca49ba71f9d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+3281349a-4ce0-3879-ab2a-b32098b08416,1,1,1.0,d,,False,ordered,Ordered,1.0
+85de9240-dc48-a6f6-8515-761fbb1a4012,1,1,1.0,d,,False,ordered,Ordered,1.0
+cfb78f56-0477-334a-8abd-64b76e1008dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+057e3e08-418e-3933-31a9-eee4c6b51d0e,1,1,1.0,d,,False,ordered,Ordered,1.0
+902d2167-3fa2-e7fe-4fc3-c6deeceff2c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+a50328a7-88e3-0401-6c9b-2fe1b320ea97,1,1,1.0,d,,False,ordered,Ordered,1.0
+dc1036dc-8674-eae7-f3d7-31f8c8a21873,1,1,1.0,d,,False,ordered,Ordered,1.0
+56e9116c-c4e9-07ef-0b78-57a1c284a82c,1,1,1.0,d,,False,ordered,Ordered,1.0
+fc24bbe1-a8c8-1fd4-b1e3-7d6f7ef42e42,1,1,1.0,d,,False,ordered,Ordered,1.0
+060f6d88-16c9-f8fb-f1b2-c7890d83f8a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+e416c734-db63-c2ba-ded3-3e26d7fe3320,1,1,1.0,d,,False,ordered,Ordered,1.0
+9f1bb97c-f892-e313-1d00-a5211c9a5d79,1,1,1.0,d,,False,ordered,Ordered,1.0
+80e4a55b-2e9a-4579-01be-397b0af40804,1,1,1.0,d,,False,ordered,Ordered,1.0
+6a00618f-c184-10bc-3d2a-f5e21aafadfc,1,1,1.0,d,,False,ordered,Ordered,1.0
+ecbae7f7-6e82-1c79-cdbc-8946c037712d,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef842644-51f7-2bbe-7c5b-cd8923cc52d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+6ab8bced-59df-c361-d382-dda3add3ac1a,1,1,1.0,d,,False,ordered,Ordered,1.0
+0206cc5b-c53e-2d20-c6aa-7e10eee9b5d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+219a9e5e-b6f2-ad17-bc44-acee20ebdf8a,1,1,1.0,d,,False,ordered,Ordered,1.0
+26e9ccda-a156-4d2a-1ceb-c7b45bb6b227,1,1,1.0,d,,False,ordered,Ordered,1.0
+278902b1-4c96-33c2-345a-63c1759d8b7b,1,1,1.0,d,,False,ordered,Ordered,1.0
+739d0502-9b6e-f361-bdc6-08ee53500428,1,1,1.0,d,,False,ordered,Ordered,1.0
+520b0c84-b6b6-88cb-b0ab-94f5cc56f92c,1,1,1.0,d,,False,ordered,Ordered,1.0
+314f6659-4844-a68e-3009-6e78aaecb977,1,1,1.0,d,,False,ordered,Ordered,1.0
+7d1d3abe-4d19-a4d7-79dd-29a88ba1ab1e,1,1,1.0,d,,False,ordered,Ordered,1.0
+78cdbf66-10dc-52f7-c193-49e574164d4c,1,1,1.0,d,,False,ordered,Ordered,1.0
+cb8bf7da-e2bc-dd01-9782-3d6e7dbf7363,1,1,1.0,d,,False,ordered,Ordered,1.0
+c314c91d-ef12-2ec3-4ac0-72db99854b4b,1,1,1.0,d,,False,ordered,Ordered,1.0
+3ab6ede7-4894-3461-e0c4-e0ff53df2326,1,1,1.0,d,,False,ordered,Ordered,1.0
+01114635-1795-47a1-e309-2a7678647d79,1,1,1.0,d,,False,ordered,Ordered,1.0
+fa9cde23-2268-8298-bfdb-83b71633fa83,1,1,1.0,d,,False,ordered,Ordered,1.0
+63ed86fd-8418-62e6-d70b-a0bca35c3a85,1,1,1.0,d,,False,ordered,Ordered,1.0
+d294b042-3769-40de-1b98-2c017292d708,1,1,1.0,d,,False,ordered,Ordered,1.0
+1a9e9c0e-215b-a12a-8f11-5ffc1b1fc65e,1,1,1.0,d,,False,ordered,Ordered,1.0
+b7bfd436-df6b-6ba9-a431-428719d3eb85,1,1,1.0,d,,False,ordered,Ordered,1.0
+62420636-3330-6e44-ee5c-7cbe7b6ac233,1,1,1.0,d,,False,ordered,Ordered,1.0
+896df236-097b-72b0-fd04-c236250e3008,1,1,1.0,d,,False,ordered,Ordered,1.0
+efdf6689-a011-714a-4478-c5ceebb29c73,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f649ab0-0883-28eb-34df-68368106d1e0,1,1,1.0,d,,False,ordered,Ordered,1.0
+e72d54f5-ee25-10c4-ea9a-2fc9f1db4299,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b060b3d-3038-0832-a10b-0c716911f9ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+1e68ad51-5a8f-087b-ce58-5d8198abbf42,1,1,1.0,d,,False,ordered,Ordered,1.0
+df39b06e-446e-1537-ebeb-54f97a898006,1,1,1.0,d,,False,ordered,Ordered,1.0
+e217334d-e76f-842f-9852-1abcc807bc4b,1,1,1.0,d,,False,ordered,Ordered,1.0
+8c3287a8-b752-69b7-2007-10e0087ea682,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e723dd0-b084-7486-6a90-e894f6dd7434,1,1,1.0,d,,False,ordered,Ordered,1.0
+5e1ac132-95fb-c43a-f5ae-a9a1b356d8a0,1,1,1.0,d,,False,ordered,Ordered,1.0
+62952ffb-cdcc-8168-624f-ce6751cecabc,1,1,1.0,d,,False,ordered,Ordered,1.0
+eb1be18c-dfe9-4285-7036-96f953ff12ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+005c2932-d777-f9fc-7d31-89cd4263bce2,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e63717a-de21-51a1-01c3-8ee0ecfc537e,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c66b518-412d-c4a8-a53a-bea18fb0d0e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+53cbae00-6824-9dd4-6a5a-b5946f70093c,1,1,1.0,d,,False,ordered,Ordered,1.0
+f13e7b8d-c3a4-4f14-4e90-2700a7718641,1,1,1.0,d,,False,ordered,Ordered,1.0
+6728385f-2db5-02a4-1d35-cd8dc3108499,1,1,1.0,d,,False,ordered,Ordered,1.0
+48a1f0b9-4b8e-7e26-51f8-c344de96c5ba,1,1,1.0,d,,False,ordered,Ordered,1.0
+fa36c61b-5c70-7ada-375b-6789c0156732,1,1,1.0,d,,False,ordered,Ordered,1.0
+adf304fb-24dc-9e06-ef24-0a08b849514c,1,1,1.0,d,,False,ordered,Ordered,1.0
+9433d0f6-3840-107c-527b-12820a1813e8,1,1,1.0,d,,False,ordered,Ordered,1.0
+dee00474-ff4f-8e60-9d5a-33a37ad6c3df,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c3d9edc-608e-2294-dc95-b0be1cbc1406,1,1,1.0,d,,False,ordered,Ordered,1.0
+4efd83cf-cf3d-c598-0b15-422edea3b81c,1,1,1.0,d,,False,ordered,Ordered,1.0
+12cae806-5a63-84b7-5c12-d2543830081b,1,1,1.0,d,,False,ordered,Ordered,1.0
+374bdd6c-f441-8752-877d-eb445f3f08ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f1e9c11-a4e3-38b1-fa6c-254702b17bff,1,1,1.0,d,,False,ordered,Ordered,1.0
+b75bd280-4194-e844-fb9f-6acd54ea5a9e,1,1,1.0,d,,False,ordered,Ordered,1.0
+b43f4f93-34da-931a-5a42-57e2ce66079f,1,1,1.0,d,,False,ordered,Ordered,1.0
+5a4ccc7a-1c59-2066-189a-7ef52f154842,1,1,1.0,d,,False,ordered,Ordered,1.0
+5e57075e-3507-33c9-d821-a2b0a7f2a02b,1,1,1.0,d,,False,ordered,Ordered,1.0
+65088d0f-ab20-7aed-c300-98265750d126,1,1,1.0,d,,False,ordered,Ordered,1.0
+8ab4e883-82ee-f5d5-f412-f87dfa6d0812,1,1,1.0,d,,False,ordered,Ordered,1.0
+b862de33-d58c-4652-0eb3-090c3476ca1a,1,1,1.0,d,,False,ordered,Ordered,1.0
+dc32e858-6a4b-df95-5831-3654a6013f03,1,1,1.0,d,,False,ordered,Ordered,1.0
+66ddf997-f12f-9289-1f4e-627377f53b2e,1,1,1.0,d,,False,ordered,Ordered,1.0
+844d5f3e-0b1c-c4b6-c8ba-c15139efdd83,1,1,1.0,d,,False,ordered,Ordered,1.0
+ae91b1f9-d69b-5aeb-0c7c-e71516a5c610,1,1,1.0,d,,False,ordered,Ordered,1.0
+b469f3ba-3700-0270-2f19-27233a3d21be,1,1,1.0,d,,False,ordered,Ordered,1.0
+65d61955-6167-a571-330c-8ef913e2bfeb,1,1,1.0,d,,False,ordered,Ordered,1.0
+3f74f1d0-039c-371f-3c15-799c2575052c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e5980bc-9b45-19d2-1738-71cfea6bcdba,1,1,1.0,d,,False,ordered,Ordered,1.0
+ee5dd162-7ec4-e3a0-e2ed-9b7d58d09d3b,1,1,1.0,d,,False,ordered,Ordered,1.0
+62c944ac-837a-38a8-946f-4103bd4ed742,1,1,1.0,d,,False,ordered,Ordered,1.0
+faa53e80-3219-cc43-789c-3c6d61e55e45,1,1,1.0,d,,False,ordered,Ordered,1.0
+b5dc96fc-2801-5ea3-ad98-3a1a42ee3ddc,1,1,1.0,d,,False,ordered,Ordered,1.0
+18bb9fbf-187a-db8f-9ab7-f00821567c70,1,1,1.0,d,,False,ordered,Ordered,1.0
+106284e0-f59f-3203-8bb1-2ac5fa94cdf7,1,1,1.0,d,,False,ordered,Ordered,1.0
+a44eb234-3de7-66f2-72bf-9fe41f1d46aa,1,1,1.0,d,,False,ordered,Ordered,1.0
+772146dd-e2d7-9e6b-4906-d940273155ba,1,1,1.0,d,,False,ordered,Ordered,1.0
+65b7fda5-6341-c408-9bd7-c46c5f93387b,1,1,1.0,d,,False,ordered,Ordered,1.0
+02316cb8-ee6f-ddcf-bc92-ea7c759a5b5a,1,1,1.0,d,,False,ordered,Ordered,1.0
+3a8c3c98-fac9-7551-acc1-096409220cf7,1,1,1.0,d,,False,ordered,Ordered,1.0
+7dc84d52-517f-d5f8-18d7-131d3231d8ad,1,1,1.0,d,,False,ordered,Ordered,1.0
+91ace5f7-fa2c-ffc2-e05c-b1fbed9fafd7,1,1,1.0,d,,False,ordered,Ordered,1.0
+1d54d002-665c-b8a3-8e51-814144d18935,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ceb1fa6-84a0-5136-6ee6-75d0569d1abb,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ee9cb9a-4bbd-7df4-1e7f-8243b7f04102,1,1,1.0,d,,False,ordered,Ordered,1.0
+05a5e272-c018-d22f-2d34-9aabb09a4272,1,1,1.0,d,,False,ordered,Ordered,1.0
+f0dfcbc0-111d-8f89-f0cf-40257523e98e,1,1,1.0,d,,False,ordered,Ordered,1.0
+401c4cd3-96b5-aa5d-be4e-c00b8c7f38f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+e46d45c5-083e-afdc-0188-cb83cefbd6a3,1,1,1.0,d,,False,ordered,Ordered,1.0
+32b162db-bfb1-8a50-2e4a-b57d583d0d43,1,1,1.0,d,,False,ordered,Ordered,1.0
+dedf923e-fc4b-fa1f-5a74-deeea26b6c7a,1,1,1.0,d,,False,ordered,Ordered,1.0
+01a1233b-8978-2d14-678a-b518ef3b3c82,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9173986-96cf-f489-39c4-3d143bb23042,1,1,1.0,d,,False,ordered,Ordered,1.0
+d165a063-8708-ea29-2e89-292635aca593,1,1,1.0,d,,False,ordered,Ordered,1.0
+15356c9b-8918-ae3e-3eb8-80a32e880357,1,1,1.0,d,,False,ordered,Ordered,1.0
+06253e16-5207-81d7-28c1-025f90789e2c,1,1,1.0,d,,False,ordered,Ordered,1.0
+59c72932-79a6-d083-9c24-6babb990e695,1,1,1.0,d,,False,ordered,Ordered,1.0
+0ff3f2e6-d1cf-fbe4-e750-7ecc54effc73,1,1,1.0,d,,False,ordered,Ordered,1.0
+3fb6bb21-d52e-ea0f-3af1-10d2395d3077,1,1,1.0,d,,False,ordered,Ordered,1.0
+72fbdd54-e5ee-8ca5-5401-307cb1ddd63d,1,1,1.0,d,,False,ordered,Ordered,1.0
+8f4418a4-75ee-9d89-6f47-a10f6478aacb,1,4,1.0,d,,False,ordered,Ordered,1.0
+7ffe9778-70aa-8c7c-cffb-f8132130892e,1,1,1.0,d,,False,ordered,Ordered,1.0
+eea62837-b947-ee91-faff-f4ce68da1e0d,1,4,1.0,d,,False,ordered,Ordered,1.0
+22b58ded-6a4c-6b11-55f4-3ac375a68a53,1,1,1.0,d,,False,ordered,Ordered,1.0
+e2472537-31f7-8fe5-2af7-d36d2b011b03,1,1,1.0,d,,False,ordered,Ordered,1.0
+35b4d0e9-ebfd-b148-c342-c594be81d4be,1,4,1.0,d,,False,ordered,Ordered,1.0
+b8bc8e08-4e92-b754-ed13-6c9dd8a3dac7,1,1,1.0,d,,False,ordered,Ordered,1.0
+6d9df3a6-c6ea-3b01-b61c-8fd59841dd8b,1,1,1.0,d,,False,ordered,Ordered,1.0
+0607259b-1e8e-fbc6-5ab7-006f3c9930b1,1,4,1.0,d,,False,ordered,Ordered,1.0
+ce133ae8-a5db-e78f-6ea4-93088dfb305c,1,1,1.0,d,,False,ordered,Ordered,1.0
+3e2f317e-d22b-ccd5-2279-cc5d34af2201,1,1,1.0,d,,False,ordered,Ordered,1.0
+9f3191aa-1634-bbaa-af01-4504ac7227c9,1,4,1.0,d,,False,ordered,Ordered,1.0
+4b683b53-edd0-0c7c-8bea-3f50094c2612,1,1,1.0,d,,False,ordered,Ordered,1.0
+71cee7cb-0de6-72a2-cff1-5933817a7b8a,1,1,1.0,d,,False,ordered,Ordered,1.0
+0a5f4065-1057-0d02-259b-979d4497315f,1,4,1.0,d,,False,ordered,Ordered,1.0
+2e442d27-06f2-f881-8bb9-878b41114aed,1,1,1.0,d,,False,ordered,Ordered,1.0
+9b2ffb6c-1837-435e-174a-40565f5229c9,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef52ad97-e83e-ca04-f7fc-13a8284b25e9,1,4,1.0,d,,False,ordered,Ordered,1.0
+dc5c60b5-cc6b-5fc7-9574-14d6ca305da4,1,1,1.0,d,,False,ordered,Ordered,1.0
+e4d5abfd-8d55-d299-9085-cfcce19c542f,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c750d23-08bb-c3df-4f0d-715f095ac3fd,1,4,1.0,d,,False,ordered,Ordered,1.0
+07c83c2a-0c34-6749-768f-bf2ddc92924a,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c3a2823-7f3a-4a58-37b4-8ada8ce109dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1cd7dc3-132c-954b-c921-a331572ee66e,1,4,1.0,d,,False,ordered,Ordered,1.0
+f4a1f613-6855-5ee6-0f9d-3d8fe07e27bb,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3e9a3c7-5a04-3331-c252-b0b412a08ca7,1,1,1.0,d,,False,ordered,Ordered,1.0
+d2c52398-8c90-fe77-20b2-e6e47ff33c44,1,4,1.0,d,,False,ordered,Ordered,1.0
+4677f0bb-d007-95b8-e006-5b11023e49e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6e79772-aef8-1f82-434c-2c5531a8e9cd,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed6993d9-c6f1-5a3a-8bf9-d012ca3448de,1,4,1.0,d,,False,ordered,Ordered,1.0
+76c8cc7d-971c-b034-3fae-e3657f894073,1,1,1.0,d,,False,ordered,Ordered,1.0
+1a6eda2d-9d87-2b72-71e7-4b39f7c336f6,1,1,1.0,d,,False,ordered,Ordered,1.0
+bfd3620a-55cc-cd58-98bb-1599f370f131,1,4,1.0,d,,False,ordered,Ordered,1.0
+b8ca8962-d1e5-925c-9481-8c4964842d92,1,1,1.0,d,,False,ordered,Ordered,1.0
+18c50de0-5467-7ff6-4648-f9a8db9044cd,1,1,1.0,d,,False,ordered,Ordered,1.0
+058c9b8f-0519-d30c-162e-b60bfe72a50d,1,4,1.0,d,,False,ordered,Ordered,1.0
+5a8ac0c1-0fde-7968-c8f2-148e4af8cf65,1,1,1.0,d,,False,ordered,Ordered,1.0
+d7b0b866-ec33-a1b8-b65a-8508e2aa7db6,1,1,1.0,d,,False,ordered,Ordered,1.0
+70355f28-0cfb-883b-d9e7-a1b9ae1de828,1,4,1.0,d,,False,ordered,Ordered,1.0
+786d721a-ea9f-d027-2219-79cccb0335d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f116941-149e-01d1-8483-9f58335edb14,1,1,1.0,d,,False,ordered,Ordered,1.0
+309ec26c-4717-22dc-7d4d-cb514cd54cfa,1,4,1.0,d,,False,ordered,Ordered,1.0
+5785bb78-5faf-1a6d-54a4-be0c6cead9fe,1,1,1.0,d,,False,ordered,Ordered,1.0
+8d43d064-6512-b07c-3386-fad63bd4df4a,1,1,1.0,d,,False,ordered,Ordered,1.0
+2607c412-e08c-71ba-7189-1e962f004648,1,4,1.0,d,,False,ordered,Ordered,1.0
+28bc7b96-b709-ef93-5042-4d3e558afc94,1,1,1.0,d,,False,ordered,Ordered,1.0
+d2967f4e-d5e5-535a-dcbd-4b48095d77c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+b7ba10b4-4431-7e63-8e89-9cfeba161e39,1,4,1.0,d,,False,ordered,Ordered,1.0
+f673871c-a8e5-776c-7edf-62c9d4c31a1d,1,1,1.0,d,,False,ordered,Ordered,1.0
+15c13935-3d1a-d7fd-adab-8063d14ceab8,1,1,1.0,d,,False,ordered,Ordered,1.0
+5ab0a447-3425-ad3e-7149-adab1abc15db,1,4,1.0,d,,False,ordered,Ordered,1.0
+2c72eb0a-b730-6af6-4cdf-4288e38d28ca,1,1,1.0,d,,False,ordered,Ordered,1.0
+0aa1a4a6-3958-5e27-b09d-282e7a84eb84,1,1,1.0,d,,False,ordered,Ordered,1.0
+52889a84-fb87-f3d7-93f6-a39b6de2a76a,1,4,1.0,d,,False,ordered,Ordered,1.0
+1e3273a1-88e9-9ca6-b28b-28f06a81532f,1,1,1.0,d,,False,ordered,Ordered,1.0
+67c3761a-9d42-ad32-282f-647d9e08800a,1,1,1.0,d,,False,ordered,Ordered,1.0
+345d59db-a1d7-bbd6-0169-3187573ac7dd,1,4,1.0,d,,False,ordered,Ordered,1.0
+1aa74a3c-8bac-e511-981d-bcf0e4e5b6ab,1,1,1.0,d,,False,ordered,Ordered,1.0
+bc1dceb2-42e0-b305-8b69-bd199fdea355,1,1,1.0,d,,False,ordered,Ordered,1.0
+65c55764-fea2-d25f-f035-f9b9f584bfbc,1,4,1.0,d,,False,ordered,Ordered,1.0
+fed2ab91-7f41-ae5d-7828-cbd99a72788b,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d120db6-a822-f47d-ca1c-fdc04124f39c,1,1,1.0,d,,False,ordered,Ordered,1.0
+20bb07f9-c8c9-8237-6791-a2afbd8d801f,1,4,1.0,d,,False,ordered,Ordered,1.0
+48474b2a-82c6-b095-0781-df8edee23ab3,1,1,1.0,d,,False,ordered,Ordered,1.0
+e761846a-9643-7b29-0473-b276362acb40,1,,,,Take as needed.,True,,,
+15bebe28-e317-d6d9-29cf-3d74528228d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+17fca408-1a91-1c60-ad58-7869df2da63d,1,4,1.0,d,,False,ordered,Ordered,1.0
+f5659098-f5c8-bef4-9cdd-b86f5a0fb9f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+d7d393b4-ece6-8ff6-be17-a5ec8523f7f1,1,1,1.0,d,,False,ordered,Ordered,1.0
+7a171fff-20cb-ff69-5c48-c399b9246a0f,1,4,1.0,d,,False,ordered,Ordered,1.0
+13a257f5-5db6-0001-c0f7-647cc93fa64a,1,1,1.0,d,,False,ordered,Ordered,1.0
+87aa8059-0ce7-122f-cb45-f5057263ab2b,1,1,1.0,d,,False,ordered,Ordered,1.0
+6652061f-25b7-68f9-f28e-fd5af86fbaf8,1,4,1.0,d,,False,ordered,Ordered,1.0
+a599bf46-9752-2e2f-2931-4af8c8362cf2,1,1,1.0,d,,False,ordered,Ordered,1.0
+9239fcd5-d7f9-1329-0ab7-a528e70d3458,1,1,1.0,d,,False,ordered,Ordered,1.0
+f14e6354-880a-719b-9d6f-dfcbd4aa1e03,1,4,1.0,d,,False,ordered,Ordered,1.0
+598a36af-ced3-68fd-2c67-aab771ce01aa,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1261c81-41b5-d155-8345-c325bb5fda16,1,1,1.0,d,,False,ordered,Ordered,1.0
+f049cefb-12c9-a7c3-23b0-68e83716e979,1,4,1.0,d,,False,ordered,Ordered,1.0
+2b239f1f-c70b-0a17-4ce0-434846fe3378,1,1,1.0,d,,False,ordered,Ordered,1.0
+0a7d5b67-0d62-1a9f-7df8-bd1dc27f7d7e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a55a7d96-3635-f4d6-e51b-bbe2657d0e48,1,4,1.0,d,,False,ordered,Ordered,1.0
+279cd346-cf9d-8251-56c5-53e44ce5a8f5,1,1,1.0,d,,False,ordered,Ordered,1.0
+74f6adfd-b180-7d4a-b16e-8871ced5bee9,1,1,1.0,d,,False,ordered,Ordered,1.0
+4be7a1af-066e-de2b-b51d-2eb3071a5032,1,4,1.0,d,,False,ordered,Ordered,1.0
+e8956114-3947-285f-d105-c2fccf86b16e,1,1,1.0,d,,False,ordered,Ordered,1.0
+935fee4f-59b9-6b27-17d3-4b41d8062811,1,1,1.0,d,,False,ordered,Ordered,1.0
+b29eeceb-32db-206b-7311-e099874640ee,1,4,1.0,d,,False,ordered,Ordered,1.0
+510df511-5eb9-5593-7cf3-30ee77219729,1,1,1.0,d,,False,ordered,Ordered,1.0
+dc6b38b3-ad4d-11b9-f0ff-7198aea8cf7b,1,1,1.0,d,,False,ordered,Ordered,1.0
+37ab2059-0efb-19bf-6179-ae951b7dca13,1,4,1.0,d,,False,ordered,Ordered,1.0
+40b5f45c-b1f1-3eb8-8c78-f3eb3166fe4e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a028b701-5348-f219-a08d-71528e9e37b0,1,1,1.0,d,,False,ordered,Ordered,1.0
+09d210b3-998f-35f4-977b-7a71e65cbdd9,1,4,1.0,d,,False,ordered,Ordered,1.0
+aeb12362-29f7-fec3-6438-88bfd07a30b6,1,1,1.0,d,,False,ordered,Ordered,1.0
+094facf8-d6f2-9042-1b4b-b467e2d6d831,1,1,1.0,d,,False,ordered,Ordered,1.0
+09c32476-f5a1-a015-fe5f-6dabd417063d,1,4,1.0,d,,False,ordered,Ordered,1.0
+d8f88542-b455-389e-acc7-43512b093ee8,1,1,1.0,d,,False,ordered,Ordered,1.0
+ebf27d1b-2570-ea03-36cf-37afed48f607,1,1,1.0,d,,False,ordered,Ordered,1.0
+723a20a8-db2d-05a0-75f4-4a9c317a5bca,1,4,1.0,d,,False,ordered,Ordered,1.0
+07a21a70-6220-3804-0016-592e024fc688,1,1,1.0,d,,False,ordered,Ordered,1.0
+667a9218-080b-da44-303d-a7755c5a061e,1,1,1.0,d,,False,ordered,Ordered,1.0
+520dfb6d-b178-2caa-80f6-04eb1a0c430f,1,4,1.0,d,,False,ordered,Ordered,1.0
+8b9818d9-f2f3-0eef-8495-7aca2cd50a08,1,1,1.0,d,,False,ordered,Ordered,1.0
+f63775ba-c5d1-41e8-5ea5-e268059cd925,1,1,1.0,d,,False,ordered,Ordered,1.0
+b0288942-9ede-8188-59d7-3dc29d4473e8,1,4,1.0,d,,False,ordered,Ordered,1.0
+3575a121-011f-19d9-eb6f-12ff47143ffa,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d75b216-80a0-b801-c73d-05f81f074ead,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c7f0143-ce04-4aa1-dbd0-59e60614ce2d,1,4,1.0,d,,False,ordered,Ordered,1.0
+eb426659-3cd6-4852-6ea1-128a0866b818,1,1,1.0,d,,False,ordered,Ordered,1.0
+869ed11c-9cd0-cec4-774f-8ed9c80df8b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+290506aa-3130-1f03-80d0-6c63bf9d7606,1,4,1.0,d,,False,ordered,Ordered,1.0
+7836a620-39d4-b657-7b0c-2c680d3bda27,1,1,1.0,d,,False,ordered,Ordered,1.0
+29a49c59-1aab-e5c7-7a2b-673aecb3d03a,1,1,1.0,d,,False,ordered,Ordered,1.0
+5aaa3111-01d9-18a1-54dc-5c195b0a39fe,1,4,1.0,d,,False,ordered,Ordered,1.0
+514b49a1-893e-c0fc-b392-42970679be92,1,1,1.0,d,,False,ordered,Ordered,1.0
+2d1fa1a4-6179-adb8-b6e6-e96800636798,1,1,1.0,d,,False,ordered,Ordered,1.0
+8d88cd79-d4c8-939f-1208-4e9701496c16,1,4,1.0,d,,False,ordered,Ordered,1.0
+b994e60b-d2ac-1277-2f12-81a9a2a26ecd,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a4688a8-61e5-66b5-2965-57762dbd0ab5,1,1,1.0,d,,False,ordered,Ordered,1.0
+336c5da3-7a3f-8e9a-445e-b8020a486ea8,1,4,1.0,d,,False,ordered,Ordered,1.0
+5610215b-ca79-37e5-8c5e-d31f9912d2e3,1,1,1.0,d,,False,ordered,Ordered,1.0
+64b51722-b8b2-3d63-d501-cea0a302c70a,1,1,1.0,d,,False,ordered,Ordered,1.0
+5b891141-3eea-e18e-3618-a1f1296e759e,1,4,1.0,d,,False,ordered,Ordered,1.0
+f1a9e0e4-1e93-ebd1-b7e0-8d2ecd77d7d2,1,1,1.0,d,,False,ordered,Ordered,1.0
+a4956393-6929-52fb-4d08-507805e0287d,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9226f6f-cc51-da29-3ae8-fc5dc7cbb335,1,4,1.0,d,,False,ordered,Ordered,1.0
+5702f7f7-268c-ed06-f2a0-ceadd262412f,1,1,1.0,d,,False,ordered,Ordered,1.0
+40f5ca80-c5db-5194-b4e0-81f5f65fedaa,1,1,1.0,d,,False,ordered,Ordered,1.0
+3cc948bb-5637-f9c8-ecc2-0feda200b54b,1,4,1.0,d,,False,ordered,Ordered,1.0
+3720d068-d789-8faa-a417-6249e6b1a6cb,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c674d71-e609-7b6b-3760-4dff4e737345,1,1,1.0,d,,False,ordered,Ordered,1.0
+9f3cc9e3-8b89-cfce-e5d5-1ef74b7f4e3a,1,4,1.0,d,,False,ordered,Ordered,1.0
+81ac3e23-84fa-0f02-b9b5-ffc9e4d276be,1,1,1.0,d,,False,ordered,Ordered,1.0
+6b1a538d-03dd-936f-951f-2f21270121ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+35fb3bdd-d2d7-a2ae-4d14-d70a11788e2a,1,4,1.0,d,,False,ordered,Ordered,1.0
+e00a0fc7-ca53-f5c3-2a27-772b308408fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+fdeea237-a868-e6f2-d9df-f6cc1340b79f,1,1,1.0,d,,False,ordered,Ordered,1.0
+188971ef-7420-183b-daff-14e3566333e8,1,4,1.0,d,,False,ordered,Ordered,1.0
+18392374-c04c-6d93-a5ef-50acfd38f6bb,1,1,1.0,d,,False,ordered,Ordered,1.0
+b678984d-efac-29e1-1b6c-9f44c95f2ccc,1,1,1.0,d,,False,ordered,Ordered,1.0
+087d710a-3bee-f8b0-4243-209f341603d0,1,4,1.0,d,,False,ordered,Ordered,1.0
+f5d0efdb-1994-d493-5eb7-0196cadee135,1,1,1.0,d,,False,ordered,Ordered,1.0
+ea7abcc5-55be-004d-1321-9d27fda7a413,1,1,1.0,d,,False,ordered,Ordered,1.0
+342b4fa8-4837-094e-6238-ecab99e416c4,1,4,1.0,d,,False,ordered,Ordered,1.0
+a4399393-a018-ed42-651b-99c1760fb4ad,1,1,1.0,d,,False,ordered,Ordered,1.0
+2d90cb2f-4c33-e90f-36f0-c34ad36cec02,1,1,1.0,d,,False,ordered,Ordered,1.0
+546324ac-17b1-0b3a-24ef-89b1af42568d,1,4,1.0,d,,False,ordered,Ordered,1.0
+b7976da3-06ab-2475-d747-b403793f9636,1,1,1.0,d,,False,ordered,Ordered,1.0
+b8870642-c293-5d90-aeda-47028d9cc508,1,1,1.0,d,,False,ordered,Ordered,1.0
+65816725-5a1d-e1e3-36f1-1863d252cf5c,1,4,1.0,d,,False,ordered,Ordered,1.0
+1173db06-2277-7faf-73ab-08c60722e003,1,1,1.0,d,,False,ordered,Ordered,1.0
+11aac079-533b-ef19-7bec-a2f36629910e,1,1,1.0,d,,False,ordered,Ordered,1.0
+bbf36a7d-85b1-3010-7a4f-0e5e28b1362f,1,4,1.0,d,,False,ordered,Ordered,1.0
+ef1eb8c6-4ef0-9a06-9985-cce6f68a90bf,1,1,1.0,d,,False,ordered,Ordered,1.0
+fac19b7d-09c7-6648-68d5-accf027e3c43,1,1,1.0,d,,False,ordered,Ordered,1.0
+bc138024-8117-180a-e95f-40e388eedd25,1,4,1.0,d,,False,ordered,Ordered,1.0
+07d7aade-6948-0b8b-31b0-9e958179c7fe,1,1,1.0,d,,False,ordered,Ordered,1.0
+b3c5d8c7-aac2-e456-ce8d-fc5d45a472c4,1,1,1.0,d,,False,ordered,Ordered,1.0
+3ca62dd1-0005-2369-f3eb-f7ec7a00afce,1,4,1.0,d,,False,ordered,Ordered,1.0
+eda0a710-87c9-eb32-c5a9-517a7b32fd53,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4da6807-972f-c965-6729-7636a739a29a,1,1,1.0,d,,False,ordered,Ordered,1.0
+7bfacbca-08e3-b4b0-cbe0-23a439d25768,1,4,1.0,d,,False,ordered,Ordered,1.0
+69534b9d-da19-7af1-f96d-69229ed66401,1,1,1.0,d,,False,ordered,Ordered,1.0
+682b69f2-e984-d891-abb9-1dfcda794dfb,1,1,1.0,d,,False,ordered,Ordered,1.0
+f48213bb-96c7-f08e-abeb-4dfb25f3a84c,1,4,1.0,d,,False,ordered,Ordered,1.0
+3b4cfeee-c118-b866-6816-de4d3e5e88dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+620d8203-4b36-ccf3-3ebd-af1f464e2f56,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1460168-8829-e416-033b-70758aded138,1,4,1.0,d,,False,ordered,Ordered,1.0
+ebb230bb-b1f8-806c-b918-f7d311def487,1,1,1.0,d,,False,ordered,Ordered,1.0
+95959c9d-faf9-e336-0582-f6eb5227addf,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4f7163b-826f-3b50-2b6b-40e058fdfb20,1,4,1.0,d,,False,ordered,Ordered,1.0
+0ebbc597-7753-82f9-a86a-4f94aa74f23f,1,1,1.0,d,,False,ordered,Ordered,1.0
+be9ba18e-b8cb-09ef-0c26-0f88b92a04e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+c0223076-4502-4d5b-b41b-8a824265ba4a,1,4,1.0,d,,False,ordered,Ordered,1.0
+43c670cb-4121-eb14-dc34-6858edd95451,1,1,1.0,d,,False,ordered,Ordered,1.0
+85d3a6f1-f948-02f6-159f-b990d4f90867,1,,,,Take as needed.,True,,,
+4fa34b4d-1d97-eae6-eb27-db9911b98aba,1,1,6.0,h,,False,ordered,Ordered,1.0
+23424224-cb62-aced-a225-9ec21fbf785d,1,,,,Take as needed.,True,,,
+45b484dd-89e2-933c-6812-dcb7cae91dde,1,1,6.0,h,,False,ordered,Ordered,1.0
+0576ffd1-2a1f-a19a-dc14-cfe6d663bda7,1,2,1.0,d,,False,ordered,Ordered,1.0
+16bfc5c8-b212-5e63-7337-576177e0860c,1,,,,Take as needed.,True,,,
+def7529c-0cdb-b611-2d61-2e21066e3280,1,,,,Take as needed.,True,,,
+7cd6333c-0e37-2d5d-a09e-1c137eadc485,1,1,1.0,d,,False,ordered,Ordered,1.0
+873b2e0f-85d4-207b-a5c0-d87560ec45d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+94172c20-9554-79d8-e47f-fb6f3a6807c4,1,1,1.0,d,,False,ordered,Ordered,1.0
+6cf80549-bf1a-8110-54e5-aeda92065584,1,3,1.0,d,,False,ordered,Ordered,1.0
+5533c918-9d97-901a-edf2-9eed3745cb1e,1,,,,Take as needed.,True,,,
+83463602-1078-02d8-1d22-4e32c54fafc0,1,1,1.0,d,,False,ordered,Ordered,1.0
+9668e6ae-15de-129f-bcbd-18e81df96a02,1,1,1.0,d,,False,ordered,Ordered,1.0
+3efd19d7-f050-a6fa-1858-668d32f22258,1,1,1.0,d,,False,ordered,Ordered,1.0
+195b05e9-e342-c06c-6d46-d2f82e394665,1,1,1.0,d,,False,ordered,Ordered,1.0
+20c71404-d1c6-7ea4-011d-5a1348acb6e6,1,1,1.0,d,,False,ordered,Ordered,1.0
+acdcda99-0149-e6a2-2d40-af481c8d2c3a,1,1,1.0,d,,False,ordered,Ordered,1.0
+7711c4b0-6e1d-fb15-1a92-113f470ad323,1,1,1.0,d,,False,ordered,Ordered,1.0
+5d42b18e-a900-2a48-28a4-f4cce548a59d,1,4,1.0,d,,False,ordered,Ordered,1.0
+e1a28d94-9a93-d533-c029-a68e7e6da641,1,4,1.0,d,,False,ordered,Ordered,1.0
+24dfb4d2-2348-5c18-09fc-7d3335112a0b,1,1,1.0,d,,False,ordered,Ordered,1.0
+e445e45e-055c-c08a-c5e5-4223772daace,1,,,,Take as needed.,True,,,
+a32452ac-2545-6763-301b-92939fa79592,1,4,1.0,d,,False,ordered,Ordered,1.0
+235fe1de-d13f-a762-5f6f-255844a71a56,1,1,1.0,d,,False,ordered,Ordered,1.0
+6cb07a0b-d516-e029-594c-e665020ee04d,1,1,1.0,d,,False,ordered,Ordered,1.0
+a566cbbd-a7e0-43ff-2ff2-2588b0e9e77c,1,4,1.0,d,,False,ordered,Ordered,1.0
+e0a823c2-cec8-1c12-ac72-4f9d8fd20703,1,1,1.0,d,,False,ordered,Ordered,1.0
+329a617f-4d17-2c72-11a3-35fcf4ade142,1,4,1.0,d,,False,ordered,Ordered,1.0
+42997889-ff16-2d3d-1eba-f87453d5f8c2,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ff34e58-145b-ea9b-5b4e-27828485f9fd,1,4,1.0,d,,False,ordered,Ordered,1.0
+8abbdc36-d1a2-f9cf-45d4-65f0f6242b13,1,1,1.0,d,,False,ordered,Ordered,1.0
+778c25e0-3c30-0fa2-bdc2-63be1c83b3b1,1,4,1.0,d,,False,ordered,Ordered,1.0
+cb1fe433-b2f4-f8f7-042e-988b461e7104,1,1,1.0,d,,False,ordered,Ordered,1.0
+aa8aed84-eda7-e57a-58cc-0bba7ef36a86,1,4,1.0,d,,False,ordered,Ordered,1.0
+93a95c6c-0a24-9d14-ac09-f122ac9243b9,1,1,1.0,d,,False,ordered,Ordered,1.0
+ae34cc86-5b06-7024-018d-de9fdbe03c81,1,4,1.0,d,,False,ordered,Ordered,1.0
+2b15f793-7ede-7a89-c046-d729a8133e22,1,,,,Take as needed.,True,,,
+45c06e7d-07cc-dedf-0fcc-c2a7b87d8865,1,4,1.0,d,,False,ordered,Ordered,1.0
+576cad73-9e0b-125d-6744-c7f468195d2f,1,4,1.0,d,,False,ordered,Ordered,1.0
+e08d49f6-58ad-e3b6-e0ef-6cc6c053d75a,1,4,1.0,d,,False,ordered,Ordered,1.0
+e748207e-9688-2ac9-b243-1ae599f3e2a1,1,4,1.0,d,,False,ordered,Ordered,1.0
+466fc277-a47b-1ac4-239a-475fb578c8de,1,4,1.0,d,,False,ordered,Ordered,1.0
+879d69f3-c4fb-6de9-eb02-d8f7948e906a,1,4,1.0,d,,False,ordered,Ordered,1.0
+8ead8dc4-e835-cb93-f0f8-a99e50844e17,1,4,1.0,d,,False,ordered,Ordered,1.0
+8eb80bfa-ee91-9b41-e08f-0e3568c51d1d,1,4,1.0,d,,False,ordered,Ordered,1.0
+cbb242c5-8679-52b3-04f8-def531bd80df,1,4,1.0,d,,False,ordered,Ordered,1.0
+7b53e38a-c097-0029-4d9b-56af9f0bc2e7,1,,,,Take as needed.,True,,,
+61cb2d60-7817-7bd4-71ae-247e53ab99a9,1,1,1.0,d,,False,ordered,Ordered,1.0
+5f71ab65-2a3d-25d2-ae3f-6ca7ca43c193,1,1,1.0,d,,False,ordered,Ordered,1.0
+eeee01f5-ce8d-5c1c-e8df-c649162a23b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+35ccfcbc-4054-1188-c91b-e5e7e2898a3d,1,1,1.0,d,,False,ordered,Ordered,1.0
+b5deca81-8e17-5bfc-13d0-6748ce33dcbe,1,1,1.0,d,,False,ordered,Ordered,1.0
+15b4bfcc-0593-0e74-6dcd-1ba6c47e6f6f,1,1,1.0,d,,False,ordered,Ordered,1.0
+161c4fb0-1b5a-0e40-f590-0dc7fe571d41,1,1,1.0,d,,False,ordered,Ordered,1.0
+f9634d50-8ef3-2697-707a-3b8d920f2218,1,1,1.0,d,,False,ordered,Ordered,1.0
+04f86bcc-2996-9a79-5ba1-bdb5f9c4493e,1,1,1.0,d,,False,ordered,Ordered,1.0
+623cfb59-ceec-bf2d-5ec0-ba26b66cfa22,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef0eefb4-0c66-89fc-3058-537da6b59317,1,1,1.0,d,,False,ordered,Ordered,1.0
+9b36fe92-ec58-9a9f-0a33-5fbb9deb4b88,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c8189dd-e67a-bc9a-9fee-6cad73d0616b,1,1,1.0,d,,False,ordered,Ordered,1.0
+f89fadc5-0d0d-2fb7-a5a1-2184397032a7,1,1,1.0,d,,False,ordered,Ordered,1.0
+bb342b9b-f54e-0a14-3b19-6b007867abd2,1,1,1.0,d,,False,ordered,Ordered,1.0
+07083dd5-d5f6-404a-8f75-310897994c49,1,1,1.0,d,,False,ordered,Ordered,1.0
+0e1dbaa8-b1d4-27dd-0f9b-bba00d5b0a2a,1,1,1.0,d,,False,ordered,Ordered,1.0
+641f9bb8-ef28-346e-0b28-5d6f82bc0b99,1,1,1.0,d,,False,ordered,Ordered,1.0
+82910680-4dc9-367e-5cb9-80ad3c17e943,1,1,1.0,d,,False,ordered,Ordered,1.0
+555aa275-7e79-b3d3-68d1-f29e30564cc9,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9ca5d71-ad41-5572-230a-b43b972d9534,1,1,1.0,d,,False,ordered,Ordered,1.0
+5e36f997-4306-1d3f-c140-c1e8bd522171,1,1,1.0,d,,False,ordered,Ordered,1.0
+d71e0812-61fc-6c7e-d56f-56ee387b6915,1,1,1.0,d,,False,ordered,Ordered,1.0
+2816cce9-5db3-4af3-d7ec-c19a8aefc72a,1,1,1.0,d,,False,ordered,Ordered,1.0
+04c53e64-4908-4dc1-3d29-125fbe3d4e57,1,1,1.0,d,,False,ordered,Ordered,1.0
+3c919ec6-6a62-a00a-2c5b-64f83fcb6720,1,1,1.0,d,,False,ordered,Ordered,1.0
+b8146c47-7b50-f4c8-6880-5b335c6470b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+45406e67-8fdd-f173-5767-2e9131422f79,1,1,1.0,d,,False,ordered,Ordered,1.0
+f03928f8-7693-81c0-13da-1e2ee9904e95,1,1,1.0,d,,False,ordered,Ordered,1.0
+81099bf2-4bb3-33a6-6fc8-5de848d59a22,1,1,1.0,d,,False,ordered,Ordered,1.0
+1af6d4d6-c01b-7dee-b2be-1daa3edc548a,1,1,1.0,d,,False,ordered,Ordered,1.0
+cfc1faae-eae2-599a-c35c-155379b166ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+f745a7b3-3c35-0350-dac1-fe963a65fdf9,1,1,1.0,d,,False,ordered,Ordered,1.0
+70974a7d-492d-6424-ef55-9130aeffa2ae,1,1,1.0,d,,False,ordered,Ordered,1.0
+ea2d1dbc-5e6b-643f-ce6a-d40656968b1d,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1e776f8-733d-f5a5-3c12-576f0cfebd34,1,1,1.0,d,,False,ordered,Ordered,1.0
+69a9f753-49fa-a613-2d9f-65e1a1f3be48,1,1,1.0,d,,False,ordered,Ordered,1.0
+e379eaa4-7e7a-a0db-f01b-9b7cd17bf480,1,1,1.0,d,,False,ordered,Ordered,1.0
+229d360e-0d38-cd3b-5c52-a9d6e14d43b7,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce87936b-2de2-f532-885f-8eaeba2ebe8e,1,1,1.0,d,,False,ordered,Ordered,1.0
+232aed4c-be1a-280a-bde7-ce036ff3a36d,1,1,1.0,d,,False,ordered,Ordered,1.0
+72bb8b92-a442-174d-2f1f-4a59678441d1,1,1,1.0,d,,False,ordered,Ordered,1.0
+8105b630-ca5f-4d23-57b2-228e8de0e29e,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed075c0a-94b8-c20f-9499-2ee0235fd357,1,1,1.0,d,,False,ordered,Ordered,1.0
+26d536ca-8358-36f7-440e-ca0c29c61812,1,1,1.0,d,,False,ordered,Ordered,1.0
+763fc92f-36e4-197c-7126-eb922b48eb34,1,1,1.0,d,,False,ordered,Ordered,1.0
+617e4349-d2f8-44b6-6934-178376a0ab62,1,1,1.0,d,,False,ordered,Ordered,1.0
+76cf5569-ddf3-0788-0e51-a747fa0473c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+882fde86-e5d8-6fe8-ce1a-581d9f495ed0,1,1,1.0,d,,False,ordered,Ordered,1.0
+5ffe07da-d164-685e-e645-52c9d511e615,1,1,1.0,d,,False,ordered,Ordered,1.0
+04cf9aa9-b255-928c-e10a-5ba6c431193e,1,1,1.0,d,,False,ordered,Ordered,1.0
+ccf527cc-5583-222e-af32-07869ff9521e,1,1,1.0,d,,False,ordered,Ordered,1.0
+6491f867-7d69-4068-8ec0-0d5bf22a9946,1,1,1.0,d,,False,ordered,Ordered,1.0
+2019b2e7-a415-73f1-f403-bc0a30f2ff11,1,1,1.0,d,,False,ordered,Ordered,1.0
+0ab197ac-f557-f86f-1442-8f4044aa9f62,1,1,1.0,d,,False,ordered,Ordered,1.0
+210e094a-94a0-9435-730b-56cc1711869c,1,1,1.0,d,,False,ordered,Ordered,1.0
+85960481-5e4f-67f3-a27c-a1d57e8be2c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+2b30dc35-e74f-b8fa-dfd4-e80275a4323c,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b16da6d-4d99-883a-534b-9dbe41e1fb7c,1,1,1.0,d,,False,ordered,Ordered,1.0
+0fc4c590-972c-d15c-f3e0-9dd419ddbe3c,1,1,1.0,d,,False,ordered,Ordered,1.0
+c25cb063-88c6-3b03-f5e3-631debf3b2b5,1,1,1.0,d,,False,ordered,Ordered,1.0
+2ac62ecc-bb29-d72d-ab28-ee127e6f87d3,1,1,1.0,d,,False,ordered,Ordered,1.0
+38c342ad-5bb0-b0eb-bd51-6a69676e9c9b,1,1,1.0,d,,False,ordered,Ordered,1.0
+04488550-5397-cc08-086e-27b11533b7c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+3568ee1b-64f5-44a0-a214-94ea03573af0,1,1,1.0,d,,False,ordered,Ordered,1.0
+5cbdb4a3-fd1c-c551-1177-d5d8ae2770d1,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce49d3ed-fb87-678d-ac25-7a01a945c796,1,1,1.0,d,,False,ordered,Ordered,1.0
+500ef8d6-e414-255e-befa-9f9b6c9dfae5,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9f233ea-8e67-27c9-e722-74a25e955a59,1,1,1.0,d,,False,ordered,Ordered,1.0
+4a917f15-30d3-25e9-edb4-3ff1b545c141,1,1,1.0,d,,False,ordered,Ordered,1.0
+4cb958b8-e3e2-7b3c-6f36-2d05e39b75fe,1,1,1.0,d,,False,ordered,Ordered,1.0
+d306b082-17da-5fba-fdf6-d1fe9245b01b,1,1,1.0,d,,False,ordered,Ordered,1.0
+5f54b27d-9fef-bc13-4cf7-9ab1f021488c,1,1,1.0,d,,False,ordered,Ordered,1.0
+c74e435c-bad6-3b90-c7dc-ed804954bd62,1,1,1.0,d,,False,ordered,Ordered,1.0
+ea4cfbba-16fc-0265-6e66-bab24a072ad8,1,1,1.0,d,,False,ordered,Ordered,1.0
+c1426e52-1155-7850-861c-4f913054a8cd,1,1,1.0,d,,False,ordered,Ordered,1.0
+74b58461-d541-4726-8389-760cad762b57,1,1,1.0,d,,False,ordered,Ordered,1.0
+0ca4da1d-838e-3271-4025-0ba692ec3f27,1,1,1.0,d,,False,ordered,Ordered,1.0
+7eb7ff40-3f9d-7c4b-2a48-74892c8ab01f,1,1,1.0,d,,False,ordered,Ordered,1.0
+e04d2d67-cba7-18a6-322f-80c8a61cacd9,1,1,1.0,d,,False,ordered,Ordered,1.0
+f0556d88-8b35-063e-ef43-d7a492367c3e,1,1,1.0,d,,False,ordered,Ordered,1.0
+82304ede-0c03-b9cc-574b-8f0fd118abb9,1,1,1.0,d,,False,ordered,Ordered,1.0
+246704be-ea28-4285-bcac-19d34077a43f,1,1,1.0,d,,False,ordered,Ordered,1.0
+1199b98e-f848-1815-eaaf-c95fc3fb9811,1,1,1.0,d,,False,ordered,Ordered,1.0
+340a6af5-9d07-502b-416f-0d629508cc4f,1,1,1.0,d,,False,ordered,Ordered,1.0
+a1f4e44f-0ef2-4a7c-79f9-3b199009d799,1,1,1.0,d,,False,ordered,Ordered,1.0
+69422c42-3651-9bd8-5c7a-8b28273e869e,1,1,1.0,d,,False,ordered,Ordered,1.0
+8bc6515a-ba35-5456-b0f6-107913a701f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+f6c8a55d-b5d5-5e7f-951d-5f77994ac092,1,1,1.0,d,,False,ordered,Ordered,1.0
+6951142b-a09d-36ef-e7f9-adacd2cc7a03,1,1,1.0,d,,False,ordered,Ordered,1.0
+1fe0134a-f059-d3f6-9a2f-201661f3efbe,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b2fbe5c-8f4a-6932-74d4-3b322ed8bdca,1,1,1.0,d,,False,ordered,Ordered,1.0
+d79da3a3-ed54-3f43-244a-18870fa13fc5,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c55a036-264d-b970-0b07-0f1f68201847,1,1,1.0,d,,False,ordered,Ordered,1.0
+10db1bbd-62bf-3982-8aef-ec90053f2924,1,1,1.0,d,,False,ordered,Ordered,1.0
+09d49652-326b-00cc-f06e-1a25424a70d3,1,1,1.0,d,,False,ordered,Ordered,1.0
+b74b41f9-0244-3618-ec86-66f23ff05f41,1,1,1.0,d,,False,ordered,Ordered,1.0
+60cab170-d6e9-43e6-0ec8-58c77c7769a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+41eda56b-25ad-a819-5020-70687fd561b3,1,1,1.0,d,,False,ordered,Ordered,1.0
+406ad49d-931b-2cc7-f9ed-c4db137b9995,1,1,1.0,d,,False,ordered,Ordered,1.0
+d5089fb0-62d5-74f6-bb9b-6ae135d43cd3,1,1,1.0,d,,False,ordered,Ordered,1.0
+2015a585-2fc0-0a0c-8bed-83400920ed45,1,1,1.0,d,,False,ordered,Ordered,1.0
+b1d6ad0b-576c-a06b-81a9-6cf94db54583,1,1,1.0,d,,False,ordered,Ordered,1.0
+94166b0d-733e-bf55-e1b7-49dfb6377b4c,1,1,1.0,d,,False,ordered,Ordered,1.0
+1911b63b-9e49-52ef-2097-39e85db357d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3271b2e-1350-65f6-ab9d-b61e57ac63ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+14c9f14b-8df1-04bf-ceeb-aa46784f3366,1,1,1.0,d,,False,ordered,Ordered,1.0
+57c607fe-8693-0736-581b-0ccfd3b68096,1,1,1.0,d,,False,ordered,Ordered,1.0
+6cd03108-89d8-1a71-bd58-9e62b972d0ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+d0ef296e-47da-318f-ae88-fc13ebadcb2a,1,1,1.0,d,,False,ordered,Ordered,1.0
+df45e46d-3e3f-cce2-8994-e52222af9f08,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c93616b-fe42-87d2-71a2-1ae6bcf5b471,1,1,1.0,d,,False,ordered,Ordered,1.0
+f289f2fd-726d-5106-a826-972e367c6ffa,1,1,1.0,d,,False,ordered,Ordered,1.0
+7b179dc6-bbad-5c9a-6571-86ca621c0589,1,1,1.0,d,,False,ordered,Ordered,1.0
+e55682a6-2d69-5515-8c5b-46560e6d60d2,1,1,1.0,d,,False,ordered,Ordered,1.0
+a839d613-3470-34b5-7f12-2b7c5ae91000,1,1,1.0,d,,False,ordered,Ordered,1.0
+f14e31de-6c57-09f0-32de-e7ec0d51db1e,1,1,1.0,d,,False,ordered,Ordered,1.0
+791a06c0-f0a0-08cd-6612-80d7e461bbfe,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9085158-6843-33a1-9371-2df68a13c624,1,1,1.0,d,,False,ordered,Ordered,1.0
+03fe32c6-e245-adc0-83c7-13d7ec73ba29,1,1,1.0,d,,False,ordered,Ordered,1.0
+0bc350b2-2392-3444-7163-5cdb204eec36,1,1,1.0,d,,False,ordered,Ordered,1.0
+0b0bdd23-033f-f1d4-6953-f5d4de7a6f84,1,1,1.0,d,,False,ordered,Ordered,1.0
+22dcd98b-3c85-3a00-6f70-74036ce4bdc3,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d183fd8-b87c-dad5-1ecd-235144dbf95f,1,1,1.0,d,,False,ordered,Ordered,1.0
+5d9fa2fd-0528-e6a5-d4cd-a333bf5784a2,1,1,1.0,d,,False,ordered,Ordered,1.0
+3336002a-3252-7069-1719-c44963f62455,1,1,1.0,d,,False,ordered,Ordered,1.0
+835b7808-7f42-f7aa-49a6-aa2b590d0573,1,1,1.0,d,,False,ordered,Ordered,1.0
+89a14d04-7666-41b9-74f6-d7bb2570024d,1,1,1.0,d,,False,ordered,Ordered,1.0
+5048c215-3e20-90e5-f6e8-e29fc4caf076,1,1,1.0,d,,False,ordered,Ordered,1.0
+6109beed-f912-0da5-df9e-88bda4491e2b,1,1,1.0,d,,False,ordered,Ordered,1.0
+05152145-6418-2b13-f7ed-289578f33125,1,1,1.0,d,,False,ordered,Ordered,1.0
+72774006-03a0-3f0e-d872-b7481324e8f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+1e546d75-d948-141b-e80d-a65ece4caa6f,1,1,1.0,d,,False,ordered,Ordered,1.0
+a5fe54ff-2991-879c-239b-3542d6a8570e,1,1,1.0,d,,False,ordered,Ordered,1.0
+444998dd-8cec-991d-1d57-483110a641f9,1,1,1.0,d,,False,ordered,Ordered,1.0
+1ca6d9e5-70cb-9ae3-ddd0-1be911fee9b2,1,1,1.0,d,,False,ordered,Ordered,1.0
+926c6f4e-3eb5-f122-ed7b-a1f0e05749d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+26fd6429-5582-821a-aa28-b95ee0247829,1,1,1.0,d,,False,ordered,Ordered,1.0
+08d817b4-edc3-8c79-7d53-6351928db50b,1,1,1.0,d,,False,ordered,Ordered,1.0
+2d0da3da-937b-1d0c-747f-6f64cad6f84f,1,1,1.0,d,,False,ordered,Ordered,1.0
+eaff1d75-2dbe-cea6-a440-9f101e7120b4,1,1,1.0,d,,False,ordered,Ordered,1.0
+ba0ac0e3-b1ef-9988-d045-793d132a1875,1,1,1.0,d,,False,ordered,Ordered,1.0
+c76c02cd-81bc-fa83-78c1-e606e446902f,1,1,1.0,d,,False,ordered,Ordered,1.0
+a6ba5032-a6a6-cbcb-2651-854b79d5d830,1,1,1.0,d,,False,ordered,Ordered,1.0
+ad8e48bd-375d-3c82-ec25-b3a983f95b50,1,1,1.0,d,,False,ordered,Ordered,1.0
+bb32ae81-514a-05db-31ec-687100c4231a,1,1,1.0,d,,False,ordered,Ordered,1.0
+b3830a88-2803-be5c-78c4-b3d1af1cde93,1,1,1.0,d,,False,ordered,Ordered,1.0
+3cd237e2-d78d-80bd-8a19-afe046c53b41,1,1,1.0,d,,False,ordered,Ordered,1.0
+2fd62f0c-d754-3407-444a-985356604f56,1,1,1.0,d,,False,ordered,Ordered,1.0
+f5d98349-c224-e680-b3f4-c8ad651ac14d,1,1,1.0,d,,False,ordered,Ordered,1.0
+50980b6e-ad96-55ab-a2e2-dec0c3d5e5b6,1,1,1.0,d,,False,ordered,Ordered,1.0
+3e6adcfd-98db-d624-6bff-846a1aae37fd,1,1,1.0,d,,False,ordered,Ordered,1.0
+d0c263ae-e801-e16e-dcff-385979c17efd,1,1,1.0,d,,False,ordered,Ordered,1.0
+68c419d1-05b3-f2fe-bb91-4b87ea67c6de,1,1,1.0,d,,False,ordered,Ordered,1.0
+81a53c5a-6226-2e91-69c6-5eec3a1a8f39,1,1,1.0,d,,False,ordered,Ordered,1.0
+440f8290-887a-f026-637f-48da2e4e3e0c,1,1,1.0,d,,False,ordered,Ordered,1.0
+e7e76960-9c3a-5b86-3dca-a07f3fcba69a,1,1,1.0,d,,False,ordered,Ordered,1.0
+feb800a3-9297-354f-2536-1e45cf32adb9,1,1,1.0,d,,False,ordered,Ordered,1.0
+28a1e413-0b18-e6b8-2ba2-ed42b3a63e84,1,1,1.0,d,,False,ordered,Ordered,1.0
+aee4aa00-adc1-fa5f-d56a-4d289d783ebd,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef12c33b-dc04-a36a-1bc2-3e79e2af8642,1,1,1.0,d,,False,ordered,Ordered,1.0
+704659cc-24b1-0a1e-5845-3da8f9381633,1,1,1.0,d,,False,ordered,Ordered,1.0
+09d3896e-25fa-d88f-e03a-429b6c25743e,1,1,1.0,d,,False,ordered,Ordered,1.0
+1df2f498-9ada-f49e-c369-977e3e33c6c4,1,1,1.0,d,,False,ordered,Ordered,1.0
+568b3b50-c921-2a9e-0a81-dcdf8496017c,1,1,1.0,d,,False,ordered,Ordered,1.0
+784cc5c4-31c2-bf2e-bade-2a5aeba0ae91,1,1,1.0,d,,False,ordered,Ordered,1.0
+338d0034-3cdc-3bd1-52e3-72d601409c9a,1,1,1.0,d,,False,ordered,Ordered,1.0
+3df8adb5-3068-9a6a-f4c5-00c3646ab6b2,1,1,1.0,d,,False,ordered,Ordered,1.0
+b90b585e-1e78-65f7-62ba-9ec3510cd338,1,1,1.0,d,,False,ordered,Ordered,1.0
+72c564d7-5d53-fbd7-30e3-aa6dc078c3b3,1,1,1.0,d,,False,ordered,Ordered,1.0
+4c1c5ff5-e59c-b683-e510-7b0e65d8a368,1,1,1.0,d,,False,ordered,Ordered,1.0
+081d56c6-8b99-db17-d68d-e3d6514b897a,1,1,1.0,d,,False,ordered,Ordered,1.0
+cae53e6d-141c-39bf-119d-dfaa3a1ae535,1,1,1.0,d,,False,ordered,Ordered,1.0
+bfb0e060-7127-76d9-f797-9685a5a5cea6,1,1,1.0,d,,False,ordered,Ordered,1.0
+16896816-88ff-0638-bc25-9143cf2da917,1,1,1.0,d,,False,ordered,Ordered,1.0
+38a078e6-3742-b77c-d60c-354f03243c72,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f790a84-e505-f8a5-619c-3abd35fba114,1,1,1.0,d,,False,ordered,Ordered,1.0
+e8474748-aa3d-101a-67bc-f06fd37b34c5,1,1,1.0,d,,False,ordered,Ordered,1.0
+e73f388c-2ef1-bd47-407d-9395276e124b,1,1,1.0,d,,False,ordered,Ordered,1.0
+1a42f51e-10ba-82cc-0515-1319215e3cc4,1,1,1.0,d,,False,ordered,Ordered,1.0
+27c81a14-639c-8062-fba5-0569cd858ae8,1,1,1.0,d,,False,ordered,Ordered,1.0
+8d116afd-3967-1ea5-fe43-22547174e783,1,1,1.0,d,,False,ordered,Ordered,1.0
+210048fb-1218-7429-c6b2-546c9171db3c,1,1,1.0,d,,False,ordered,Ordered,1.0
+0af71bca-40ab-54de-8666-15fbb3a44827,1,1,1.0,d,,False,ordered,Ordered,1.0
+6a815e8e-8335-4d8e-8035-11491c7dd7db,1,1,1.0,d,,False,ordered,Ordered,1.0
+ac00f196-f952-0a71-2b7d-e8c39961b1aa,1,1,1.0,d,,False,ordered,Ordered,1.0
+fdff9a6c-f419-7dd4-6d2b-5eb8152abded,1,1,1.0,d,,False,ordered,Ordered,1.0
+27fc82f6-d195-1f47-5700-2081b195b3f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+11552809-a281-25fc-402f-fbea0010acc3,1,1,1.0,d,,False,ordered,Ordered,1.0
+2acee302-1b19-e8f2-7ec7-2ed651745388,1,,,,Take as needed.,True,,,
+7fed038e-2333-4541-5147-90899e6037a2,1,,,,Take as needed.,True,,,
+7aa892e0-c1dd-8535-f500-fe917c1a20f4,1,,,,Take as needed.,True,,,
+2a7ae1ab-ec3d-fabe-b41c-cec2bb199fe4,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3dca4b9-87f8-a570-1e60-c7a7777392a7,1,1,1.0,d,,False,ordered,Ordered,1.0
+42273176-f6b4-7a95-8ffb-bdfffd384988,1,1,1.0,d,,False,ordered,Ordered,1.0
+7b73ea73-f79f-e159-29a9-5d43cea117e5,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4aefaa2-a91d-b5c3-311e-b922d00101c7,1,1,1.0,d,,False,ordered,Ordered,1.0
+4031c2a7-9ec3-6063-fb66-34e516c3c169,1,1,1.0,d,,False,ordered,Ordered,1.0
+398481b4-32aa-9f4b-31e4-2e9cfb370c25,1,1,1.0,d,,False,ordered,Ordered,1.0
+82db398e-4495-b25b-bc71-296a47c39367,1,1,1.0,d,,False,ordered,Ordered,1.0
+c3711dc8-3356-7800-9f12-7a8deb9c0ca0,1,1,1.0,d,,False,ordered,Ordered,1.0
+f6e36b3f-66a1-1889-ed93-7eac3185d35f,1,1,1.0,d,,False,ordered,Ordered,1.0
+c96ea0e3-e029-efbe-6a5c-24bcdc40e3ab,1,1,1.0,d,,False,ordered,Ordered,1.0
+7bb7e4be-6e7b-ef35-933a-0d00020fea97,1,1,1.0,d,,False,ordered,Ordered,1.0
+2c66a4bc-f7ce-0fdc-e84b-b4962a6d005c,1,1,1.0,d,,False,ordered,Ordered,1.0
+e842413b-c6e8-a4fe-104d-afa5951054c2,1,1,1.0,d,,False,ordered,Ordered,1.0
+f18ae86c-e171-7b3a-e7bb-6749cc1b4446,1,1,1.0,d,,False,ordered,Ordered,1.0
+cb375ddf-3f7c-d327-90cd-97fe8895607b,1,,,,Take as needed.,True,,,
+39081225-6c2d-9623-520a-1f696520880c,1,1,1.0,d,,False,ordered,Ordered,1.0
+15ee0246-01a5-b2f0-0948-116b72a7f311,1,1,1.0,d,,False,ordered,Ordered,1.0
+8f3ced3f-9d40-2970-0fbe-6f8b76471e73,1,1,1.0,d,,False,ordered,Ordered,1.0
+8129d118-340e-4e09-50c4-d583998396f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+c0bb6213-787a-06ac-3b7a-7c021b9c5b89,1,1,1.0,d,,False,ordered,Ordered,1.0
+1fcc9793-9ccd-03af-a0a3-6d2b3db56bb2,1,1,1.0,d,,False,ordered,Ordered,1.0
+8e59d6a3-68f9-90cd-7281-2c42d87205bd,1,1,1.0,d,,False,ordered,Ordered,1.0
+fbc0015a-0609-3542-e9eb-be9ebbc06ce1,1,1,1.0,d,,False,ordered,Ordered,1.0
+1723650d-263f-2d2f-4cc1-010d1cddbe8b,1,1,1.0,d,,False,ordered,Ordered,1.0
+47a591d6-0ea6-9e76-d20b-f1bfc89de178,1,1,1.0,d,,False,ordered,Ordered,1.0
+5697079e-1c58-6abc-93d4-6f96766f35fa,1,1,1.0,d,,False,ordered,Ordered,1.0
+340c4d73-85c6-6d14-c88d-31af62d85715,1,1,1.0,d,,False,ordered,Ordered,1.0
+7b11684d-8e38-9aa6-3751-64f02432541d,1,1,1.0,d,,False,ordered,Ordered,1.0
+53fe10a6-ae0f-fc30-08a8-fa7a75a9cd75,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c87ea2b-a1f0-7ada-e25f-750c4f4d0275,1,1,1.0,d,,False,ordered,Ordered,1.0
+00fb6358-2cb8-877e-9ab8-9c74245d920b,1,1,1.0,d,,False,ordered,Ordered,1.0
+e12bd4b6-1840-7d14-121f-be6707849d00,1,1,1.0,d,,False,ordered,Ordered,1.0
+15e973cd-fefc-ddae-e3cf-c63a7c4456e9,1,1,1.0,d,,False,ordered,Ordered,1.0
+713abf64-2792-6383-50a4-0b0c5f8d10db,1,,,,Take as needed.,True,,,
+3bea01a4-ebba-b723-ecf5-03086febcafb,1,,,,Take as needed.,True,,,
+777df78f-0605-c929-b920-cead70060e93,1,,,,Take as needed.,True,,,
+dce12003-ecda-0127-e50b-b0bdcbe7aa67,1,,,,Take as needed.,True,,,
+b8731ec9-22d6-82c1-85f4-950e25d7a023,1,1,1.0,d,,False,ordered,Ordered,1.0
+d553923c-3779-4903-322d-5c5b081a9b86,1,1,1.0,d,,False,ordered,Ordered,1.0
+410f2f8b-7a3b-387f-7758-8aa89b6e3ebd,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c846acb-8003-be2e-f928-ac21af70438c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6a70b5dc-9ceb-3a9d-f382-655c3527005c,1,1,1.0,d,,False,ordered,Ordered,1.0
+1bbf28c1-1961-5ed3-b222-97ed971e9b9f,1,1,1.0,d,,False,ordered,Ordered,1.0
+e15965e1-6cfa-1c14-22bd-59ed061c872c,1,1,1.0,d,,False,ordered,Ordered,1.0
+134d30e1-25f6-ca9e-b9c1-07737532656f,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c3bba33-f50a-424e-afb1-b6c3b0c859ba,1,1,1.0,d,,False,ordered,Ordered,1.0
+e4ffc7d3-ddf4-bfb6-2a10-4d49933669af,1,1,1.0,d,,False,ordered,Ordered,1.0
+e604ee1e-a975-4618-5656-984be12d2ca9,1,1,1.0,d,,False,ordered,Ordered,1.0
+cb7a6348-2e22-6a0a-4eb0-79162da5543e,1,1,1.0,d,,False,ordered,Ordered,1.0
+7377e99d-ffa2-713c-ba84-a01e8c9fd662,1,1,1.0,d,,False,ordered,Ordered,1.0
+e5c1354b-a010-53fb-275b-f5c179faab8f,1,,,,Take as needed.,True,,,
+8e384367-3413-6397-b3ca-7c1c1c2bf12f,1,1,1.0,d,,False,ordered,Ordered,1.0
+3f21efbc-b380-08b8-076c-9872f478e7d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+5ceb3932-fd4c-f8f6-9cd5-2c419c1e1936,1,,,,Take as needed.,True,,,
+c0670880-1c65-2558-c940-4ec2b639ecf7,1,4,1.0,d,,False,ordered,Ordered,1.0
+99178a9e-c6a1-34de-cdd3-9b72944de0cf,1,4,1.0,d,,False,ordered,Ordered,1.0
+aa8b1e50-e3ee-1565-0e5e-368a58481c49,1,4,1.0,d,,False,ordered,Ordered,1.0
+2cba6024-2106-a8cc-02d4-f9387f95c978,1,4,1.0,d,,False,ordered,Ordered,1.0
+6aca91c0-edd0-b958-0ed5-58191023e772,1,4,1.0,d,,False,ordered,Ordered,1.0
+da40eae1-a4d5-6276-aaf6-941e75107652,1,4,1.0,d,,False,ordered,Ordered,1.0
+feb8b1b3-4669-e7cd-0baf-8b487069701b,1,4,1.0,d,,False,ordered,Ordered,1.0
+95f7859a-b4c9-2a3a-527d-f3c0467da43f,1,4,1.0,d,,False,ordered,Ordered,1.0
+98a9e84c-f5ad-cbcc-ef5a-baacf2472aa8,1,4,1.0,d,,False,ordered,Ordered,1.0
+69addb29-a575-12d0-6c82-8bd98202de65,1,4,1.0,d,,False,ordered,Ordered,1.0
+b441d92d-00a2-816f-c325-8c882bc33da4,1,1,1.0,d,,False,ordered,Ordered,1.0
+5b325ade-a530-4caa-ed81-c25ac516f474,1,1,1.0,d,,False,ordered,Ordered,1.0
+1ace91b7-5879-f21e-9d4d-517dec0a80c6,1,1,1.0,d,,False,ordered,Ordered,1.0
+f9cc07fe-0129-52f8-822b-63060a359116,1,1,1.0,d,,False,ordered,Ordered,1.0
+ead6363a-f755-5eed-b1d0-f9b73794c850,1,1,1.0,d,,False,ordered,Ordered,1.0
+fa549173-221c-6d69-54b3-f5ed4e799a2f,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7cfa3b7-f3db-3268-d5c2-bad18054131e,1,1,1.0,d,,False,ordered,Ordered,1.0
+e97ef001-91e6-7c47-8217-ad92fb87809a,1,1,1.0,d,,False,ordered,Ordered,1.0
+61b1329e-5ac7-50e4-c1e2-46d73b482834,1,1,1.0,d,,False,ordered,Ordered,1.0
+01b3b3f0-96c9-27e6-b847-700bd5386078,1,,,,Take as needed.,True,,,
+83c6313d-9316-7862-db50-4967e01f4f3b,1,,,,Take as needed.,True,,,
+20e62778-55f2-e1ef-314c-3b93674b1399,1,,,,Take as needed.,True,,,
+674a8f17-f827-1baf-4ace-899b17d0503e,1,,,,Take as needed.,True,,,
+8319849c-d94e-6ef0-f445-bbdc9479dbca,1,,,,Take as needed.,True,,,
+96ba1f9e-3ecf-bad9-5029-52a9f99a0c2c,1,1,1.0,d,,False,ordered,Ordered,1.0
+e46e424a-ca22-f4c1-4218-873cb4a4e7c7,1,1,1.0,d,,False,ordered,Ordered,1.0
+7713be20-953f-a6e0-4007-ae8888313921,1,1,1.0,d,,False,ordered,Ordered,1.0
+f2e8fa16-d2e9-195f-19cf-24864691065f,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f115fcc-b573-3c9e-421f-9d04cd8c0016,1,1,1.0,d,,False,ordered,Ordered,1.0
+0388aec4-2739-8249-20b9-49e4c078dc3c,1,1,1.0,d,,False,ordered,Ordered,1.0
+868aa7c6-32b5-278f-f509-47cdae51309e,1,1,1.0,d,,False,ordered,Ordered,1.0
+3e6854cc-1277-c99b-79b3-6f4f1e45bbce,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f37f99d-e51d-79e9-afa7-0a6295284a64,1,1,1.0,d,,False,ordered,Ordered,1.0
+36c593cd-7a73-ab23-a0b6-7698cecebbe1,1,1,1.0,d,,False,ordered,Ordered,1.0
+9818e1ea-bb94-e105-b369-8cc016408c1f,1,1,1.0,d,,False,ordered,Ordered,1.0
+cf6729a6-084c-a559-703f-bf6890778351,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1ac13e9-6f38-e4a6-8b2b-e917866cee73,1,1,1.0,d,,False,ordered,Ordered,1.0
+c2a7b942-e685-9181-1d87-915bde6583e1,1,1,1.0,d,,False,ordered,Ordered,1.0
+6ebd8e85-ccf1-bfd3-8675-e871204971ab,1,1,1.0,d,,False,ordered,Ordered,1.0
+80e21ad9-8b00-f823-d124-744b8fd07911,1,1,1.0,d,,False,ordered,Ordered,1.0
+c0939a99-dddf-2b4f-6c28-acdf07071534,1,,,,Take as needed.,True,,,
+a655ad56-dca9-c872-a351-ca02fcfc5e24,1,1,1.0,d,,False,ordered,Ordered,1.0
+7eff3c59-2a5b-ce7f-da63-01dc99d04c4d,1,,,,Take as needed.,True,,,
+1106268c-2aef-9c21-9f67-1ea3b0605a2e,1,1,1.0,d,,False,ordered,Ordered,1.0
+782c09c6-241c-4275-821c-cad111f9ed90,1,,,,Take as needed.,True,,,
+6278ac5b-4f71-2900-e44f-370754c8e13f,1,,,,Take as needed.,True,,,
+fb72a8c2-5964-dd38-be44-5c3930a8ee82,1,1,1.0,d,,False,ordered,Ordered,1.0
+7e84734c-5791-efef-373d-244474e9c85b,1,,,,Take as needed.,True,,,
+019b590e-0a9c-b53e-3e16-75dc4bec0441,1,1,1.0,d,,False,ordered,Ordered,1.0
+1d08cf95-d6ba-aee3-16da-86475631fbe8,1,,,,Take as needed.,True,,,
+9aeee7f8-4bc3-3bd6-8c6e-9004399cc87b,1,,,,Take as needed.,True,,,
+c0fc10f6-0bfb-7154-9c94-c415b4f939c1,1,,,,Take as needed.,True,,,
+1c9c948e-653f-310c-6ad5-429bd61ecebe,1,,,,Take as needed.,True,,,
+dcacaba3-f6a1-1dab-e087-885c736a42f4,1,1,1.0,d,,False,ordered,Ordered,1.0
+d09c40a8-9408-99f0-2039-104f31ddb9d2,1,,,,Take as needed.,True,,,
+15b82008-4299-a886-4319-635256c0397a,1,1,1.0,d,,False,ordered,Ordered,1.0
+13752bdb-282e-5da9-81eb-469b54fa85c4,1,1,1.0,d,,False,ordered,Ordered,1.0
+e7894236-197d-20b8-b015-16e0fc30973d,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6442b20-0fca-5e1c-4aea-dcf8e08f994c,1,1,1.0,d,,False,ordered,Ordered,1.0
+2aa9475c-fe65-a7fc-9a02-4e9af47449ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+0091f706-0043-e41f-054b-4749078f5bb0,1,1,1.0,d,,False,ordered,Ordered,1.0
+843da1e4-f43a-6da0-88b1-2c88ed50bdd3,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c18d07e-7613-8076-3d60-f9ec14f8ba13,1,1,1.0,d,,False,ordered,Ordered,1.0
+08009b17-83cb-b7d2-b5f4-ad4495e65094,1,1,1.0,d,,False,ordered,Ordered,1.0
+7cdcb3f5-0650-c9b3-9080-a5c8e02a5ddd,1,1,1.0,d,,False,ordered,Ordered,1.0
+d6dbcef4-0a00-eaf7-008b-a639bc59d948,1,1,1.0,d,,False,ordered,Ordered,1.0
+209cd559-f965-6995-781a-16dd128378e6,1,1,1.0,d,,False,ordered,Ordered,1.0
+110a2bc0-ef5f-5d97-0f5c-a63eb40695e5,1,1,1.0,d,,False,ordered,Ordered,1.0
+01ba4c11-0c8a-d823-a58b-3aed2d3cb848,1,1,1.0,d,,False,ordered,Ordered,1.0
+f162e9fc-bd10-3b6a-417d-51580ecd05de,1,1,1.0,d,,False,ordered,Ordered,1.0
+50bb10f7-76f5-a8d1-10b2-2ab1cadbd0a7,1,1,1.0,d,,False,ordered,Ordered,1.0
+285af661-2252-14dc-782e-e6aaa6b63e2f,1,1,1.0,d,,False,ordered,Ordered,1.0
+8ce52a6d-8096-9396-fcf0-193cd3e586fa,1,1,1.0,d,,False,ordered,Ordered,1.0
+ffca1884-8e15-6f22-59e6-bf289528f71e,1,1,1.0,d,,False,ordered,Ordered,1.0
+f7da91b4-dd55-fa46-9289-0f5c0d1d5856,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff61655e-4d4e-ac9b-a77f-0a53a19419f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+e73c4c32-f2f4-9880-fef4-5dbed46fc899,1,1,1.0,d,,False,ordered,Ordered,1.0
+e4cbb10a-7a63-36e2-647b-a78447d013bd,1,1,1.0,d,,False,ordered,Ordered,1.0
+5e30efbc-cd5e-b6da-38e5-c8a0355d170a,1,1,1.0,d,,False,ordered,Ordered,1.0
+bd3be5ab-aeec-e1f5-3414-51d393aefd73,1,1,1.0,d,,False,ordered,Ordered,1.0
+0128feee-b35e-2d58-fd76-1b9ea9f886f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd6b7fa9-0d20-c748-863b-d250c3c91d4e,1,1,1.0,d,,False,ordered,Ordered,1.0
+3510dc13-3462-22c4-4f6c-36d9d626b0e3,1,1,1.0,d,,False,ordered,Ordered,1.0
+cf0b8d65-af0c-0659-69a1-37512dd6d4a1,1,1,1.0,d,,False,ordered,Ordered,1.0
+06361598-ca1e-ab01-7bd3-f88ff1ad4200,1,1,1.0,d,,False,ordered,Ordered,1.0
+3466c867-a5ed-9982-e3f7-c3659c434b33,1,1,1.0,d,,False,ordered,Ordered,1.0
+fb73764d-694a-1fd9-1eaa-4d10de020374,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3e0884b-7a5a-6b59-bf70-c5b2155c962b,1,1,1.0,d,,False,ordered,Ordered,1.0
+c012cce9-c327-7500-6418-795158643eee,1,1,1.0,d,,False,ordered,Ordered,1.0
+9a3a44c2-eb4a-9009-b7da-a293a4032c57,1,1,1.0,d,,False,ordered,Ordered,1.0
+af5907c0-4b71-91e2-9443-df4dfef4451b,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c5072c6-5748-4f7d-4fde-f520e7ecc5d8,1,1,1.0,d,,False,ordered,Ordered,1.0
+00a230ef-8390-d828-4047-ed5107b68e1c,1,1,1.0,d,,False,ordered,Ordered,1.0
+487585be-8508-f85f-e44d-ff6f55275dff,1,1,1.0,d,,False,ordered,Ordered,1.0
+1694ee85-cfa6-c2e0-b5df-5edd7c7ddee3,1,1,1.0,d,,False,ordered,Ordered,1.0
+bfc2ac11-3853-2a74-c719-23a9778d6ef6,1,1,1.0,d,,False,ordered,Ordered,1.0
+2e03fbce-ac85-9f70-74cb-b9064b5ce8e1,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff08fc3c-0b34-b86b-ff11-c735fbb663fd,1,1,1.0,d,,False,ordered,Ordered,1.0
+d957ce02-fed9-2ef1-f032-6f3bd3e3c45d,1,1,1.0,d,,False,ordered,Ordered,1.0
+b3f6fe5b-496f-f149-b7df-63c725aed3dd,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4f3dd37-96c9-f8c0-51dd-0d95710dfe03,1,1,1.0,d,,False,ordered,Ordered,1.0
+988c12f5-411f-ffa0-d67a-955355ad578b,1,1,1.0,d,,False,ordered,Ordered,1.0
+11b4c070-d7ff-254d-1612-86db600cb48c,1,1,1.0,d,,False,ordered,Ordered,1.0
+82152204-70a8-da0a-12f7-ec63cfd14457,1,1,1.0,d,,False,ordered,Ordered,1.0
+e38ca42e-de69-5e18-d03b-e7483c515561,1,1,1.0,d,,False,ordered,Ordered,1.0
+72b5dd33-570b-dfd4-ab3e-362bfe1ba555,1,1,1.0,d,,False,ordered,Ordered,1.0
+925bbda3-e8fc-52d5-063e-a196c56f74bb,1,1,1.0,d,,False,ordered,Ordered,1.0
+74b71a1d-b8e7-6907-b0d3-1eb6797e4034,1,1,1.0,d,,False,ordered,Ordered,1.0
+883b254a-667c-23e4-cc5c-0deea84ca13f,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef100148-1def-affb-7f8a-864294ad8ea0,1,1,1.0,d,,False,ordered,Ordered,1.0
+104a320c-4661-866c-501b-c3894718303d,1,1,1.0,d,,False,ordered,Ordered,1.0
+8645a775-d092-9da7-efdc-8af4013ab7b5,1,1,1.0,d,,False,ordered,Ordered,1.0
+bf58b39f-0b0a-acdc-72d1-0494e41f5250,1,1,1.0,d,,False,ordered,Ordered,1.0
+dff6daa6-4b99-7491-80dc-acc2a74d21db,1,1,1.0,d,,False,ordered,Ordered,1.0
+2287a344-c20d-20ea-c6a2-76e56f6b8c69,1,1,1.0,d,,False,ordered,Ordered,1.0
+c83e8d87-f296-8cfe-fdd7-6a83985e8536,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a07e3a0-782e-4d98-144e-7f7c76491bd3,1,1,1.0,d,,False,ordered,Ordered,1.0
+df853698-c70b-8882-abbc-fa3244a054d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+a83fa77f-768f-8f78-10be-c414bfc9b77d,1,1,1.0,d,,False,ordered,Ordered,1.0
+639d319d-6e60-8724-015a-509795dbf064,1,1,1.0,d,,False,ordered,Ordered,1.0
+a618520e-afb5-caae-8cb7-ad1cee1a4c3c,1,1,1.0,d,,False,ordered,Ordered,1.0
+9db2910b-ed9d-c82b-d002-823fe5191333,1,1,1.0,d,,False,ordered,Ordered,1.0
+1a88f422-9d91-b46f-65cb-fdb38391d680,1,1,1.0,d,,False,ordered,Ordered,1.0
+42d87d33-3e62-00a4-7ca9-ada56e27b3ee,1,1,1.0,d,,False,ordered,Ordered,1.0
+8dc9cf81-116c-966b-8229-98adc4c2d104,1,1,1.0,d,,False,ordered,Ordered,1.0
+884c5df9-8c97-3da1-b955-f9c05fadee03,1,1,1.0,d,,False,ordered,Ordered,1.0
+c82294e2-ecea-9b6a-cc76-ab1c61700963,1,1,1.0,d,,False,ordered,Ordered,1.0
+95f5138c-669b-6ebc-e48a-5523cbdad8ab,1,1,1.0,d,,False,ordered,Ordered,1.0
+1154e6b1-914b-849c-d529-e46439b53b07,1,1,1.0,d,,False,ordered,Ordered,1.0
+3dffd38c-9211-3642-19cf-f308c28c9916,1,1,1.0,d,,False,ordered,Ordered,1.0
+72292dd2-456c-e925-672a-221d251b7768,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7027427-253d-5a5e-9c2f-9069d9f65e43,1,1,1.0,d,,False,ordered,Ordered,1.0
+4dc808b1-6c79-66ad-3251-0b2a67af155f,1,1,1.0,d,,False,ordered,Ordered,1.0
+d10e2297-8940-7cc5-2540-041bd95247af,1,1,1.0,d,,False,ordered,Ordered,1.0
+7bd24007-fd1f-0cb9-0a2e-076b2ac950fa,1,1,1.0,d,,False,ordered,Ordered,1.0
+030f0fb9-058d-9268-1e5d-80ab8219dc6b,1,1,1.0,d,,False,ordered,Ordered,1.0
+91656cf8-794e-5769-6786-980128e3dcdd,1,1,1.0,d,,False,ordered,Ordered,1.0
+77d7cdc7-e101-dd68-36af-30977c1e7d9c,1,1,1.0,d,,False,ordered,Ordered,1.0
+f1169ab0-a122-1d59-0f5a-faefddf13e76,1,1,1.0,d,,False,ordered,Ordered,1.0
+40eca5b4-38a0-1c64-4c58-fa216e4571fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+76fd6f05-7993-671d-c39e-bc25a4555594,1,1,1.0,d,,False,ordered,Ordered,1.0
+66bff019-598c-2591-e810-5a0d3e6b4f4c,1,1,1.0,d,,False,ordered,Ordered,1.0
+d9d653d2-0591-d956-acd6-21dce0b5a9dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+7acb92a9-3bea-3a2a-b7bb-8335da111649,1,1,1.0,d,,False,ordered,Ordered,1.0
+67baace0-721f-882e-651d-83b21730097c,1,1,1.0,d,,False,ordered,Ordered,1.0
+7d0dbafa-a1f0-057b-d080-ef64ff23ab63,1,1,1.0,d,,False,ordered,Ordered,1.0
+525f5d4d-b50c-a3a4-6e97-c013664f1e28,1,1,1.0,d,,False,ordered,Ordered,1.0
+be26383c-e128-6e59-82d2-ca0df0e5a92f,1,1,1.0,d,,False,ordered,Ordered,1.0
+9aeba7dd-8cdc-7e48-3cd4-4187cb90b5ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+a33b308f-9015-5fe9-258d-8ce823a4c3bc,1,1,1.0,d,,False,ordered,Ordered,1.0
+86aaaad9-25eb-92ec-5252-b1847df96981,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9631801-b4cf-eb59-ce12-703e42701ec8,1,1,1.0,d,,False,ordered,Ordered,1.0
+588c22f5-aa81-eee2-9187-ff34a8646904,1,1,1.0,d,,False,ordered,Ordered,1.0
+fe01824a-abf5-9634-a0c1-cda8513f1abc,1,1,1.0,d,,False,ordered,Ordered,1.0
+f19fade5-a470-96c2-b71a-179ce3fb061c,1,1,1.0,d,,False,ordered,Ordered,1.0
+983a07de-ad82-aa04-5c7e-7ef1a4013c2b,1,1,1.0,d,,False,ordered,Ordered,1.0
+910ffed1-a4af-6d06-7049-ee51f373656a,1,1,1.0,d,,False,ordered,Ordered,1.0
+4a47fa2f-2c5a-3491-0740-7d0d2cf2c310,1,1,1.0,d,,False,ordered,Ordered,1.0
+89b8e34f-4782-9961-3799-f06206b483de,1,1,1.0,d,,False,ordered,Ordered,1.0
+ef886d8e-930b-5481-17aa-957c88f73015,1,1,1.0,d,,False,ordered,Ordered,1.0
+75e705c4-aef1-cda8-7f59-bb3715d4d68a,1,1,1.0,d,,False,ordered,Ordered,1.0
+a7cee60e-67ed-b4bf-a7f1-7163d37811eb,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c666395-5a35-0552-fd78-eb0b4fcec0bc,1,1,1.0,d,,False,ordered,Ordered,1.0
+fd6c6273-5985-bcce-7730-bb5a244845d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+d2adf020-e983-4c15-7811-bb5db8659d23,1,1,1.0,d,,False,ordered,Ordered,1.0
+1e69b3fa-6d21-fc92-121c-81df06940efb,1,1,1.0,d,,False,ordered,Ordered,1.0
+40cd0dc9-e508-71e5-7dc9-131c3d3bd307,1,1,1.0,d,,False,ordered,Ordered,1.0
+091181f7-5fd0-c8a4-ab86-d1d555b9f001,1,1,1.0,d,,False,ordered,Ordered,1.0
+018dde0d-791c-68e5-1c55-a75ebfa699ae,1,1,1.0,d,,False,ordered,Ordered,1.0
+e1d95a99-3a67-2910-ae70-cf6557768680,1,1,1.0,d,,False,ordered,Ordered,1.0
+132dd93e-97d3-a7f1-97c6-d790d374a341,1,1,1.0,d,,False,ordered,Ordered,1.0
+e229865b-dcb4-d52d-1fbb-70329adc35ee,1,1,1.0,d,,False,ordered,Ordered,1.0
+db7860ed-fd78-9ab3-8a81-645aca5dded8,1,1,1.0,d,,False,ordered,Ordered,1.0
+9be960e8-300e-2bbd-7b20-fe9a10b44ddd,1,1,1.0,d,,False,ordered,Ordered,1.0
+c9e5e6b6-8bbc-d88d-e898-a84112333f17,1,1,1.0,d,,False,ordered,Ordered,1.0
+ed0f199d-1458-8c56-f98c-c964b4fb00f9,1,1,1.0,d,,False,ordered,Ordered,1.0
+53b45041-bac7-faf1-6d51-4fb530d88265,1,1,1.0,d,,False,ordered,Ordered,1.0
+719e9221-9bb7-9a8f-e765-9cd1e8dca532,1,1,1.0,d,,False,ordered,Ordered,1.0
+eeb5b562-96d0-aeca-2230-750b9771e992,1,1,1.0,d,,False,ordered,Ordered,1.0
+c01423fe-d45b-01c3-ff53-d595b0490318,1,1,1.0,d,,False,ordered,Ordered,1.0
+9815ba78-0ece-091e-9527-0cc4b9ce535b,1,1,1.0,d,,False,ordered,Ordered,1.0
+ea55f8cc-c9aa-a8e0-64e9-cd1402941914,1,1,1.0,d,,False,ordered,Ordered,1.0
+4bc91433-6e43-bcd7-616f-2b2f20388d87,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c274be6-d963-cc20-515c-141587c3a425,1,1,1.0,d,,False,ordered,Ordered,1.0
+88584dfa-e747-83cb-8051-8e3501aa5369,1,1,1.0,d,,False,ordered,Ordered,1.0
+1dad0fdc-551a-08c1-f1fc-4d176cae57ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+4736764d-db4a-9f88-d532-0b3ca83a2c3d,1,1,1.0,d,,False,ordered,Ordered,1.0
+cae84049-d8fc-f0fe-1b55-986508e8debd,1,1,1.0,d,,False,ordered,Ordered,1.0
+aea80f3a-e8bf-3254-bb72-8323e133230a,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4745acc-86c3-7789-7aba-bdeff080128c,1,1,1.0,d,,False,ordered,Ordered,1.0
+ec10ec5a-95d0-fa2c-fb42-dedb254ab37b,1,1,1.0,d,,False,ordered,Ordered,1.0
+44ea83cd-54df-a6a3-47bf-506f66e26974,1,1,1.0,d,,False,ordered,Ordered,1.0
+fef87bc2-2586-3096-c952-5b2652bb403e,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f6fb650-82ea-a2ae-887b-3beda46fb544,1,1,1.0,d,,False,ordered,Ordered,1.0
+c053ab62-3d2d-2830-1a83-195fbdf87d20,1,1,1.0,d,,False,ordered,Ordered,1.0
+938fb60c-9ea9-f4cb-71e3-c0f29741c11f,1,1,1.0,d,,False,ordered,Ordered,1.0
+3a1f2034-1a97-725d-aca0-ed0290a6dc32,1,1,1.0,d,,False,ordered,Ordered,1.0
+9132b606-5087-797a-5a5c-8f3f58ac1845,1,1,1.0,d,,False,ordered,Ordered,1.0
+b21b6058-f339-ba02-f2d2-815842b36feb,1,1,1.0,d,,False,ordered,Ordered,1.0
+44993278-ada7-cb65-4e25-0c35b2145be5,1,1,1.0,d,,False,ordered,Ordered,1.0
+95a02ef8-6c9f-47f6-a28b-c96ad13184fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+98c321ad-9d5d-62d5-5ab8-838791170628,1,1,1.0,d,,False,ordered,Ordered,1.0
+a7ec62d1-3453-034b-422e-b44d2de1651b,1,1,1.0,d,,False,ordered,Ordered,1.0
+06dbf2c6-a7a1-f688-2e7f-d489b7233062,1,1,1.0,d,,False,ordered,Ordered,1.0
+046a3978-f128-ab85-d8e5-220a78ff594e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3535428-bf47-33d1-e7c8-0f516d9826cd,1,1,1.0,d,,False,ordered,Ordered,1.0
+74327341-202f-f452-faa5-748427c60dd0,1,1,1.0,d,,False,ordered,Ordered,1.0
+ec85e46b-535f-a496-4e6d-16a6449c4d1a,1,1,1.0,d,,False,ordered,Ordered,1.0
+2a98e95d-0755-e009-20f4-e98a7b512de0,1,1,1.0,d,,False,ordered,Ordered,1.0
+525a31e1-f6a2-cb84-b975-64ed0c280883,1,1,1.0,d,,False,ordered,Ordered,1.0
+e4789dbe-5592-7d86-34f4-9eb341d7f690,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b4b6812-1ae0-0f3d-765d-39eddb450d90,1,1,1.0,d,,False,ordered,Ordered,1.0
+6dee9c9f-8941-7d24-c19f-1c53932be7da,1,1,1.0,d,,False,ordered,Ordered,1.0
+b40b599e-336e-e009-6d20-362b342887c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+9f8f18c8-01e5-8b0d-c097-0fcd4de5e48d,1,1,1.0,d,,False,ordered,Ordered,1.0
+b5c5e24d-c2be-8a7f-c2ef-8aec36cb6a5c,1,1,1.0,d,,False,ordered,Ordered,1.0
+180bc189-d720-4820-ff2c-e555d31321a0,1,1,1.0,d,,False,ordered,Ordered,1.0
+ff07a28b-d0a7-b4f5-6ffe-e68b1ca183d9,1,1,1.0,d,,False,ordered,Ordered,1.0
+19f40dff-a61f-0423-3275-56e62a1d50ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+7b799fc7-64c2-df29-7c3f-a0bfe03b55c1,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d7df181-80d0-3323-b74c-0d19f655f3ec,1,1,1.0,d,,False,ordered,Ordered,1.0
+b184201e-2c50-86f5-582e-5caef96d5063,1,1,1.0,d,,False,ordered,Ordered,1.0
+46c9827c-576e-b8da-df2e-5147ebdfea72,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce632537-f5b7-ef7b-bcc0-0b1fe4be00e1,1,1,1.0,d,,False,ordered,Ordered,1.0
+014ffb16-a7dc-3639-29f0-d1cf2f7b7d97,1,1,1.0,d,,False,ordered,Ordered,1.0
+98bf8af5-3566-fdd6-7957-b6538042e88e,1,1,1.0,d,,False,ordered,Ordered,1.0
+50588d76-bd72-92d6-ebe6-54195e4f732b,1,1,1.0,d,,False,ordered,Ordered,1.0
+e0c2be98-b8da-a241-5091-f696ebfc9092,1,1,1.0,d,,False,ordered,Ordered,1.0
+0076c258-edbc-46a1-8c3d-00469c31b1ff,1,1,1.0,d,,False,ordered,Ordered,1.0
+bab3712f-55b6-2285-014f-f313d39b7a8b,1,1,1.0,d,,False,ordered,Ordered,1.0
+0c4691c7-5fba-5161-bbf7-a8e291b228d7,1,1,1.0,d,,False,ordered,Ordered,1.0
+d3cb727d-f037-c7f1-c36e-419d2ab49ee5,1,1,1.0,d,,False,ordered,Ordered,1.0
+130eb6a4-ac64-22e8-9c96-971af7d44536,1,1,1.0,d,,False,ordered,Ordered,1.0
+0555a4c5-fab7-9e16-12cc-2ed09ac2b17a,1,1,1.0,d,,False,ordered,Ordered,1.0
+1bac0057-07bb-9f46-e269-f17b0c3c874f,1,1,1.0,d,,False,ordered,Ordered,1.0
+9ff165b1-9c91-e5b6-233b-72da7b232c85,1,1,1.0,d,,False,ordered,Ordered,1.0
+f58cb282-2072-70f3-83d5-84b0ad245266,1,1,1.0,d,,False,ordered,Ordered,1.0
+a3af7ff5-19ef-25b8-d1e1-a3f4eefc36f5,1,1,1.0,d,,False,ordered,Ordered,1.0
+98259cba-2652-6ef5-058f-3dd8ebb1914c,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a7eaf1b-65c2-9526-536a-48974479101a,1,1,1.0,d,,False,ordered,Ordered,1.0
+b9fb3b75-8ac8-18e2-3595-fe6bc65dbe36,1,1,1.0,d,,False,ordered,Ordered,1.0
+e1d19d92-24b1-aaf7-6572-6eaaf5b864eb,1,1,1.0,d,,False,ordered,Ordered,1.0
+f9d41c0f-4655-c415-d3a7-2a1d714e0692,1,1,1.0,d,,False,ordered,Ordered,1.0
+c4ff64ab-b321-4551-0ca3-e9a29958e938,1,1,1.0,d,,False,ordered,Ordered,1.0
+f60ceda8-8ce9-23ff-ee61-15d86257fadd,1,1,1.0,d,,False,ordered,Ordered,1.0
+b5801dac-b425-6d62-6a51-23acaa6e5da9,1,1,1.0,d,,False,ordered,Ordered,1.0
+c90bbac6-1007-4c06-f6d8-a5dfad85e036,1,1,1.0,d,,False,ordered,Ordered,1.0
+8841c3d7-7830-c2de-8ad7-1cf60f91cb43,1,1,1.0,d,,False,ordered,Ordered,1.0
+b40b0895-9e4a-ce9f-6e1e-c82c52b2244e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a1623016-4fdd-b6ad-3d2d-e7da0a6435c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+58e9ddf9-a5b0-ac97-ea95-511cbb52276c,1,1,1.0,d,,False,ordered,Ordered,1.0
+544d738f-09e5-cb6d-9309-559aeadcb2e3,1,1,1.0,d,,False,ordered,Ordered,1.0
+65e85a5f-960c-2ae4-4f5d-dcc09bc76c61,1,1,1.0,d,,False,ordered,Ordered,1.0
+4d2bb4fd-721d-f721-ec36-933949e75bfc,1,1,1.0,d,,False,ordered,Ordered,1.0
+02f47358-eb6f-0b8e-9475-cc12bafd7eaa,1,1,1.0,d,,False,ordered,Ordered,1.0
+fa1cd3bb-2998-1106-f64c-8f14e484427c,1,1,1.0,d,,False,ordered,Ordered,1.0
+7c10e29a-772f-9a2a-6112-e65b18af0640,1,1,1.0,d,,False,ordered,Ordered,1.0
+02c578ea-5068-6d1d-7f0b-3d79ae068097,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f1401f9-82f5-6435-35a3-238f7213c2e0,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c364423-b4d4-51d3-6d23-554f7c6755b2,1,1,1.0,d,,False,ordered,Ordered,1.0
+d58e65db-59fc-8c3e-42c3-a5f0e4d9b632,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd2beb6d-f083-e218-9daf-f266fb5a205e,1,1,1.0,d,,False,ordered,Ordered,1.0
+a40aa8b1-c148-e589-67c3-143d5fe0b9bd,1,1,1.0,d,,False,ordered,Ordered,1.0
+af0cc21e-c5ee-c71e-a8db-2f40fdb5ef12,1,1,1.0,d,,False,ordered,Ordered,1.0
+32dc1277-795a-aec3-dc7b-7f77b5a1bbed,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a2c0f26-34a0-bf13-d3ce-1a7524c36e2f,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f4cd452-c025-ed9d-bf0d-e994f61b82d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+cf1788ec-f67e-f0c8-9282-b46ddd758d45,1,1,1.0,d,,False,ordered,Ordered,1.0
+0def26f6-0b6f-4079-5502-9047285b9b6e,1,1,1.0,d,,False,ordered,Ordered,1.0
+1c835aa1-efd7-ce63-ec6e-875d82a8eb91,1,1,1.0,d,,False,ordered,Ordered,1.0
+f3e4bf74-cd6a-9c4e-1f8e-abab65b3fe79,1,1,1.0,d,,False,ordered,Ordered,1.0
+d1bdfe82-8246-27a3-9501-ce23c41ca9e0,1,1,1.0,d,,False,ordered,Ordered,1.0
+4f471e6d-b5ef-f5c7-760e-e221571e5688,1,1,1.0,d,,False,ordered,Ordered,1.0
+a708c57a-baa4-ae94-a922-30123dde5a12,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7241917-264a-fda9-1097-f55d45d39691,1,1,1.0,d,,False,ordered,Ordered,1.0
+8413e34b-7ff2-da92-5d34-95511e185de3,1,1,1.0,d,,False,ordered,Ordered,1.0
+adecbb95-10a6-700f-187c-5e507e132c7b,1,1,1.0,d,,False,ordered,Ordered,1.0
+58c3182b-aab2-6b20-c03c-51b0c9571547,1,1,1.0,d,,False,ordered,Ordered,1.0
+9c46fea7-6c64-8f2b-5a4e-333f18cbc7ab,1,1,1.0,d,,False,ordered,Ordered,1.0
+db1b3780-877b-4e7c-f089-1c636e5e5e20,1,1,1.0,d,,False,ordered,Ordered,1.0
+1b630601-776f-7a53-6f43-3c02da4eb2ee,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f5f2132-fe7a-fce7-c9d3-a8e352fb4109,1,1,1.0,d,,False,ordered,Ordered,1.0
+9e13f3df-98a1-f609-0241-9e38578678f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+3508d766-6400-3fbb-580d-95627627cc09,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce3a54dd-997c-5b4e-4cc7-8939ed9c8ef1,1,1,1.0,d,,False,ordered,Ordered,1.0
+874ff680-ea64-3acc-c6cd-841fe3c558cc,1,1,1.0,d,,False,ordered,Ordered,1.0
+0e37f16f-2a4f-f02d-fe82-4a9e7b061e6b,1,1,1.0,d,,False,ordered,Ordered,1.0
+4e46c4f5-af8e-7325-5a6a-e44584e7ff16,1,1,1.0,d,,False,ordered,Ordered,1.0
+14f02732-c24a-8600-d28a-a0c9bff244a0,1,1,1.0,d,,False,ordered,Ordered,1.0
+167956c5-c830-0f0a-4c19-51b196178d43,1,1,1.0,d,,False,ordered,Ordered,1.0
+2e152d80-990f-6188-d4d3-3c32b948c450,1,1,1.0,d,,False,ordered,Ordered,1.0
+07cf6652-98cf-50a4-35d7-d0c1ab81dc86,1,1,1.0,d,,False,ordered,Ordered,1.0
+3abf96a6-6a12-a2ea-7e8c-9869cce33252,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f31e5a5-cf93-4081-23b5-7040d33e8d17,1,1,1.0,d,,False,ordered,Ordered,1.0
+62c39783-276a-0631-0b91-f78d16e2d97b,1,1,1.0,d,,False,ordered,Ordered,1.0
+37d0d4cd-55d5-45aa-2015-7dba6b9ab006,1,4,1.0,d,,False,ordered,Ordered,1.0
+2b0698e5-04a4-178d-8b58-bf37705d269c,1,1,1.0,d,,False,ordered,Ordered,1.0
+e9627871-79fb-6ccd-8ad2-2f4e5fcedd43,1,4,1.0,d,,False,ordered,Ordered,1.0
+8b428888-8434-0298-4ad9-e3e320c5cebe,1,1,1.0,d,,False,ordered,Ordered,1.0
+5d90782b-e710-9dc9-ab15-3c7fe64a7338,1,1,1.0,d,,False,ordered,Ordered,1.0
+68c7e9fc-4514-7075-5268-69d8d78cf0f2,1,1,1.0,d,,False,ordered,Ordered,1.0
+5d1dee56-486a-29c5-d845-4ee5d7926115,1,4,1.0,d,,False,ordered,Ordered,1.0
+297f0a08-c50d-b67b-ea91-7d73284beaa6,1,1,1.0,d,,False,ordered,Ordered,1.0
+8fecd010-25c6-1624-a106-497522a6f571,1,1,1.0,d,,False,ordered,Ordered,1.0
+8baca4a3-a5f5-628f-3d7e-3743fa2edb97,1,,,,Take as needed.,True,,,
+1cf83d74-5871-2939-0be6-e5c26b2b5ef0,1,1,1.0,d,,False,ordered,Ordered,1.0
+b2bcddab-becc-399b-f8ef-3337107ec6ea,1,4,1.0,d,,False,ordered,Ordered,1.0
+e7ba7454-4798-6b4f-9b02-f7cd7ec9043a,1,1,1.0,d,,False,ordered,Ordered,1.0
+8b08e64c-4ff3-4680-6549-5b6d21172d2e,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c1098ab-094f-5e54-7fcb-5ae197462ca8,1,1,1.0,d,,False,ordered,Ordered,1.0
+c70bc510-de71-1743-7171-891faebb87f6,1,4,1.0,d,,False,ordered,Ordered,1.0
+22d7c48d-e514-7b8f-a615-c1265c341d0f,1,1,1.0,d,,False,ordered,Ordered,1.0
+571b9b0f-6f4b-4cf5-24c6-d006f0b0ee2d,1,1,1.0,d,,False,ordered,Ordered,1.0
+dbfc4af1-9373-0d56-2efc-cdd3cdb8c33d,1,1,1.0,d,,False,ordered,Ordered,1.0
+019484db-1b90-d628-3075-c8d2b3ca223c,1,4,1.0,d,,False,ordered,Ordered,1.0
+84227ce7-754b-79f0-4dac-c8721017d876,1,1,1.0,d,,False,ordered,Ordered,1.0
+9697c57b-e050-39a9-bc78-adabacfbec18,1,1,1.0,d,,False,ordered,Ordered,1.0
+13a241bf-7b31-1c01-97b5-f2182ecc3c86,1,1,1.0,d,,False,ordered,Ordered,1.0
+bfe8c716-e6cb-0118-4d0c-44cb8f501e9a,1,4,1.0,d,,False,ordered,Ordered,1.0
+9ffa8320-97c5-29ad-9833-c3f22c08baf2,1,1,1.0,d,,False,ordered,Ordered,1.0
+7bb86547-2e1c-0c98-a2af-8149e5669a38,1,1,1.0,d,,False,ordered,Ordered,1.0
+a04f6879-7983-64ca-c194-3a9a7b5c59aa,1,1,1.0,d,,False,ordered,Ordered,1.0
+6555c93e-a183-8f91-1202-49afe89f5e82,1,4,1.0,d,,False,ordered,Ordered,1.0
+e61519fd-ab3f-e084-b1ed-b8f2abc79285,1,1,1.0,d,,False,ordered,Ordered,1.0
+e3f1cc11-f10b-92ac-0b66-ed6556783df0,1,1,1.0,d,,False,ordered,Ordered,1.0
+95ddbafd-a991-97eb-d6d5-958418124c5a,1,1,1.0,d,,False,ordered,Ordered,1.0
+dde26693-7355-59ae-77a5-195c7ce70bdd,1,4,1.0,d,,False,ordered,Ordered,1.0
+b13eefda-c7cd-c3dd-e285-747ad921d63e,1,1,1.0,d,,False,ordered,Ordered,1.0
+02fea315-44d3-5b49-5e00-f75ea22e0f80,1,1,1.0,d,,False,ordered,Ordered,1.0
+b6efb81e-ffc3-ef94-d7d4-c0b96ff787b2,1,,,,Take as needed.,True,,,
+c0d51657-43d3-0aca-89e3-ef0ef10ea8cf,1,,,,Take as needed.,True,,,
+c3e69cff-06ab-a19d-3079-5b93d0206439,1,,,,Take as needed.,True,,,
+e8e8aa94-e225-6b62-31bb-1c3139d2171d,1,1,1.0,d,,False,ordered,Ordered,1.0
+3a886e0b-b2bf-11dd-8994-464932ea2c37,1,1,1.0,d,,False,ordered,Ordered,1.0
+302fe2e5-69c7-e77f-bb28-93efb7e8ff08,1,1,1.0,d,,False,ordered,Ordered,1.0
+2431b08f-f062-a35f-4146-96d7602e89af,1,1,1.0,d,,False,ordered,Ordered,1.0
+09c20218-df4d-47bd-582e-6404e83911b1,1,1,1.0,d,,False,ordered,Ordered,1.0
+58521b67-48fd-6fa1-7588-38b9890b544b,1,1,1.0,d,,False,ordered,Ordered,1.0
+dcefddba-ebc1-cb5f-878f-f75f9a41bfbe,1,1,1.0,d,,False,ordered,Ordered,1.0
+6c349458-e413-2a2c-7d96-b3722df7cbb4,1,1,1.0,d,,False,ordered,Ordered,1.0
+a5493aa6-b67d-72a3-2d33-6b7603db6ee9,1,1,1.0,d,,False,ordered,Ordered,1.0
+8a2aa001-1095-9c59-dd73-f6ff1ac70cee,1,1,1.0,d,,False,ordered,Ordered,1.0
+dfd65305-9d78-5d0a-634b-5be0ae766278,1,1,1.0,d,,False,ordered,Ordered,1.0
+c7442f7a-10b9-23c8-05d6-2296e5f069fc,1,1,1.0,d,,False,ordered,Ordered,1.0
+4b75e8ae-8081-43e9-fffd-847c52bd83ae,1,1,1.0,d,,False,ordered,Ordered,1.0
+68b054e7-108a-5d1c-86bb-ec37611cef83,1,1,1.0,d,,False,ordered,Ordered,1.0
+b06945a2-8b24-894c-21f3-51b189cc91af,1,1,1.0,d,,False,ordered,Ordered,1.0
+b317198e-8b11-9d46-0318-357caa8683f6,1,1,1.0,d,,False,ordered,Ordered,1.0
+7bd9d367-06bc-2419-774c-940c7fa487c3,1,1,1.0,d,,False,ordered,Ordered,1.0
+0cdb331a-ba96-39fc-c32d-100c8624664c,1,1,1.0,d,,False,ordered,Ordered,1.0
+92497a54-6b29-eedc-77ea-f330fa25a796,1,1,1.0,d,,False,ordered,Ordered,1.0
+7f344ab3-74b9-65d5-4d39-076399a19295,1,1,1.0,d,,False,ordered,Ordered,1.0
+e3119821-8f9c-ed88-5fa9-5eac4c9d57c9,1,1,1.0,d,,False,ordered,Ordered,1.0
+b68119d7-81d6-1caf-894b-4016eaa44d78,1,,,,Take as needed.,True,,,
+fecb61ed-1beb-572c-f9f4-1ef44aabc307,1,1,1.0,d,,False,ordered,Ordered,1.0
+025bae81-4730-0dd3-b684-6382217e565f,1,1,1.0,d,,False,ordered,Ordered,1.0
+0ebbbc03-9b8a-1858-6b75-a1c337673cb9,1,1,1.0,d,,False,ordered,Ordered,1.0
+52116ebb-4dee-5a94-6ee5-e0a09f3e5423,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd3ea11e-99c6-b100-54db-707ea0645c8e,1,1,1.0,d,,False,ordered,Ordered,1.0
+408fad5b-c063-4ef9-4dd7-766286a4beb1,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e3628ee-40ce-41af-101c-d4b505657843,1,1,1.0,d,,False,ordered,Ordered,1.0
+8df86fd5-c9ac-c5b6-17d2-92c0d60f9046,1,1,1.0,d,,False,ordered,Ordered,1.0
+6e31e9a6-a1a9-1efe-71b5-63913c4751a6,1,1,1.0,d,,False,ordered,Ordered,1.0
+8217fbb6-57a0-63b3-36ee-a643ea5b607f,1,3,1.0,d,,False,ordered,Ordered,1.0
+426e914d-15f6-06e0-971a-5457a2baa0a1,1,,,,Take as needed.,True,,,
+bbbcc520-8ab7-b445-4940-ee40c5937fec,1,,,,Take as needed.,True,,,
+7d6a03a1-40f5-9b6e-a34b-74a15f46f99a,1,,,,Take as needed.,True,,,
+69aea996-ece6-fb0f-592a-f26e428e30a0,1,,,,Take as needed.,True,,,
+807849fe-0962-517c-7a6a-ca416d80928c,1,,,,Take as needed.,True,,,
+d7065b70-74f7-e785-7213-0993df391ba9,1,,,,Take as needed.,True,,,
+98e91409-5406-b0b0-5bcd-332647e9a960,1,,,,Take as needed.,True,,,
+9b866a73-9575-feb6-74e2-5baa7c9c5086,1,,,,Take as needed.,True,,,
+93ae32eb-9253-1144-241f-2a0effe68f21,1,,,,Take as needed.,True,,,
+a44f242f-ab38-6556-acda-34c90763ba22,1,,,,Take as needed.,True,,,
+c1f139f8-2dff-ff9f-c1ed-c68e8d0e07f8,1,,,,Take as needed.,True,,,
+cb7aecfd-3a53-f2f4-f2ec-dc4e390efcec,1,,,,Take as needed.,True,,,
+b21facb6-1543-c571-6859-cfae118bae76,1,,,,Take as needed.,True,,,
+77bb0e09-6f29-9636-9e22-4164c7f7c7ea,1,,,,Take as needed.,True,,,
+4ec5d36d-44c0-800f-037d-86b3cf01b957,1,,,,Take as needed.,True,,,
+83879768-5fcc-a55e-5ed1-c851ce1cb810,1,,,,Take as needed.,True,,,
+c5825c2b-2305-bf02-c1db-4dfe7fb6baa7,1,,,,Take as needed.,True,,,
+7173ffb0-5684-9631-87d9-6553b5bce59f,1,,,,Take as needed.,True,,,
+fb968dae-6a1f-8e3c-5df3-4e0cd4cf173b,1,,,,Take as needed.,True,,,
+2197e60d-a42d-4d25-2ef3-e92e194b347d,1,,,,Take as needed.,True,,,
+a2a86bba-913c-0b31-6305-9ad131ee81d5,1,,,,Take as needed.,True,,,
+09d6062f-fdfa-db45-a304-73b8b7c5c3ed,1,,,,Take as needed.,True,,,
+671af32e-6614-9a91-f7df-452b80436a31,1,,,,Take as needed.,True,,,
+446b3746-ba88-fafb-7442-daa379f0ad25,1,,,,Take as needed.,True,,,
+4c487859-90ed-b214-d4bf-2e9fdd966968,1,,,,Take as needed.,True,,,
+3436a527-19eb-3e18-4c5b-60f249d49f30,1,,,,Take as needed.,True,,,
+cf3fa1ad-c152-3e6e-1a0b-4e8f28183769,1,,,,Take as needed.,True,,,
+a397c043-2327-32de-32a8-d3a618f8ce74,1,,,,Take as needed.,True,,,
+14dc07b9-95b8-ab87-6076-688e787e5029,1,,,,Take as needed.,True,,,
+9dd17abd-6fce-686e-e723-e60533ded6e0,1,,,,Take as needed.,True,,,
+2d57db7b-101b-9085-1c12-dd56ec3ccf83,1,,,,Take as needed.,True,,,
+5c42d3ac-7a94-7284-b425-9b1a6985b33e,1,,,,Take as needed.,True,,,
+d714edd6-c3bd-ffe9-5ff3-88bce9e2be7e,1,4,1.0,d,,False,ordered,Ordered,1.0
+1c6e5a4d-c4fd-b087-57fc-2f68b6a50bb3,1,4,1.0,d,,False,ordered,Ordered,1.0
+7de70de7-cc92-26ba-f801-144a50ef0e36,1,2,1.0,d,,False,ordered,Ordered,1.0
+89e3dec7-9dc5-e326-98ed-9d06e8ee48d2,1,1,1.0,d,,False,ordered,Ordered,1.0
+d33a0801-5a01-b711-268c-20511750ea26,1,1,1.0,d,,False,ordered,Ordered,1.0
+81b92d68-0443-606b-9553-f9625eaf175b,1,2,1.0,d,,False,ordered,Ordered,1.0
+7635c548-fbb9-2d33-c475-5466a0ecbd49,1,4,1.0,d,,False,ordered,Ordered,1.0
+7bbc84e0-786d-e9ae-3757-c9b49a9e4c19,1,1,3.0,d,,False,ordered,Ordered,1.0
+79c60803-8d6b-e25e-030e-5628623f57ed,1,4,1.0,d,,False,ordered,Ordered,1.0
+2d06d36d-e033-5042-9f14-4f82cd4c2453,1,1,1.0,d,,False,ordered,Ordered,1.0
+a011f713-8b3a-2e54-04ff-415a1b337712,1,4,1.0,d,,False,ordered,Ordered,1.0
+ae97aa66-bd40-72d3-447c-cb5ced056801,1,1,3.0,d,,False,ordered,Ordered,1.0
+57470458-5488-52d5-bb18-70c74e4b6126,1,2,1.0,d,,False,ordered,Ordered,1.0
+a7786e95-e960-86eb-bd43-a605874305b1,1,4,1.0,d,,False,ordered,Ordered,1.0
+5e688f7d-62b3-f788-b071-2d273463b53a,1,1,1.0,d,,False,ordered,Ordered,1.0
+08f63712-928f-0e25-1778-2fbda624fe49,1,4,1.0,d,,False,ordered,Ordered,1.0
+153b3783-6367-2e71-50c1-2d7bfe88057a,1,1,3.0,d,,False,ordered,Ordered,1.0
+b7c8476a-e802-a45e-915c-abeab072feb4,1,2,1.0,d,,False,ordered,Ordered,1.0
+1e26a1e0-e282-9a0b-664f-25976f2439d1,1,4,1.0,d,,False,ordered,Ordered,1.0
+b1ab3b54-fee9-ddbf-4bd7-ce977bc056e2,1,1,1.0,d,,False,ordered,Ordered,1.0
+5a66a6f2-d6c3-f42e-b208-0d2e73ec3abb,1,4,1.0,d,,False,ordered,Ordered,1.0
+79fabf5b-348f-3be1-0b84-1360ed34f2f4,1,1,3.0,d,,False,ordered,Ordered,1.0
+a443a495-b267-8a21-c6fa-c92a7b1d684a,1,2,1.0,d,,False,ordered,Ordered,1.0
+de4d78b7-c744-a1aa-dc6e-6c4f7c199d80,1,4,1.0,d,,False,ordered,Ordered,1.0
+1c323eb4-0f3d-8f6b-0409-463a76fd79d0,1,1,1.0,d,,False,ordered,Ordered,1.0
+49862941-693a-af8c-555b-b3564441d5e0,1,4,1.0,d,,False,ordered,Ordered,1.0
+d5a3ad53-b799-19b7-d108-057ed852160e,1,1,3.0,d,,False,ordered,Ordered,1.0
+8eb257b7-4bb0-3ac0-5998-f8fd781b616f,1,2,1.0,d,,False,ordered,Ordered,1.0
+fd20082b-7d3e-7c55-292f-f836acc8e6bc,1,4,1.0,d,,False,ordered,Ordered,1.0
+fe02ebc2-e4c6-9ebf-68c5-41ff2da47322,1,1,1.0,d,,False,ordered,Ordered,1.0
+9270b725-80f5-a37f-d57d-e51f4751eec2,1,4,1.0,d,,False,ordered,Ordered,1.0
+b69d894b-4411-7b07-c437-cf9050be06eb,1,1,3.0,d,,False,ordered,Ordered,1.0
+20fe26ec-4d2d-53c0-b6b6-9083c637b30b,1,2,1.0,d,,False,ordered,Ordered,1.0
+45a3f9fd-08f5-1c19-1df2-8a4725b93f60,1,4,1.0,d,,False,ordered,Ordered,1.0
+cd44a0a3-bd3f-a214-e843-7dfaea8f1874,1,1,1.0,d,,False,ordered,Ordered,1.0
+cc9214d4-6537-4221-3ad4-e4e149ffc499,1,4,1.0,d,,False,ordered,Ordered,1.0
+0e859202-90af-c61c-8da6-d6ada84a9423,1,1,3.0,d,,False,ordered,Ordered,1.0
+8b8cea27-1708-48a0-9995-bb0f7bf24e74,1,2,1.0,d,,False,ordered,Ordered,1.0
+ae7fb821-e643-56fa-c406-38de92f226be,1,4,1.0,d,,False,ordered,Ordered,1.0
+aa9ebabb-385c-9694-ab88-b3036622630f,1,1,1.0,d,,False,ordered,Ordered,1.0
+bce35154-bc52-0c85-4b2d-cb9b80473a03,1,4,1.0,d,,False,ordered,Ordered,1.0
+cda353f1-c32b-8cc0-a014-483f4d497975,1,1,3.0,d,,False,ordered,Ordered,1.0
+5c75f86c-4eeb-937e-d8ff-5cf0d10d3bdc,1,2,1.0,d,,False,ordered,Ordered,1.0
+ae8b4091-1cd2-ae21-8648-19d205a570c6,1,4,1.0,d,,False,ordered,Ordered,1.0
+bd4b0f33-da4c-1101-8cab-118a10f556fd,1,1,1.0,d,,False,ordered,Ordered,1.0
+2c968fce-982f-1e43-d52c-de89fe9b36ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+ea64ebac-7af7-881d-20ba-db17d09943d9,1,1,1.0,d,,False,ordered,Ordered,1.0
+6bc69147-6ab7-47f1-2110-d930030734bb,1,1,1.0,d,,False,ordered,Ordered,1.0
+1d7110d8-bd1c-f275-d2c5-4b1d5f1b2567,1,1,1.0,d,,False,ordered,Ordered,1.0
+2186c721-c898-c893-5d8b-ad4db1b4db24,1,1,1.0,d,,False,ordered,Ordered,1.0
+c31f3be3-b853-f3e8-3ad4-48d81422950d,1,1,1.0,d,,False,ordered,Ordered,1.0
+17061065-65c3-1348-096d-05f092b9ac91,1,1,1.0,d,,False,ordered,Ordered,1.0
+4ed4a277-4429-83b3-8bcb-7c381ceaa4dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+cad9b6fc-9d35-dad1-eea6-d83db3647c44,1,1,1.0,d,,False,ordered,Ordered,1.0
+e2597024-bbce-f07c-d19e-044d68e9fd81,1,1,1.0,d,,False,ordered,Ordered,1.0
+28c543f5-4f1f-f514-87f0-b13f7f013f11,1,1,1.0,d,,False,ordered,Ordered,1.0
+d6ea59f2-68c6-93c6-343c-da7fe3f22153,1,1,1.0,d,,False,ordered,Ordered,1.0
+63c7a8fa-4796-a604-32d5-58b4f12abbf5,1,1,1.0,d,,False,ordered,Ordered,1.0
+9eb87744-e15f-a77d-82f5-0a5cfd21af0e,1,1,1.0,d,,False,ordered,Ordered,1.0
+086325b9-1596-c44d-b649-c302f5adfb55,1,1,1.0,d,,False,ordered,Ordered,1.0
+de352fe4-e7d7-c516-5e15-6e55caea5279,1,1,1.0,d,,False,ordered,Ordered,1.0
+4b2becad-edb4-eb32-5a4b-d54f32371b6b,1,1,1.0,d,,False,ordered,Ordered,1.0
+4348b324-e214-c178-6d67-081d09d525b4,1,1,1.0,d,,False,ordered,Ordered,1.0
+fd0a76c4-9c7c-7b91-52b0-6180fa20a67f,1,,,,Take as needed.,True,,,
+87a38dc3-0954-c89b-59b6-1ee971b48c66,1,,,,Take as needed.,True,,,
+2e2d1a50-a503-3738-ea0a-352c3486d08d,1,,,,Take as needed.,True,,,
+cb7f2212-cee0-e654-f022-326868b3acf7,1,,,,Take as needed.,True,,,
+39cce4d1-e05d-81c2-bff4-8101a0351c78,1,,,,Take as needed.,True,,,
+0d80707a-9865-01da-f6e9-013ce0531b74,1,1,4.0,h,,False,ordered,Ordered,1.0
+fe28eb76-8afe-f782-451e-066a4158bbfe,1,,,,Take as needed.,True,,,
+6be20f5c-90de-1745-e24f-a25139fef7f3,1,1,1.0,d,,False,ordered,Ordered,1.0
+3b9db08b-6599-3dfd-4cd3-1aece382f072,1,1,1.0,d,,False,ordered,Ordered,1.0
+5b4725a9-e94e-2eda-1bda-e01d7a763df9,1,1,1.0,d,,False,ordered,Ordered,1.0
+5631ea49-02a6-e5f6-f88c-a41ac6582bb4,1,1,1.0,d,,False,ordered,Ordered,1.0
+f7064f64-1130-c57b-0f24-00a57619fd49,1,1,1.0,d,,False,ordered,Ordered,1.0
+524dcd14-ba76-d787-f0f5-0699d3cd4e54,1,1,1.0,d,,False,ordered,Ordered,1.0
+70b4a9ca-f4f8-3df8-f8dd-d003ff8051f7,1,1,1.0,d,,False,ordered,Ordered,1.0
+18a228f5-8545-4ffa-8a24-9a3e631e620e,1,1,1.0,d,,False,ordered,Ordered,1.0
+673cedb4-2b40-1ed8-b856-5a28fadde106,1,1,1.0,d,,False,ordered,Ordered,1.0
+0b2910dd-1bbb-20f7-7fa8-32f788444c12,1,,,,Take as needed.,True,,,
+1aebfe5f-4222-0e99-7d76-9929bd7a9283,1,,,,Take as needed.,True,,,
+96a14881-1826-0706-04b7-8dd50a848e85,1,,,,Take as needed.,True,,,
+1b8e4a91-9a8b-04d1-9094-49c14ac5d256,1,,,,Take as needed.,True,,,
+749ac1f9-1f3c-b861-e5ca-d476d0a5faff,1,,,,Take as needed.,True,,,
+4ea0c44c-5a43-9409-e1cd-e15977676387,1,,,,Take as needed.,True,,,
+b36289a9-01e5-4b48-0223-4e86535df52f,1,,,,Take as needed.,True,,,
+a86f13e1-3bbc-b64a-4660-dd94f78f0be9,1,,,,Take as needed.,True,,,
+6a2a9c9e-f56b-b61e-047b-b5786167ed53,1,,,,Take as needed.,True,,,
+0f6665b8-e530-4e09-08a2-29ebb3adaeaa,1,,,,Take as needed.,True,,,
+ec7b9f82-51bd-3cd5-5acf-6781d75224f9,1,,,,Take as needed.,True,,,
+49013550-5e30-4f6a-f8eb-645c4486615c,1,,,,Take as needed.,True,,,
+1f50aabc-d11b-b659-a3c9-e0e6c0f649b0,1,,,,Take as needed.,True,,,
+08d5a06e-9ca6-b565-7e84-953a7b7aaaff,1,,,,Take as needed.,True,,,
+ff4f80fe-4d6f-2ab1-000e-b38156ec07a9,1,,,,Take as needed.,True,,,
+b2489c45-64ee-f5d1-b6a3-92c605969450,1,,,,Take as needed.,True,,,
+9ff5ab54-4147-3f78-7cc0-3570e7284634,1,,,,Take as needed.,True,,,
+498b00c6-8727-f836-cab6-f45d44131fa9,1,,,,Take as needed.,True,,,
+4d4bc827-9574-016d-5d9f-d2f9d543aca4,1,,,,Take as needed.,True,,,
+0ac66e87-0db0-3ddd-33cc-df1d9ce22d3f,1,,,,Take as needed.,True,,,
+007bff27-3d0a-b7b7-349a-43efcb28cd32,1,,,,Take as needed.,True,,,
+fe1a25dd-d08a-e6cf-e1b8-58a7ab594be5,1,,,,Take as needed.,True,,,
+dac6c06b-a1cf-9896-11d8-18301c4c1f5a,1,,,,Take as needed.,True,,,
+c8a54f78-cd8a-f2d2-74fe-722fcd59baa3,1,,,,Take as needed.,True,,,
+f4794f2d-3f9e-44d4-a6b1-9ae606c9461b,1,,,,Take as needed.,True,,,
+f2460d69-6ea0-4355-7a86-660d52ca9a76,1,,,,Take as needed.,True,,,
+986ee837-eb12-1dae-6bec-e7d7a5c1248b,1,,,,Take as needed.,True,,,
+84afbadf-b6a4-c1d1-0e58-af294bc0bb45,1,,,,Take as needed.,True,,,
+2918d2be-0254-5264-9f5c-ff862393c12a,1,,,,Take as needed.,True,,,
+e9f152f3-3b20-1ec6-9bb1-2925d7975308,1,,,,Take as needed.,True,,,
+7f5c2f03-4f4d-bdbf-5c6b-086c3765d39d,1,,,,Take as needed.,True,,,
+5c9b0e90-4a1b-64f5-e3e0-27ecedfd56c8,1,,,,Take as needed.,True,,,
+06f2e27b-e53d-09dc-8897-0a1e010ebe1e,1,,,,Take as needed.,True,,,
+0bbdf20d-f369-a45d-b0fd-5b2f0b516ecf,1,,,,Take as needed.,True,,,
+ed3b5839-bc73-0ad2-b6d9-dab8f25c6025,1,,,,Take as needed.,True,,,
+bce9abc3-ceed-d901-013a-0cff71b1d2f2,1,,,,Take as needed.,True,,,
+521bcee9-8066-8f71-56d3-8e9fca67b493,1,,,,Take as needed.,True,,,
+cc6b314d-311a-b9a4-785e-5f3e25b12e90,1,,,,Take as needed.,True,,,
+77c9cc09-8494-97c5-9956-c687bb11121e,1,,,,Take as needed.,True,,,
+c0cf8220-80b4-00f5-46f7-55e15864862c,1,,,,Take as needed.,True,,,
+787ab23e-1ffa-0471-c4bd-d934a8a5e715,1,,,,Take as needed.,True,,,
+4f6c8c71-0c48-cbc1-1988-5e13644c210c,1,,,,Take as needed.,True,,,
+956e7c2f-2586-53a6-96fd-a4146df0e031,1,,,,Take as needed.,True,,,
+aa9c24c1-b340-f204-a18f-45d90fc70f4b,1,,,,Take as needed.,True,,,
+560371bb-b24d-19e2-8ef8-d4a2234232d4,1,1,1.0,d,,False,ordered,Ordered,1.0
+10b37ac5-f5f4-e974-ea1c-83defb99feaa,1,1,1.0,d,,False,ordered,Ordered,1.0
+dfd9eaa4-666c-6ffc-a72f-6ac2ee87024c,1,1,1.0,d,,False,ordered,Ordered,1.0
+2711833b-46de-c034-6f52-b5a23077bd50,1,1,1.0,d,,False,ordered,Ordered,1.0
+2de3e43d-addc-1cc0-17e2-ef2a43417044,1,1,1.0,d,,False,ordered,Ordered,1.0
+50a2a71f-823b-becd-fc5e-91b0c19b71e4,1,1,1.0,d,,False,ordered,Ordered,1.0
+5ed547eb-f1af-16ed-d823-8d70b8fadee9,1,1,1.0,d,,False,ordered,Ordered,1.0
+5eab2230-dd00-2fe2-31cd-4ccd4c775ee9,1,1,1.0,d,,False,ordered,Ordered,1.0
+39806b6e-5f9e-4e59-c11c-b0580a00ae05,1,1,1.0,d,,False,ordered,Ordered,1.0
+2c5233a0-9c82-b53a-0bdb-b01fdbc6672a,1,1,1.0,d,,False,ordered,Ordered,1.0
+38666ec7-f31e-26d9-911a-14cd8c02fb33,1,1,1.0,d,,False,ordered,Ordered,1.0
+85a8d446-3779-bd6a-f328-9349df877176,1,1,1.0,d,,False,ordered,Ordered,1.0
+c07d9db3-9f45-023e-9795-2b8843968aa0,1,1,1.0,d,,False,ordered,Ordered,1.0
+dace51ed-2d43-4b7e-cc66-5c646f4ec1cb,1,1,1.0,d,,False,ordered,Ordered,1.0
+628a652c-390e-bea9-55ae-9fd54c5409ad,1,1,1.0,d,,False,ordered,Ordered,1.0
+375412df-c7ff-e8f2-cdf7-354b56558cad,1,,,,Take as needed.,True,,,
+09eede31-8fd1-937f-7c66-491d6e4dd4ce,1,1,1.0,d,,False,ordered,Ordered,1.0
+f34fe602-b592-3ee8-1013-0630c28f905a,1,,,,Take as needed.,True,,,
+0719b611-24da-0763-9b9b-997e069a5dd1,1,1,1.0,d,,False,ordered,Ordered,1.0
+ec440896-2e47-0960-71ee-a924fea3b705,1,1,1.0,d,,False,ordered,Ordered,1.0
+c77f4bda-2edb-a132-52c4-7bc228e942fd,1,1,1.0,d,,False,ordered,Ordered,1.0
+8b6410a6-7037-7f64-77a4-a794f9948359,1,1,1.0,d,,False,ordered,Ordered,1.0
+7244d641-7531-3bc0-93fd-390b142452a8,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6041645-a61a-9754-4db9-7dd6105c7ce2,1,1,1.0,d,,False,ordered,Ordered,1.0
+a8374a66-9e6a-4c8e-f237-ecfde8716c1c,1,1,1.0,d,,False,ordered,Ordered,1.0
+45930646-b747-822e-1799-cd81c4edc114,1,1,1.0,d,,False,ordered,Ordered,1.0
+78e7eb00-e778-8655-68f5-56678646f246,1,1,1.0,d,,False,ordered,Ordered,1.0
+447fd84f-5009-1af4-0d3e-4314729cbd9f,1,1,1.0,d,,False,ordered,Ordered,1.0
+81f7f4ff-4568-51bb-fd5c-349857225035,1,1,1.0,d,,False,ordered,Ordered,1.0
+1540f0a5-5f92-b5c7-b7d2-9fc942560457,1,1,1.0,d,,False,ordered,Ordered,1.0
+cd21530a-bbaa-fb87-c57f-1e1e873ac875,1,1,1.0,d,,False,ordered,Ordered,1.0
+704ed4df-8c36-f01d-eb3d-7006ff21fd14,1,1,1.0,d,,False,ordered,Ordered,1.0
+590657ac-1597-93f9-61f5-30dcc8b7bab9,1,1,1.0,d,,False,ordered,Ordered,1.0
+c92844fc-bac1-12eb-4e5c-134cdfdfb99c,1,1,1.0,d,,False,ordered,Ordered,1.0
+29a5ed08-eb95-39ff-3f69-b21e7fc943ac,1,1,1.0,d,,False,ordered,Ordered,1.0
+a2986c9f-0157-ba19-d2e2-6e95876f6cbf,1,1,1.0,d,,False,ordered,Ordered,1.0
+1337963f-bc8e-423f-e3c2-ed9c5faa9ba6,1,1,1.0,d,,False,ordered,Ordered,1.0
+93bcc9a2-1e07-57fa-c8e6-7727adf833fb,1,1,1.0,d,,False,ordered,Ordered,1.0
+4b4ee67f-480f-dec6-e8a5-f1dd8bcbc0e6,1,1,1.0,d,,False,ordered,Ordered,1.0
+735b1998-5ffc-275a-7eb8-790cf9dfc64f,1,1,1.0,d,,False,ordered,Ordered,1.0
+c95ede9d-5fe2-2ba1-3cea-2b6059f78587,1,1,1.0,d,,False,ordered,Ordered,1.0
+e7cb9982-9a6d-de09-a166-ed0fb3a0df09,1,1,1.0,d,,False,ordered,Ordered,1.0
+e194d884-4dde-10a7-8395-d0e15b02e2bf,1,1,1.0,d,,False,ordered,Ordered,1.0
+37335f2b-1252-1b87-ff59-8b59c82091f0,1,1,1.0,d,,False,ordered,Ordered,1.0
+b64a20fa-5709-174e-da28-6de1f613f807,1,1,1.0,d,,False,ordered,Ordered,1.0
+8ef6940b-72fe-0d83-df97-bec27e657c38,1,1,1.0,d,,False,ordered,Ordered,1.0
+7c92bd78-68bc-8f3d-e96a-0662fae83999,1,1,1.0,d,,False,ordered,Ordered,1.0
+c8ad88e8-e77d-e0bf-b63e-4043b091dc4e,1,1,1.0,d,,False,ordered,Ordered,1.0
+bdec0f30-4ee0-3b35-3189-6d47f0b4f2eb,1,1,1.0,d,,False,ordered,Ordered,1.0
+ee1b8fb7-8a55-6137-5015-b75f4e3b2459,1,1,1.0,d,,False,ordered,Ordered,1.0
+886b12db-829d-b48a-e4e2-89dc37adfa1c,1,1,1.0,d,,False,ordered,Ordered,1.0
+b101d427-72a7-4b97-c2cc-8e95e1508f0d,1,1,1.0,d,,False,ordered,Ordered,1.0
+53d44ccb-52d2-abcf-8ec3-4f9103abdb73,1,1,1.0,d,,False,ordered,Ordered,1.0
+1f0b944d-6e86-c711-29c0-fd203ef82af6,1,1,1.0,d,,False,ordered,Ordered,1.0
+e235b97f-7c56-35fc-8405-04bcf00eafeb,1,1,1.0,d,,False,ordered,Ordered,1.0
+f8ec61cf-0f14-630b-78fc-4d75c7d7a66b,1,1,1.0,d,,False,ordered,Ordered,1.0
+7797920d-efc3-23c6-1970-12224b47cbe0,1,1,1.0,d,,False,ordered,Ordered,1.0
+13daecbc-0f60-4945-4342-dac62eed006a,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c038345-63c3-9ffe-e87f-4fde733bec5b,1,1,1.0,d,,False,ordered,Ordered,1.0
+d48fefdc-8a5e-3ad4-1b34-93d68cbcd768,1,1,1.0,d,,False,ordered,Ordered,1.0
+f5ea816a-a7a8-05f2-3c83-d7f7a0ef3b9c,1,1,1.0,d,,False,ordered,Ordered,1.0
+1197956d-e306-4e5b-e2a9-55269936ba1a,1,1,1.0,d,,False,ordered,Ordered,1.0
+efb6cd2e-eb59-cd34-09b8-588cacd1d67e,1,1,1.0,d,,False,ordered,Ordered,1.0
+3d7e3001-f192-5770-851c-23745df5fa91,1,1,1.0,d,,False,ordered,Ordered,1.0
+063325a8-32a2-2cde-0235-d3318af5cdbd,1,1,1.0,d,,False,ordered,Ordered,1.0
+a6132371-dbf3-fc24-35c2-a5f9568f5d0c,1,1,1.0,d,,False,ordered,Ordered,1.0
+70cb5436-39fe-9e68-9e87-5b81938cb67c,1,1,1.0,d,,False,ordered,Ordered,1.0
+f9dfff83-80c7-51c8-fb93-60a77b5e3785,1,1,1.0,d,,False,ordered,Ordered,1.0
+d6a8636b-aeaf-0533-bccf-7837cbd71a3c,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f581b32-1fd5-bf99-bfe3-4029bfe9d0cf,1,1,1.0,d,,False,ordered,Ordered,1.0
+afdcd033-06df-21f2-bc2e-5280c421aab0,1,1,1.0,d,,False,ordered,Ordered,1.0
+310765b7-3a96-43c1-aebc-f1c9565186de,1,1,1.0,d,,False,ordered,Ordered,1.0
+7ae6f9cb-4ec1-f33c-78a9-f4ced417623b,1,1,1.0,d,,False,ordered,Ordered,1.0
+405df578-918a-3182-7f3e-57c134cdcf30,1,1,1.0,d,,False,ordered,Ordered,1.0
+e53739dd-47d6-8f01-34c3-1612b9eb2753,1,1,1.0,d,,False,ordered,Ordered,1.0
+b11bcd77-47fe-3c0e-1d79-038eea798dc3,1,1,1.0,d,,False,ordered,Ordered,1.0
+5479bc5b-28bc-947b-597f-d844179b8e1b,1,1,1.0,d,,False,ordered,Ordered,1.0
+688412c3-468c-4f68-3993-a92db40fd71c,1,1,1.0,d,,False,ordered,Ordered,1.0
+62d6a30c-311e-b5d0-176b-11e10f4fb1b5,1,1,1.0,d,,False,ordered,Ordered,1.0
+709b6f50-0364-e85f-8a69-6650f755af52,1,1,1.0,d,,False,ordered,Ordered,1.0
+a5908ee0-0151-2662-8df4-3a0994d6c51d,1,1,1.0,d,,False,ordered,Ordered,1.0
+86a22500-99f7-8453-014d-b481eddd51e7,1,1,1.0,d,,False,ordered,Ordered,1.0
+d8c47fa6-8ebd-4431-c15a-2c6da85218b3,1,1,1.0,d,,False,ordered,Ordered,1.0
+2d1ec256-2f18-1df6-51d3-7f05c7306ba1,1,1,1.0,d,,False,ordered,Ordered,1.0
+0e5e4a24-8f1a-5d62-5554-89a42a12b230,1,1,1.0,d,,False,ordered,Ordered,1.0
+ce3fd295-a80e-b2be-5255-ec12dddb2acf,1,1,1.0,d,,False,ordered,Ordered,1.0
+ddfdece5-211e-2ae3-8be6-1efcfe1da11a,1,1,1.0,d,,False,ordered,Ordered,1.0
+3a232613-93a4-8a6b-f2c3-6fa8c0dbda7e,1,,,,Take as needed.,True,,,
+71fb2481-2504-bd5b-a218-5ef1993fcdea,1,1,6.0,h,,False,ordered,Ordered,1.0
+94b02dbf-cc71-599f-4243-f9a37cb882d6,1,1,1.0,d,,False,ordered,Ordered,1.0
+a14a8e11-4609-dd0d-f07e-85d9a748fa16,1,1,1.0,d,,False,ordered,Ordered,1.0
+0d87a476-9bac-68b4-c252-e99a9471e0d5,1,1,1.0,d,,False,ordered,Ordered,1.0
+17b4ebb8-4950-a79c-d98d-0820206d3a45,1,,,,Take as needed.,True,,,
+c89d579b-879a-b337-3a71-78c6639a0fbc,1,1,1.0,d,,False,ordered,Ordered,1.0
+7134cc51-8a8d-3f61-1177-5c2e272041cc,1,1,1.0,d,,False,ordered,Ordered,1.0
+e471fc5d-0043-e1a5-dcba-cabd7b636332,1,1,1.0,d,,False,ordered,Ordered,1.0
+a712ec5f-b71c-8e6e-898f-38d710e4fbe8,1,1,1.0,d,,False,ordered,Ordered,1.0
+542b64e1-f715-bf4d-117f-51259863b8c8,1,1,1.0,d,,False,ordered,Ordered,1.0
+e6d6e1af-451e-e96a-3d5f-7e2969acff37,1,1,1.0,d,,False,ordered,Ordered,1.0
+6f0a3ea5-5686-0abc-7e59-45e364688bb7,1,1,1.0,d,,False,ordered,Ordered,1.0
+fdcf2171-1ba1-016d-fd7b-0084f9a045dc,1,1,1.0,d,,False,ordered,Ordered,1.0
+c3cce228-681b-4a78-c357-4bfab79d2cc0,1,1,1.0,d,,False,ordered,Ordered,1.0
+5c2be22f-8369-caa3-7206-0a2ce1523bbd,1,,,,Take as needed.,True,,,
+b57a050b-ecb4-2e2f-b6b3-856351239ba5,1,,,,Take as needed.,True,,,
+011d78eb-5a93-0771-bbd9-86ed2c9051d6,1,,,,Take as needed.,True,,,
+2e8da38e-8ae9-54a1-d4eb-bb54f7906860,1,,,,Take as needed.,True,,,
